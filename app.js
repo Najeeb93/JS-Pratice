@@ -14,7 +14,12 @@
 // var check = arr.indexOf("osama")
 // document.write(check)
 
+// var arr = ["asad","saad","osama","jalal","osama"];
+
+// var check = arr.indexOf("osama",3)
+// document.write(check)
+
 var arr = ["asad","saad","osama","jalal","osama"];
 
-var check = arr.indexOf("osama",3)
+var check = arr.lastIndexOf("osama")
 document.write(check)

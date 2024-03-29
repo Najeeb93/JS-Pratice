@@ -32,7 +32,8 @@
 // var check = str.charAt(6);
 // console.log(check);
 
-var str = 'hello world';
-var rep = str.replace('world','pakistan');
+// var str = 'hello world';
+// var rep = str.replace('world','pakistan');
 
-document.write(rep);
+// document.write(rep);
+

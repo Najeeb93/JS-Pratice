@@ -19,7 +19,11 @@
 // var check = arr.indexOf("osama",3)
 // document.write(check)
 
-var arr = ["asad","saad","osama","jalal","osama"];
+// var arr = ["asad","saad","osama","jalal","osama"];
 
-var check = arr.lastIndexOf("osama")
-document.write(check)
+// var check = arr.lastIndexOf("osama")
+// document.write(check)
+
+var str = 'rehman'
+var check = str.charAt(2)
+document.write(check);

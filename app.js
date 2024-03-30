@@ -37,3 +37,30 @@
 
 // document.write(rep);
 
+
+// var daysNames = ["sunday","monday","tuesday","wednesday","thursday","friday","saturday"]
+// var day = new Date().getDay()
+// document.write(daysNames[day])
+
+// var eid = prompt("enter your date of birth");
+// var dobmili = new Date("16 june , 2024").getTime()
+// var currentdate = new Date().getTime()
+// var actuall = dobmili - currentdate
+// var covert = Math.floor(actuall / (86400000))
+// document.write(covert + " days left")
+
+
+var customerName = prompt( "Please enter your name" );
+currentMonth = prompt("Enter the month");
+numberOfunits = prompt("Enter number of units");
+chargersPerunits = prompt("How many chargers are in one unit?");
+
+netAmountpayable = numberOfunits*chargersPerunits;
+
+latePaymentCharges = 500;
+
+grossAmountPayable = netAmountpayable + latePaymentCharges; 
+
+document.write(customerName+currentMonth+numberOfunits+chargersPerunits+"<br>");
+document.write("Net Amount Payable is : "+netAmountpayable+"<br>");
+document.write("Gross amount  payable is: "+ grossAmountPayable);

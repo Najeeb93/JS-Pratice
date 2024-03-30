@@ -65,6 +65,10 @@
 // document.write("Net Amount Payable is : "+netAmountpayable+"<br>");
 // document.write("Gross amount  payable is: "+ grossAmountPayable);
 
-var day = new Date();
+// var day = new Date();
 
-console.log(day)
+// console.log(day)
+
+var day = new Date(2020,11,5);
+
+document.write(day)

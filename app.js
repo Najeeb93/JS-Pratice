@@ -50,17 +50,17 @@
 // document.write(covert + " days left")
 
 
-var customerName = prompt( "Please enter your name" );
-currentMonth = prompt("Enter the month");
-numberOfunits = prompt("Enter number of units");
-chargersPerunits = prompt("How many chargers are in one unit?");
+// var customerName = prompt( "Please enter your name" );
+// currentMonth = prompt("Enter the month");
+// numberOfunits = prompt("Enter number of units");
+// chargersPerunits = prompt("How many chargers are in one unit?");
 
-netAmountpayable = numberOfunits*chargersPerunits;
+// netAmountpayable = numberOfunits*chargersPerunits;
 
-latePaymentCharges = 500;
+// latePaymentCharges = 500;
 
-grossAmountPayable = netAmountpayable + latePaymentCharges; 
+// grossAmountPayable = netAmountpayable + latePaymentCharges; 
 
-document.write(customerName+currentMonth+numberOfunits+chargersPerunits+"<br>");
-document.write("Net Amount Payable is : "+netAmountpayable+"<br>");
-document.write("Gross amount  payable is: "+ grossAmountPayable);
+// document.write(customerName+currentMonth+numberOfunits+chargersPerunits+"<br>");
+// document.write("Net Amount Payable is : "+netAmountpayable+"<br>");
+// document.write("Gross amount  payable is: "+ grossAmountPayable);

@@ -64,3 +64,7 @@
 // document.write(customerName+currentMonth+numberOfunits+chargersPerunits+"<br>");
 // document.write("Net Amount Payable is : "+netAmountpayable+"<br>");
 // document.write("Gross amount  payable is: "+ grossAmountPayable);
+
+var day = new Date();
+
+console.log(day)

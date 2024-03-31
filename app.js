@@ -73,6 +73,11 @@
 
 // document.write(day)
 
-var showDate = new Date();
+// var showDate = new Date();
 
-document.write(showDate)
+// document.write(showDate)
+
+var days = ['sun','mon','tues', 'wed','thur','fri','sat']
+var todaysDay = new Date().getDate()
+
+document.write(days[todaysDay])

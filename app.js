@@ -73,3 +73,6 @@
 
 // document.write(day)
 
+var showDate = new Date();
+
+document.write(showDate)

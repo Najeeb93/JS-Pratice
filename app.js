@@ -69,6 +69,7 @@
 
 // console.log(day)
 
-var day = new Date(2020,11,5);
+// var day = new Date(2020,11,5);
 
-document.write(day)
+// document.write(day)
+

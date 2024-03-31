@@ -77,7 +77,17 @@
 
 // document.write(showDate)
 
-var days = ['sun','mon','tues', 'wed','thur','fri','sat']
-var todaysDay = new Date().getDate()
+// var days = ['sun','mon','tues', 'wed','thur','fri','sat']
+// var todaysDay = new Date().getDate()
 
-document.write(days[todaysDay])
+// document.write(days[todaysDay])
+
+var dob = new Date('12 sep, 1999').getTime()
+
+var todaysDate = new Date().getTime()
+
+var minusDate = todaysDate - dob
+
+var convertAge = minusDate / (1000 * 60 * 60 * 24 * 365)
+
+document.write(Math.floor (convertAge))

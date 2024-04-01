@@ -103,17 +103,20 @@
 //     document.write("<br>")
 // }
 
-var city = prompt("Enter your City");
+// var city = prompt("Enter your City");
 
-var arr = ["karachi","hyderabad","quetta"];
-city  = city.toLowerCase();
-for(var i = 0; i < arr.length; i++){
-    if(arr[i] === city){
-        alert("city has found")
-}
-else{
-    alert("city has not found")
-}
-}
+// var arr = ["karachi","hyderabad","quetta"];
+// city  = city.toLowerCase();
+// for(var i = 0; i < arr.length; i++){
+//     if(arr[i] === city){
+//         alert("city has found")
+// }
+// else{
+//     alert("city has not found")
+// }
+// }
 
+var num = 20;
 
+var  strNum = num.toString();
+document.write(strNum);

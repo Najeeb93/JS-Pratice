@@ -82,12 +82,16 @@
 
 // document.write(days[todaysDay])
 
-var dob = new Date('12 sep, 1999').getTime()
+// var dob = new Date('12 sep, 1999').getTime()
 
-var todaysDate = new Date().getTime()
+// var todaysDate = new Date().getTime()
 
-var minusDate = todaysDate - dob
+// var minusDate = todaysDate - dob
 
-var convertAge = minusDate / (1000 * 60 * 60 * 24 * 365)
+// var convertAge = minusDate / (1000 * 60 * 60 * 24 * 365)
 
-document.write(Math.floor (convertAge))
+// document.write(Math.floor (convertAge))
+
+var date = new Date()
+
+document.write(date)

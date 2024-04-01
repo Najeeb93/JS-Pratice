@@ -120,3 +120,7 @@
 
 // var  strNum = num.toString();
 // document.write(strNum);
+
+var d = new Date("2015");
+
+document.write(d)

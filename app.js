@@ -125,8 +125,11 @@
 
 // document.write(d)
  
+// var d = new Date();
+// d.getMonth();
+
+// document.write(d)
+
 var d = new Date();
-d.getMonth();
-
+d.setFullYear(2020,11,3)
 document.write(d)
-

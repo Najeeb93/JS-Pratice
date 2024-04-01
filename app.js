@@ -116,7 +116,7 @@
 // }
 // }
 
-var num = 20;
+// var num = 20;
 
-var  strNum = num.toString();
-document.write(strNum);
+// var  strNum = num.toString();
+// document.write(strNum);

@@ -171,7 +171,20 @@
 
 // console.log(Array.isArray(seas))
 
-var userInput = prompt("Enter a string");
-lastChar = userInput.charAt(userInput.length-1);
+// var userInput = prompt("Enter a string");
+// lastChar = userInput.charAt(userInput.length-1);
 
-document.write("The last character of the string is: " + lastChar)
+// document.write("The last character of the string is: " + lastChar)
+
+///------DATE METHOD PRATICE-----//
+
+// var d = Date .parse("jan 1,2024");
+
+// document.write(d)
+
+// Question 2 //
+
+var currentDate = new Date();
+
+var currentMonth = ['january','february','march','april','may','june','july','august','september','october','november','december'][currentDate.getMonth()];
+alert("Current month: "+ currentMonth)

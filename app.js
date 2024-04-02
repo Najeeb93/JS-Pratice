@@ -142,6 +142,10 @@
 
 // document.write(str.toUpperCase());
 
+// var str = 'najeeb ahmed';
+
+// document.write(str.slice(0,6))
+
 var str = 'najeeb ahmed';
 
-document.write(str.slice(0,6))
+document.write(str.indexOf('ahmed'))

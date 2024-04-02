@@ -152,8 +152,19 @@
 
 // Logical not operator ! //
 
-var eligible = false;
-var required = true;
+// var eligible = false;
+// var required = true;
 
-console.log(!eligible);
-console.log(!required);
+// console.log(!eligible);
+// console.log(!required);
+
+var mountains = ['Everest','Fuji','Nanga Parbat'];
+mountains[2] = 'K2'
+
+console.log(mountains);
+
+var seas = ['Black Sea','Caribbean','North Sea','Baltic Sea'];
+
+seas.push('Red Sea');
+
+console.log(seas)

@@ -146,6 +146,14 @@
 
 // document.write(str.slice(0,6))
 
-var str = 'najeeb ahmed';
+// var str = 'najeeb ahmed';
 
-document.write(str.indexOf('ahmed'))
+// document.write(str.indexOf('ahmed'))
+
+// Logical not operator ! //
+
+var eligible = false;
+var required = true;
+
+console.log(!eligible);
+console.log(!required);

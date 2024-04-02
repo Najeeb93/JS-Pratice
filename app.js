@@ -134,6 +134,10 @@
 // d.setFullYear(2020,11,3)
 // document.write(d)
 
-var str = 'NAJEEB AHMED'
+// var str = 'NAJEEB AHMED'
 
-document.write(str.toLowerCase());
+// document.write(str.toLowerCase());
+
+var str = 'najeeb ahmed';
+
+document.write(str.toUpperCase());

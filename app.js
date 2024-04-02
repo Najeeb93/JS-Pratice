@@ -163,10 +163,15 @@
 
 // console.log(mountains);
 
-var seas = ['Black Sea','Caribbean','North Sea','Baltic Sea'];
+// var seas = ['Black Sea','Caribbean','North Sea','Baltic Sea'];
 
-seas.push('Red Sea',);
+// seas.push('Red Sea',);
 
 // console.log(seas)
 
-console.log(Array.isArray(seas))
+// console.log(Array.isArray(seas))
+
+var userInput = prompt("Enter a string");
+lastChar = userInput.charAt(userInput.length-1);
+
+document.write("The last character of the string is: " + lastChar)

@@ -130,6 +130,10 @@
 
 // document.write(d)
 
-var d = new Date();
-d.setFullYear(2020,11,3)
-document.write(d)
+// var d = new Date();
+// d.setFullYear(2020,11,3)
+// document.write(d)
+
+var str = 'NAJEEB AHMED'
+
+document.write(str.toLowerCase());

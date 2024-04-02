@@ -158,13 +158,15 @@
 // console.log(!eligible);
 // console.log(!required);
 
-var mountains = ['Everest','Fuji','Nanga Parbat'];
-mountains[2] = 'K2'
+// var mountains = ['Everest','Fuji','Nanga Parbat'];
+// mountains[2] = 'K2'
 
-console.log(mountains);
+// console.log(mountains);
 
 var seas = ['Black Sea','Caribbean','North Sea','Baltic Sea'];
 
-seas.push('Red Sea');
+seas.push('Red Sea',);
 
-console.log(seas)
+// console.log(seas)
+
+console.log(Array.isArray(seas))

@@ -184,7 +184,7 @@
 
 // Question 2 //
 
-var currentDate = new Date();
+// var currentDate = new Date();
 
-var currentMonth = ['january','february','march','april','may','june','july','august','september','october','november','december'][currentDate.getMonth()];
-alert("Current month: "+ currentMonth)
+// var currentMonth = ['january','february','march','april','may','june','july','august','september','october','november','december'][currentDate.getMonth()];
+// alert("Current month: "+ currentMonth)

@@ -188,3 +188,10 @@
 
 // var currentMonth = ['january','february','march','april','may','june','july','august','september','october','november','december'][currentDate.getMonth()];
 // alert("Current month: "+ currentMonth)
+
+
+var date = new Date(2016, 1, 28);
+
+date.setDate(date.getDate()+2);
+
+document.write(date)

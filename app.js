@@ -199,3 +199,7 @@
 // var date = new Date(2023, 0);
 
 // document.write(date)
+
+var date = new Date(9,11,24);
+
+document.write(date)

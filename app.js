@@ -196,6 +196,6 @@
 
 // document.write(date)
 
-var date = new Date(2023, 0);
+// var date = new Date(2023, 0);
 
-document.write(date)
+// document.write(date)

@@ -200,6 +200,6 @@
 
 // document.write(date)
 
-var date = new Date(9,11,24);
+// var date = new Date(9,11,24);
 
-document.write(date)
+// document.write(date);

@@ -208,3 +208,8 @@ var userName = prompt("Please enter your username");
 
 var specialSymbols = ["@",".",","];
 
+for(var i = 0; i < specialSymbols.length; i++){
+    if(userName.includes(specialSymbols[i])){
+        
+    }
+}

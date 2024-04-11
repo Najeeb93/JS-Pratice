@@ -210,6 +210,9 @@ var specialSymbols = ["@",".",","];
 
 for(var i = 0; i < specialSymbols.length; i++){
     if(userName.includes(specialSymbols[i])){
-        
+        userName = prompt("Your username contains a special symbol. Please enter a valid username:");
     }
 }
+var storedUsername = userName;
+
+document.write("Your username is:  " + storedUsername);

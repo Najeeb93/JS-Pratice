@@ -203,3 +203,8 @@
 // var date = new Date(9,11,24);
 
 // document.write(date);
+
+var userName = prompt("Please enter your username");
+
+var specialSymbols = ["@",".",","];
+

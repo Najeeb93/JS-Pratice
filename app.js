@@ -219,8 +219,8 @@
 
 // while loop //
 
-var b = 0;
-while(b<10){
-    console.log(b);
-    b++;    
-}
+// var b = 0;
+// while(b<10){
+//     console.log(b);
+//     b++;    
+// }

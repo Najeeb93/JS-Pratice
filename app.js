@@ -204,15 +204,23 @@
 
 // document.write(date);
 
-var userName = prompt("Please enter your username");
+// var userName = prompt("Please enter your username");
 
-var specialSymbols = ["@",".",","];
+// var specialSymbols = ["@",".",","];
 
-for(var i = 0; i < specialSymbols.length; i++){
-    if(userName.includes(specialSymbols[i])){
-        userName = prompt("Your username contains a special symbol. Please enter a valid username:");
-    }
+// for(var i = 0; i < specialSymbols.length; i++){
+//     if(userName.includes(specialSymbols[i])){
+//         userName = prompt("Your username contains a special symbol. Please enter a valid username:");
+//     }
+// }
+// var storedUsername = userName;
+
+// document.write("Your username is:  " + storedUsername);
+
+// while loop //
+
+var b = 0;
+while(b<10){
+    console.log(b);
+    b++;
 }
-var storedUsername = userName;
-
-document.write("Your username is:  " + storedUsername);

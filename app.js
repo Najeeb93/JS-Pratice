@@ -224,3 +224,6 @@
 //     console.log(b);
 //     b++;    
 // }
+
+var fruits = ["Apple","Banana","Mango","Orange","Papaya"];
+

@@ -235,3 +235,9 @@
 
 // document.write(fruits[fruits.length - 1])
 
+
+var colors = ["Red","Green","Blue"];
+
+var removed = colors.splice(0,1);
+
+document.write(colors)

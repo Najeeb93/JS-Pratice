@@ -227,3 +227,4 @@
 
 var fruits = ["Apple","Banana","Mango","Orange","Papaya"];
 
+document.write(fruits[0]);

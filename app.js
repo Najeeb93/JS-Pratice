@@ -242,7 +242,14 @@
 
 // document.write(colors);
 
-var colors = ["Red","Green","Blue"];
+// var colors = ["Red","Green","Blue"];
 
 // document.write(colors.join());
-document.write(colors.join(""));
+// document.write(colors.join(""));
+
+var i = 1;
+
+while(i <= 5){
+    document.write("<p> The number is " + i + "</p>")
+    i++;
+}

@@ -268,8 +268,8 @@
 // document.write(colors + "<br>");
 // document.write(colors.length);
 
-var fruits = ["Apple","Banana","Mango","Orange","Papaya"];
+// var fruits = ["Apple","Banana","Mango","Orange","Papaya"];
 
-document.write(fruits.slice(2)+ "<br>");
-document.write(fruits.slice(-2) + "<br>");
-document.write(fruits.slice(1,2))
+// document.write(fruits.slice(2)+ "<br>");
+// document.write(fruits.slice(-2) + "<br>");
+// document.write(fruits.slice(1,2));

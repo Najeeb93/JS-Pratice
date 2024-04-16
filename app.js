@@ -260,10 +260,10 @@
 
 // document.write(fru)
 
-var colors = ["Red","Green","Blue"];
+// var colors = ["Red","Green","Blue"];
 
-colors.push("pink","Voilet");
-colors.unshift("Yellow","Gray");
+// colors.push("pink","Voilet");
+// colors.unshift("Yellow","Gray");
 
-document.write(colors + "<br>");
-document.write(colors.length);
+// document.write(colors + "<br>");
+// document.write(colors.length);

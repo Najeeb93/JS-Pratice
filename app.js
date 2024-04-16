@@ -247,9 +247,9 @@
 // document.write(colors.join());
 // document.write(colors.join(""));
 
-var i = 1;
+// var i = 1;
 
-while(i <= 5){
-    document.write("<p> The number is " + i + "</p>")
-    i++;
-}
+// while(i <= 5){
+//     document.write("<p> The number is " + i + "</p>")
+//     i++;
+// }

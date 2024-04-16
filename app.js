@@ -273,3 +273,10 @@
 // document.write(fruits.slice(2)+ "<br>");
 // document.write(fruits.slice(-2) + "<br>");
 // document.write(fruits.slice(1,2));
+
+var arr = [10,11,12,13,14];
+
+for (var i = 0; i < 5; i++){
+    
+    document.write(arr[i] + "<br>");
+}

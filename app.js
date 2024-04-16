@@ -259,3 +259,11 @@
 // var fru = fruits.slice(1,3);
 
 // document.write(fru)
+
+var colors = ["Red","Green","Blue"];
+
+colors.push("pink","Voilet");
+colors.unshift("Yellow","Gray");
+
+document.write(colors + "<br>");
+document.write(colors.length);

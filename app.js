@@ -254,8 +254,8 @@
 //     i++;
 // }
 
-var fruits = ["Apple","Banana","Mango","Orange","Papaya"];
+// var fruits = ["Apple","Banana","Mango","Orange","Papaya"];
 
-var fru = fruits.slice(1,3);
+// var fru = fruits.slice(1,3);
 
-document.write(fru)
+// document.write(fru)

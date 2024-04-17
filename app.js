@@ -280,3 +280,7 @@
     
 //     document.write(arr[i] + "<br>");
 // }
+
+var word = "mai ja rha hn";
+
+document.write(word.split(""))

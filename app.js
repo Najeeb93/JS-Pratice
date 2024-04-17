@@ -285,8 +285,8 @@
 
 // document.write(word.split(""));
 
-var nameWord = 'john,dave,mike,alex';
+// var nameWord = 'john,dave,mike,alex';
 
-var nameArry = nameWord.split(',');
+// var nameArry = nameWord.split(',');
 
-document.write(nameArry)
+// document.write(nameArry)

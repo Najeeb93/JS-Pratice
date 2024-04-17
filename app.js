@@ -284,3 +284,9 @@
 // var word = "mai ja rha hn";
 
 // document.write(word.split(""));
+
+var nameWord = 'john,dave,mike,alex';
+
+var nameArry = nameWord.split(',');
+
+document.write(nameArry)

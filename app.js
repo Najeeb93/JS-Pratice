@@ -300,7 +300,7 @@ for(var i = userInput.length-1; i >= 0; i--){
 }
 
 if(userInput === check){
-    alert(userInput + "Its a palindrome word")
+    alert(userInput + " Its a palindrome word")
 }
 
 else{

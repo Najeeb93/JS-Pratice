@@ -319,15 +319,15 @@
 //     console.log(arr)
 // }
 
-var isSunny = true;
+// var isSunny = true;
 
-var isWarm = true;
+// var isWarm = true;
 
-var isHot = false;
+// var isHot = false;
 
-if(isSunny && isWarm || isHot){
-    console.log("Perfect Weather for outdoor activites!")
-}
-else{
-    console.log("Maybe another day")
-}
+// if(isSunny && isWarm || isHot){
+//     console.log("Perfect Weather for outdoor activites!")
+// }
+// else{
+//     console.log("Maybe another day")
+// }

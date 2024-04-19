@@ -331,3 +331,9 @@
 // else{
 //     console.log("Maybe another day")
 // }
+
+var userInput = "";
+
+var userName = userInput || "Guest";
+
+console.log("Welcome, " + userName)

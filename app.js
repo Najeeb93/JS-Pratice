@@ -290,3 +290,11 @@
 // var nameArry = nameWord.split(',');
 
 // document.write(nameArry)
+
+var userInput = prompt("Enter your word");
+
+var check = "";
+
+for(var i = userInput.length-1; i >= 0; i--){
+    check += userInput[i];
+}

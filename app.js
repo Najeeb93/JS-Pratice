@@ -307,6 +307,8 @@
 //     alert("Try Again")
 // }
 
-for(var i = 0; i <= 2; i++){
+for(var i = 0; i < 2; i++){
     console.log(i)
 }
+
+console.log(i)

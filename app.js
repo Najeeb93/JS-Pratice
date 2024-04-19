@@ -307,8 +307,14 @@
 //     alert("Try Again")
 // }
 
-for(var i = 0; i < 2; i++){
-    console.log(i)
-}
+// for(var i = 0; i < 2; i++){
+//     console.log(i)
+// }
 
-console.log(i)
+// console.log(i)
+
+var arr = ["najeeb","ahmed","ali"];
+
+for(var i = 0; i < arr.length; i++){
+    console.log(arr)
+}

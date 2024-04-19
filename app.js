@@ -318,3 +318,16 @@
 // for(var i = 0;  i < arr.length; i++){
 //     console.log(arr)
 // }
+
+var isSunny = true;
+
+var isWarm = true;
+
+var isHot = false;
+
+if(isSunny && isWarm || isHot){
+    console.log("Perfect Weather for outdoor activites!")
+}
+else{
+    console.log("Maybe another day")
+}

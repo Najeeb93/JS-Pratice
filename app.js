@@ -291,18 +291,18 @@
 
 // document.write(nameArry)
 
-var userInput = prompt("Enter your word");
+// var userInput = prompt("Enter your word");
 
-var check = "";
+// var check = "";
 
-for(var i = userInput.length-1; i >= 0; i--){
-    check += userInput[i];
-}
+// for(var i = userInput.length-1; i >= 0; i--){
+//     check += userInput[i];
+// }
 
-if(userInput === check){
-    alert(userInput + " Its a palindrome word")
-}
+// if(userInput === check){
+//     alert(userInput + " Its a palindrome word")
+// }
 
-else{
-    alert("Try Again")
-}
+// else{
+//     alert("Try Again")
+// }

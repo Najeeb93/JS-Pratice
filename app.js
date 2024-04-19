@@ -298,3 +298,7 @@ var check = "";
 for(var i = userInput.length-1; i >= 0; i--){
     check += userInput[i];
 }
+
+if(userInput === check){
+    alert(userInput + "Its a palindrome word")
+}

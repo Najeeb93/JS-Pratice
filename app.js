@@ -332,8 +332,20 @@
 //     console.log("Maybe another day")
 // }
 
-var userInput = "";
+// var userInput = "";
 
-var userName = userInput || "Guest";
+// var userName = userInput || "Guest";
 
-console.log("Welcome, " + userName)
+// console.log("Welcome, " + userName)
+
+var num = [2,3,4,5,7,8,9,10];
+
+var min = num[0];
+
+for(var i = 0; num.length; i++){
+if( num[i] >  min){
+min = num[i]
+}
+}
+
+

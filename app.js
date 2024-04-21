@@ -361,17 +361,17 @@
 // }
 // console.log(i)
 
-var word = prompt("Enter the word");
+// var word = prompt("Enter the word");
 
-reverse = "";
+// reverse = "";
 
-for(var i = word.length-1; i >= 0; i--){
-    reverse += word[i]
-}
+// for(var i = word.length-1; i >= 0; i--){
+//     reverse += word[i]
+// }
 
-if(word === reverse){
-    console.log("It's a palindrome word")
-}
-else{
-    console.log("It's not a palindrome word")
-}
+// if(word === reverse){
+//     console.log("It's a palindrome word")
+// }
+// else{
+//     console.log("It's not a palindrome word")
+// }

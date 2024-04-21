@@ -387,3 +387,15 @@
 // }
 
 // console.log(min)
+
+var arr = [11,23,34,35,12,77,10];
+
+max = arr[0];
+
+for(var i = 0; i < arr.length; i++){
+    if(max < arr[i]){
+        max = arr[i]
+    }
+}
+
+console.log(max)

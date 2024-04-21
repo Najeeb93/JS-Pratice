@@ -375,3 +375,15 @@
 // else{
 //     console.log("It's not a palindrome word")
 // }
+
+var arr = [11,22,16,17,18,19,20];
+
+min = arr[0];
+
+for(var i = 0; i < arr.length; i++){
+    if(min < arr[i]){
+        min = arr[i]
+    }
+}
+
+console.log(min)

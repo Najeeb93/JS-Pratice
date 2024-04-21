@@ -369,4 +369,9 @@ for(var i = word.length-1; i >= 0; i--){
     reverse += word[i]
 }
 
-console.log(reverse)
+if(word === reverse){
+    console.log("It's a palindrome word")
+}
+else{
+    console.log("It's not a palindrome word")
+}

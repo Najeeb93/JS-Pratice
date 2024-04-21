@@ -360,3 +360,13 @@
 //     sum += i;
 // }
 // console.log(i)
+
+var word = prompt("Enter the word");
+
+reverse = "";
+
+for(var i = word.length-1; i >= 0; i--){
+    reverse += word[i]
+}
+
+console.log(reverse)

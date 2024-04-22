@@ -409,8 +409,15 @@
 
 //     }
 
-sum = 0;
-for(var i = 1; i <= 10; i++){
-    sum += i;
-}
-console.log(sum)
+
+ var x = 1;
+
+ x = x + (x += 1);
+
+console.log(x)
+
+// sum = 0;
+// for(var i = 1; i <= 10; i++){
+//     sum += i;
+// }
+// console.log(sum)

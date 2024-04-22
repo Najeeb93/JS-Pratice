@@ -423,9 +423,21 @@
 // const type = null;
 // console.log(typeof(type))
 
-let a = "5";
-let b = +a;
-console.log(typeof b)
+// let a = "5";
+// let b = +a;
+// console.log(typeof b)
+
+// var x = true + false;
+// console.log(x)
+
+// var num = [1,2,3,4];
+
+// for(var i = 0; i < num.length; i++) {
+//     if( i == 2){
+//         continue;
+//     }
+//     console.log(num[i])
+// }
 
 // sum = 0;
 // for(var i = 1; i <= 10; i++){

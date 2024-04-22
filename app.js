@@ -404,7 +404,7 @@ var arr = [50,51,52,,55,56,57,58];
 
 for(var i = 0; i < arr.length; i++) {
     var diff = arr[i + 1] - arr[i];
-    for(var j = 1; j < diff; j++) {
-        console.log(diff,arr[i])
+    if(diff >  1) {
+        console.log(diff, arr[i])
     }
 }

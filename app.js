@@ -414,11 +414,19 @@
 // let b = [0];
 // console.log( a == b)
 
-var a = true;
-var b = false;
-var x = null;
-var result = (x == null)
-console.log( a = result)
+// var a = true;
+// var b = false;
+// var x = null;
+// var result = (x == null)
+// console.log( a = result)
+
+// const type = null;
+// console.log(typeof(type))
+
+let a = "5";
+let b = +a;
+console.log(typeof b)
+
 // sum = 0;
 // for(var i = 1; i <= 10; i++){
 //     sum += i;

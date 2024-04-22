@@ -400,15 +400,15 @@
 
 // console.log(max)
 
-var arr = [50,51,52,55,56,57,58];
+// var arr = [50,51,52,55,56,57,58];
 
-for(var i = 0; i < arr.length; i++) {
-    var diff = arr[i + 1] - arr[i]
-        if(diff > 1){
-            for(var j = 1; j < diff; j++) {
-                console.log(arr[i] + j)
-            }
-        }
+// for(var i = 0; i < arr.length; i++) {
+//     var diff = arr[i + 1] - arr[i]
+//         if(diff > 1){
+//             for(var j = 1; j < diff; j++) {
+//                 console.log(arr[i] + j)
+//             }
+//         }
     
 
-    }
+//     }

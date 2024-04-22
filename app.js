@@ -410,11 +410,9 @@
 //     }
 
 
- var x = 1;
-
- x = x + (x += 1);
-
-console.log(x)
+let a = 0;
+let b = [0];
+console.log( a == b)
 
 // sum = 0;
 // for(var i = 1; i <= 10; i++){

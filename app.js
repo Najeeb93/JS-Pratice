@@ -410,10 +410,15 @@
 //     }
 
 
-let a = 0;
-let b = [0];
-console.log( a == b)
+// let a = 0;
+// let b = [0];
+// console.log( a == b)
 
+var a = true;
+var b = false;
+var x = null;
+var result = (x == null)
+console.log( a = result)
 // sum = 0;
 // for(var i = 1; i <= 10; i++){
 //     sum += i;

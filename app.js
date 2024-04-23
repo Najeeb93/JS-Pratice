@@ -454,11 +454,16 @@
 // console.log(a == b);
 // console.log(a === b);
 
-var number = 0;
+// var number = 0;
 
-console.log(number++);
-console.log(++number);
-console.log(number);
+// console.log(number++);
+// console.log(++number);
+// console.log(number);
+
+const sum = eval('10*10+5');
+
+console.warn(sum)
+
 
 
 // sum = 0;

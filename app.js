@@ -444,7 +444,9 @@
 
 // console.warn(+true)
 
-console.warn(typeof +true)
+// console.warn(typeof +true)
+
+console.warn(!"name")
 
 // sum = 0;
 // for(var i = 1; i <= 10; i++){

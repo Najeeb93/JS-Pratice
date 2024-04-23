@@ -460,11 +460,14 @@
 // console.log(++number);
 // console.log(number);
 
-const sum = eval('10*10+5');
+// const sum = eval('10*10+5');
 
-console.warn(sum)
+// console.warn(sum)
 
-
+for(var i = 1; i < 5; i++) {
+    if(i === 3) continue;
+    console.log(i)
+}
 
 // sum = 0;
 // for(var i = 1; i <= 10; i++){

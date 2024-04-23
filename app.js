@@ -469,11 +469,18 @@
 //     console.log(i)
 // }
 
-var  numbers = [1,2,3];
+// var  numbers = [1,2,3];
 
-numbers[1] = numbers;
+// numbers[1] = numbers;
 
-console.log(numbers)
+// console.log(numbers)
+
+var sum = 0;
+
+console.log(typeof sum)
+
+
+
 // sum = 0;
 // for(var i = 1; i <= 10; i++){
 //     sum += i;

@@ -464,11 +464,16 @@
 
 // console.warn(sum)
 
-for(var i = 1; i < 5; i++) {
-    if(i === 3) continue;
-    console.log(i)
-}
+// for(var i = 1; i < 5; i++) {
+//     if(i === 3) continue;
+//     console.log(i)
+// }
 
+var  numbers = [1,2,3];
+
+numbers[1] = numbers;
+
+console.log(numbers)
 // sum = 0;
 // for(var i = 1; i <= 10; i++){
 //     sum += i;

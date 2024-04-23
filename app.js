@@ -439,6 +439,11 @@
 //     console.log(num[i])
 // }
 
+// var a = [1, ,3];
+// console.log(a.length)
+
+console.warn(+true)
+
 // sum = 0;
 // for(var i = 1; i <= 10; i++){
 //     sum += i;

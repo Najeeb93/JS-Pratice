@@ -448,11 +448,19 @@
 
 // console.warn(!"name")
 
-var a = 3;
+// var a = 3;
 
-var b = new Number(3)
-console.log(a == b);
-console.log(a === b);
+// var b = new Number(3)
+// console.log(a == b);
+// console.log(a === b);
+
+var number = 0;
+
+console.log(number++);
+console.log(++number);
+console.log(number);
+
+
 // sum = 0;
 // for(var i = 1; i <= 10; i++){
 //     sum += i;

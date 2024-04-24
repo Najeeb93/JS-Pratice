@@ -503,6 +503,9 @@
 //     console.log(i)
 // }
 
+var number = + 1
+
+console.log(++number)
 // sum = 0;
 // for(var i = 1; i <= 10; i++){
 //     sum += i;

@@ -479,17 +479,17 @@
 
 // console.log(typeof sum)
 
-var arr = [1,2,3,4,6,7 ];
+// var arr = [1,2,3,4,6,7 ];
 
-for(var i = 0; i < arr.length; i++) {
-    diff = arr[i + 1] - arr[i]
-    if(diff > 1){
-        for(var j = 1; j < diff; j++) {
-            console.log(arr[i] + j)
-        }
-    }
+// for(var i = 0; i < arr.length; i++) {
+//     diff = arr[i + 1] - arr[i]
+//     if(diff > 1){
+//         for(var j = 1; j < diff; j++) {
+//             console.log(arr[i] + j)
+//         }
+//     }
 
-}
+// }
 
 // sum = 0;
 // for(var i = 1; i <= 10; i++){

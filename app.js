@@ -498,6 +498,11 @@
 // }
 // console.log(i)
 
+for(var i = 0; i < 10; i++) {
+    if(i != 5) continue;
+    console.log(i)
+}
+
 // sum = 0;
 // for(var i = 1; i <= 10; i++){
 //     sum += i;

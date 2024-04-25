@@ -506,8 +506,26 @@
 // var number = + 1
 
 // console.log(++number)
+
+// var arr = [11,13,14,15,20];
+// var missing = [];
+// for(var i = 0; i < arr.length; i++) {
+//         diff = arr[i + 1] - arr[i]
+//         if(diff > 1){
+//             for(var j = 1; j < diff; j++){
+//                     missing.push(arr[i] + j)
+//             }
+//         }
+// }
+
+// console.log(arr)
+// console.log(missing)
+// arr.splice(i + j,0,arr)
+
+
+
 // sum = 0;
 // for(var i = 1; i <= 10; i++){
 //     sum += i;
+//     console.log(sum) 
 // }
-// console.log(sum)

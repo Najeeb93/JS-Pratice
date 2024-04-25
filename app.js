@@ -531,15 +531,16 @@
 // }
 
 
-var arr = [20,21,24,25];
+// var arr = [20,21,24,25];
 
-for(var i = 0; i < arr.length; i++) {
+// for(var i = 0; i < arr.length; i++) {
     
     
-    for(var j = 1; j < arr[i + 1] - arr[i]; j++) {
-        console.log(  j)
-    }
-}
+//     for(var j = 1; j < arr[i + 1] - arr[i]; j++) {
+//         console.log(j)
+//     }
+// }
+
 
 // sum = 0;
 // for(var i = 1; i <= 5; i++){

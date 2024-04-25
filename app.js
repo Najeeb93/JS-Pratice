@@ -513,14 +513,14 @@
 //         diff = arr[i + 1] - arr[i]
 //         if(diff > 1){
 //             for(var j = 1; j < diff; j++){
-//                     missing.push(arr[i] + j)
+//                     arr.splice(i + j, 0 ,arr[i] + j)    
 //             }
 //         }
 // }
 
 // console.log(arr)
-// console.log(missing)
-// arr.splice(i + j,0,arr)
+
+
 
 
 

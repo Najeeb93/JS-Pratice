@@ -1,8 +1,9 @@
-/* .spinner {
+.spinner {
     height: 50px;
     width: 50px;
-    background-color: red;
+    background-color:white;
     border: 10px solid #ccc;
+    border-radius: 50px;
     border-top-color: #007bff;
     animation: spin 1s linear infinite;
 }
@@ -14,4 +15,4 @@
         transform: rotate(360deg);
     }
 
-} */
+}

@@ -521,7 +521,10 @@
 // console.log(arr)
 
 
+var arr = ["najeeb","ahmed"]
 
+arr.splice(1,1)
+console.log(arr)
 
 
 // sum = 0;

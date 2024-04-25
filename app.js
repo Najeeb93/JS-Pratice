@@ -526,9 +526,9 @@
 // arr.splice(1,1)
 // console.log(arr)
 
-for(var i = 0; i <= 10; i+=2) {
-    console.log(i + 1)
-}
+// for(var i = 0; i <= 10; i+=2) {
+//     console.log(i + 1)
+// }
 
 // sum = 0;
 // for(var i = 1; i <= 5; i++){

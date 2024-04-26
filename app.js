@@ -541,6 +541,9 @@
 //     }
 // }
 
+var arr = ["my name Najeeb Ahmed"];
+
+console.log(arr[-1]);
 
 // sum = 0;
 // for(var i = 1; i <= 5; i++){

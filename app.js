@@ -541,10 +541,11 @@
 //     }
 // }
 
-var arr = ["my name Najeeb Ahmed"];
+// var arr = ["my name Najeeb Ahmed"];
 
-console.log(arr[-1]);
+// console.log(arr);
 
+console.log(null > 0)
 // sum = 0;
 // for(var i = 1; i <= 5; i++){
 //     sum += i;

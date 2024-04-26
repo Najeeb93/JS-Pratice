@@ -545,7 +545,17 @@
 
 // console.log(arr);
 
-console.log(null > 0)
+// console.log(null > 0)
+
+// console.log(1 + '1' - 1)
+
+
+for(var i = 10; i >= 1; i--) {
+    for(var j = 1; j <= 10; j++) {
+        console.log(i,j)
+    }
+}
+
 // sum = 0;
 // for(var i = 1; i <= 5; i++){
 //     sum += i;

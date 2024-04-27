@@ -567,5 +567,14 @@
 
 var fullName = "najeeb ahmed";
 
+var capital = "";
 
-var 
+for(var i = 0; i < fullName.length; i++) {
+    if (i === 0 ) {
+        capital += fullName[i].toUpperCase()
+    }
+    else{
+        capital += fullName[i]
+    }
+}
+console.log(capital)

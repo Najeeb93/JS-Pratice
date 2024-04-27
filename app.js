@@ -565,16 +565,28 @@
     
 // }
 
-var fullName = "najeeb ahmed";
+var fullName = "";
 
 var capital = "";
+var final = "";
 
 for(var i = 0; i < fullName.length; i++) {
     if (i === 0 ) {
         capital += fullName[i].toUpperCase()
     }
+    else if (fullName[i] === " "){
+        final += fullName[i + 1].toUpperCase()
+    }
     else{
-        capital += fullName[i]
+        if(final) {
+            capital += " " + final
+            final = "";
+
+        }else{
+
+            capital += fullName[i]
+
+        }
     }
 }
 console.log(capital)

@@ -590,3 +590,17 @@
 //     }
 // }
 // console.log(capital)
+
+var myName = "najeeb ahmed";
+var firstWord = myName[0].toUpperCase();
+console.log(firstWord)
+
+for(var i = 1; i < myName.length; i++) {
+    if(myName[i - 1] === " "){
+        firstWord += myName[i].toUpperCase()
+    }
+    else{
+        firstWord += myName[i]
+    }
+}
+console.log(firstWord)

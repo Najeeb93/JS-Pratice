@@ -565,28 +565,28 @@
     
 // }
 
-var fullName = "";
+// var fullName = "meer hamza ali";
 
-var capital = "";
-var final = "";
+// var capital = "";
+// var final = "";
 
-for(var i = 0; i < fullName.length; i++) {
-    if (i === 0 ) {
-        capital += fullName[i].toUpperCase()
-    }
-    else if (fullName[i] === " "){
-        final += fullName[i + 1].toUpperCase()
-    }
-    else{
-        if(final) {
-            capital += " " + final
-            final = "";
+// for(var i = 0; i < fullName.length; i++) {
+//     if (i === 0 ) {
+//         capital += fullName[i].toUpperCase()
+//     }
+//     else if (fullName[i] === " "){
+//         final += fullName[i + 1].toUpperCase()
+//     }
+//     else{
+//         if(final) {
+//             capital += " " + final
+//             final = "";
 
-        }else{
+//         }else{
 
-            capital += fullName[i]
+//             capital += fullName[i]
 
-        }
-    }
-}
-console.log(capital)
+//         }
+//     }
+// }
+// console.log(capital)

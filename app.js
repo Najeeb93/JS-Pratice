@@ -605,11 +605,11 @@
 // }
 // console.log(firstWord)
 
-var arr = prompt("enter your word");
+// var arr = prompt("enter your word");
 
-var word =""; 
+// var word =""; 
 
-for(var i = arr.length - 1; i >= 0; i-- ){
-    word += arr[i]
-}
-console.log(word)
+// for(var i = arr.length - 1; i >= 0; i-- ){
+//     word += arr[i]
+// }
+// console.log(word)

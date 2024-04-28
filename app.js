@@ -607,6 +607,9 @@
 
 var arr = prompt("enter your word");
 
+var word =""; 
+
 for(var i = arr.length - 1; i >= 0; i-- ){
-    console.log(arr[i])
+    word += arr[i]
 }
+console.log(word)

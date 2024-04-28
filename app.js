@@ -613,3 +613,5 @@
 //     word += arr[i]
 // }
 // console.log(word)
+
+console.log("2" > 1)

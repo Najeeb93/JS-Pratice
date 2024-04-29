@@ -621,8 +621,16 @@
 // console.log( 1 < 2 < 3)
 // console.log( 3 > 2 > 1)
 
-var foo = [];
+// var foo = [];
 
-foo[100] = "";
+// foo[100] = "";
 
-console.log(foo.length)
+// console.log(foo.length)
+
+var arrA = [0,1,2];
+
+var arrB = arrA;
+
+ arrB[0] = 42;
+
+console.log(arrA)

@@ -634,3 +634,12 @@
 //  arrB[0] = 42;
 
 // console.log(arrA)
+
+var value = 0;
+
+if(value === '0'){
+    console,console.log('Equal');
+}
+else{
+    console.log('not equal')
+}

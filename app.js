@@ -627,10 +627,10 @@
 
 // console.log(foo.length)
 
-var arrA = [0,1,2];
+// var arrA = [42,1,2];
 
-var arrB = arrA;
+// var arrB = arrA;
 
- arrB[0] = 42;
+//  arrB[0] = 42;
 
-console.log(arrA)
+// console.log(arrA)

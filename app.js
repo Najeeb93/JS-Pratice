@@ -635,11 +635,17 @@
 
 // console.log(arrA)
 
-var value = 0;
+// var value = 0;
 
-if(value === '0'){
-    console,console.log('Equal');
-}
-else{
-    console.log('not equal')
-}
+// if(value === '0'){
+//     console,console.log('Equal');
+// }
+// else{
+//     console.log('not equal')
+// }
+
+var number = 0;
+
+console.log(number++)
+console.log(++number)
+console.log(number)

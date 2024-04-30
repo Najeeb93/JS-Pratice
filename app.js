@@ -654,13 +654,13 @@
 
 // console.log(str.slice(0,6))
 
-var text = "hi i am najeeb ahmed hello i am najeeb ahmed"
+// var text = "hi i am najeeb ahmed hello i am najeeb ahmed"
 
-var repeat = "haseeb ahmed"
+// var repeat = "haseeb ahmed"
 
-for( var i = 0; i < text.length; i++) {
-    if(text.slice(i,i + 12) === repeat) {
-        text = text.slice(0,i) + "haseeb ahmed" + text.slice(i + 12 )
-    }
-}
-console.log(text)
+// for( var i = 0; i < text.length; i++) {
+//     if(text.slice(i,i + 12) === repeat) {
+//         text = text.slice(0,i) + "haseeb ahmed" + text.slice(i + 12 )
+//     }
+// }
+// console.log(text)

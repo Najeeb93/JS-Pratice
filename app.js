@@ -664,3 +664,12 @@
 //     }
 // }
 // console.log(text)
+
+var text = "world war II"
+
+for(var i = 0; i < text.length; i++) {
+    if(text.slice(i, i + 12) === "world war II") {
+        text = text.slice(0, 0) + "the second world war" + text.slice(i + 12)
+    }
+}
+console.log(text)

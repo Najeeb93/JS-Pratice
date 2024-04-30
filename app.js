@@ -124,7 +124,7 @@
 // var d = new Date("2015");
 
 // document.write(d)
- 
+
 // var d = new Date();
 // d.getMonth();
 
@@ -277,7 +277,7 @@
 // var arr = [10,11,12,13,14];
 
 // for (var i = 0; i < 5; i++){
-    
+
 //     document.write(arr[i] + "<br>");
 // }
 
@@ -405,7 +405,7 @@
 //                 console.log(arr[i] + j)
 //             }
 //         }
-    
+
 
 //     }
 
@@ -534,8 +534,8 @@
 // var arr = [20,21,24,25];
 
 // for(var i = 0; i < arr.length; i++) {
-    
-    
+
+
 //     for(var j = 1; j < arr[i + 1] - arr[i]; j++) {
 //         console.log(j)
 //     }
@@ -562,7 +562,7 @@
 // for(var i = 1; i <= 5; i++){
 //     sum += i;
 //     console.log(sum)
-    
+
 // }
 
 // var fullName = "meer hamza ali";
@@ -653,3 +653,14 @@
 // var str = "najeeb ahmed"
 
 // console.log(str.slice(0,6))
+
+var text = "hi i am najeeb ahmed hello i am najeeb ahmed"
+
+var repeat = "haseeb ahmed"
+
+for( var i = 0; i < text.length; i++) {
+    if(text.slice(i,i + 12) === repeat) {
+        text = text.slice(0,i) + "haseeb ahmed" + text.slice(i + 12 )
+    }
+}
+console.log(text)

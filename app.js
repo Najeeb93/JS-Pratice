@@ -650,6 +650,6 @@
 // console.log(++number)
 // console.log(number)
 
-var str = "najeeb ahmed"
+// var str = "najeeb ahmed"
 
-console.log(str.slice(0,6))
+// console.log(str.slice(0,6))

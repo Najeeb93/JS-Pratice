@@ -644,8 +644,8 @@
 //     console.log('not equal')
 // }
 
-var number = 0;
+// var number = 0;
 
-console.log(number++)
-console.log(++number)
-console.log(number)
+// console.log(number++)
+// console.log(++number)
+// console.log(number)

@@ -675,10 +675,10 @@
 // console.log(text)
 
 var text = "I felt happy because I saw the others were happy and because I knew I should feel happy, but I wasn’t really happy"
-
+var happy = "happy"
 for(var i = 0; i < text.length; i++) {
-    if(text.slice(i,i + 5) === "happy") {
-        text = text.slice(0, 0) + "unhappy" + text.slice(i + 5)
+    if(text.slice(i,i + happy.length) === happy) {
+        text = text.slice(0, 0) + "unhappy" + text.slice(i + happy.length)
     }
 }
 console.log(text)

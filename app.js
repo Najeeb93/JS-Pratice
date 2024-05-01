@@ -690,8 +690,8 @@
 
 // console.log(lastName)
 
-var num = 5.8
+// var num = 5.8
 
-var round = Math.random(num);
+// var round = Math.random(num);
 
-console.log(round,"round")
+// console.log(round,"round")

@@ -696,12 +696,12 @@
 
 // console.log(round,"round")
 
-var num = "3.9999999";
+// var num = "3.9999999";
 
-var num1 = parseFloat(num);
+// var num1 = parseFloat(num);
 
-var num2 = parseInt(num);
+// var num2 = parseInt(num);
 
-console.log(num1 , "num1");
+// console.log(num1 , "num1");
 
-console.log(num2 , "num2");
+// console.log(num2 , "num2");

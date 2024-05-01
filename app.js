@@ -689,3 +689,9 @@
 // var lastName = fullName.slice(7)
 
 // console.log(lastName)
+
+var num = 5.8
+
+var round = Math.random(num);
+
+console.log(round,"round")

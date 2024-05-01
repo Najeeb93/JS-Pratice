@@ -682,3 +682,10 @@
 //     }
 // }
 // console.log(text)
+
+var fullName = "najeeb ahmed"
+
+var firstName = fullName.slice(0, 7)   
+var lastName = fullName.slice(7)
+
+console.log(lastName)

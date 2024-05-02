@@ -707,15 +707,15 @@
 // console.log(num2 , "num2");
 
 
-var player1 = "head";
+// var player1 = "head";
 
-var palyer2 = "tail";
+// var palyer2 = "tail";
 
-var  toss = Math.floor(Math.random() * 2);
+// var  toss = Math.floor(Math.random() * 2);
 
-if(toss == 1) {
-    console.log("won player 1")
-}
-else{ 
-    console.log("won player 2")
-}
+// if(toss == 1) {
+//     console.log("won player 1")
+// }
+// else{ 
+//     console.log("won player 2")
+// }

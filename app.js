@@ -712,6 +712,8 @@
 // var palyer2 = "tail";
 
 // var  toss = Math.floor(Math.random() * 2);
+var count = 0;
+
 
 // if(toss == 1) {
 //     console.log("won player 1")
@@ -723,4 +725,8 @@
 var str = "saylani smit smit wel smit ada smit";
 
 var word = "smit";
+
+var rep = "saylani";
+
+var count = 0;
 

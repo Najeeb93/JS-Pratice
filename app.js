@@ -712,7 +712,7 @@
 // var palyer2 = "tail";
 
 // var  toss = Math.floor(Math.random() * 2);
-var count = 0;
+
 
 
 // if(toss == 1) {
@@ -730,3 +730,9 @@ var rep = "saylani";
 
 var count = 0;
 
+for(var i = 0; i < str.length; i++) {
+    var find = str.slice(i, i + word.length);
+    if(find === word) {
+        console.log(find)
+    }
+}

@@ -722,21 +722,21 @@
 //     console.log("won player 2")
 // }
 
-var str = "saylani smit smit wel smit ada smit";
+// var str = "saylani smit smit wel smit ada smit";
 
-var word = "smit";
+// var word = "smit";
 
-var rep = "saylani";
+// var rep = "saylani";
 
-var count = 0;
+// var count = 0;
 
-for(var i = 0; i < str.length; i++) {
-    var find = str.slice(i, i + word.length);
-    if(find === word) {
-        count++
-        if(count === 3){
-            str = str.slice(0, i) + rep + str.slice(i + word.length)
-        }
-    }
-}
-console.log(str)
+// for(var i = 0; i < str.length; i++) {
+//     var find = str.slice(i, i + word.length);
+//     if(find === word) {
+//         count++
+//         if(count === 3){
+//             str = str.slice(0, i) + rep + str.slice(i + word.length)
+//         }
+//     }
+// }
+// console.log(str)

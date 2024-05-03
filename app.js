@@ -674,14 +674,14 @@
 // }
 // console.log(text)
 
-var text = "I felt happy because I saw the others were happy and because I knew I should feel happy, but I wasn’t really happy"
-var happy = "happy"
-for(var i = 0; i < text.length; i++) {
-    if(text.slice(i,i + happy.length) === happy) {
-        text = text.slice(0, i) + "sad" + text.slice(i + happy.length)
-    }
-}
-console.log(text)
+// var text = "I felt happy because I saw the others were happy and because I knew I should feel happy, but I wasn’t really happy"
+// var happy = "happy"
+// for(var i = 0; i < text.length; i++) {
+//     if(text.slice(i,i + happy.length) === happy) {
+//         text = text.slice(0, i) + "sad" + text.slice(i + happy.length)
+//     }
+// }
+// console.log(text)
 
 // var fullName = "najeeb ahmed"
 
@@ -719,3 +719,8 @@ console.log(text)
 // else{ 
 //     console.log("won player 2")
 // }
+
+var str = "saylani smit smit wel smit ada smit";
+
+var word = "smit";
+

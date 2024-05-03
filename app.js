@@ -733,6 +733,10 @@ var count = 0;
 for(var i = 0; i < str.length; i++) {
     var find = str.slice(i, i + word.length);
     if(find === word) {
-        console.log(find)
+        count++
+        if(count === 3){
+            str = str.slice(0, i) + rep + str.slice(i + word.length)
+        }
     }
 }
+console.log(str)

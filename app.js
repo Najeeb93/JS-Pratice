@@ -764,9 +764,9 @@
 // document.write(`You are ${covertYear} year and ${covertMonth} months and ${covertDay} days old.`)
 
 
-var date = new Date();
+// var date = new Date();
 
-var days = ["sun","mon","tues","wed","thus","fri","sat"];
+// var days = ["sun","mon","tues","wed","thus","fri","sat"];
 
-console.log(days[date.getDay()])
+// console.log(days[date.getDay()])
 

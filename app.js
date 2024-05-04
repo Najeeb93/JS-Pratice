@@ -755,6 +755,10 @@ var dob = new Date(age).getTime();
 
 var diff = currentDate - dob;
 
-var covert = Math.floor(diff/ (1000 * 60 * 60 * 24));
+var covertYear = Math.floor(diff / (1000 * 60 * 60 * 24 * 365));
 
-console.log(covert)
+var covertMonth = Math.floor(diff / (1000 * 60 * 60 * 24 * 31 ));
+
+var covertDay = Math.floor(diff / (1000 * 60 * 60 * 24));
+
+document.write(`You are ${covertYear} year and ${covertMonth} months and ${covertDay} days old.`)

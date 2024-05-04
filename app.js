@@ -747,18 +747,18 @@
 // console.log(++number)
 // console.log(number)
 
-var age = prompt("Enter your date of birth");
+// var age = prompt("Enter your date of birth");
 
-var currentDate = new Date().getTime();
+// var currentDate = new Date().getTime();
 
-var dob = new Date(age).getTime();
+// var dob = new Date(age).getTime();
 
-var diff = currentDate - dob;
+// var diff = currentDate - dob;
 
-var covertYear = Math.floor(diff / (1000 * 60 * 60 * 24 * 365));
+// var covertYear = Math.floor(diff / (1000 * 60 * 60 * 24 * 365));
 
-var covertMonth = Math.floor(diff / (1000 * 60 * 60 * 24 * 31 ));
+// var covertMonth = Math.floor(diff / (1000 * 60 * 60 * 24 * 31 ));
 
-var covertDay = Math.floor(diff / (1000 * 60 * 60 * 24));
+// var covertDay = Math.floor(diff / (1000 * 60 * 60 * 24));
 
-document.write(`You are ${covertYear} year and ${covertMonth} months and ${covertDay} days old.`)
+// document.write(`You are ${covertYear} year and ${covertMonth} months and ${covertDay} days old.`)

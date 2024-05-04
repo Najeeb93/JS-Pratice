@@ -746,3 +746,15 @@
 // console.log(number++)
 // console.log(++number)
 // console.log(number)
+
+var age = prompt("Enter your date of birth");
+
+var currentDate = new Date().getTime();
+
+var dob = new Date(age).getTime();
+
+var diff = currentDate - dob;
+
+var covert = Math.floor(diff/ (1000 * 60 * 60 * 24));
+
+console.log(covert)

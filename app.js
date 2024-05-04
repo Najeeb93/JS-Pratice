@@ -762,3 +762,11 @@
 // var covertDay = Math.floor(diff / (1000 * 60 * 60 * 24));
 
 // document.write(`You are ${covertYear} year and ${covertMonth} months and ${covertDay} days old.`)
+
+
+var date = new Date();
+
+var days = ["sun","mon","tues","wed","thus","fri","sat"];
+
+console.log(days[date.getDay()])
+

@@ -770,14 +770,14 @@
 
 // console.log(days[date.getDay()])
 
-var count = 0;
-function test(){
-    for(var i = 0; i < 5; i++) {
+// var count = 0;
+// function test(){
+//     for(var i = 0; i < 5; i++) {
         
-        console.log (count)
-    }
-} 
+//         console.log (count)
+//     }
+// } 
 
-test();
+// test();
 
 

@@ -779,5 +779,12 @@
 // } 
 
 // test();
+ 
 
+let x = 10;
+function increase(){
+    x += 3;
+    console.log(x)
+}
 
+increase();

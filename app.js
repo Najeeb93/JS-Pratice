@@ -799,6 +799,6 @@
 // let a = 4 > 3 > 2;
 // console.log(a);
 
-let a = "5";
-let b = +a;
-console.log(typeof b)
+// let a = "5";
+// let b = +a;
+// console.log(typeof b)

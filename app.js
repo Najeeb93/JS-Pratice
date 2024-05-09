@@ -795,3 +795,6 @@
 //     var a = 10;
 // }
 // fun(10);
+
+let a = 4 > 3 > 2;
+console.log(a);

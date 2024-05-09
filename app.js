@@ -805,3 +805,11 @@
 
 // let x = Infinity;
 // console.log(typeof x)
+console.log(1 < 2 < 3);
+
+let outPut = 2 ** 3;
+console.log(outPut);
+
+var baby = [1,2,3];
+baby.pop();
+console.log(baby)

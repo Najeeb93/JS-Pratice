@@ -803,5 +803,5 @@
 // let b = +a;
 // console.log(typeof b)
 
-let x = Infinity;
-console.log(typeof x)
+// let x = Infinity;
+// console.log(typeof x)

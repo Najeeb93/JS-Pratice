@@ -814,8 +814,8 @@
 // baby.pop();
 // console.log(baby)
 
-var a = 10;
-var b = 'two';
-console.log(a/b);
-console.log('x'-'y'-2)
-console.log(2 * '3' + 3)
+// var a = 10;
+// var b = 'two';
+// console.log(a/b);
+// console.log('x'-'y'-2)
+// console.log(2 * '3' + 3)

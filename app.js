@@ -802,3 +802,6 @@
 // let a = "5";
 // let b = +a;
 // console.log(typeof b)
+
+let x = Infinity;
+console.log(typeof x)

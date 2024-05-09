@@ -788,3 +788,10 @@
 // }
 
 // increase();
+
+var a = 0;
+function fun(a){
+    console.log(a);
+    var a = 10;
+}
+fun(10);

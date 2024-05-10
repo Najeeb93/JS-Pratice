@@ -822,4 +822,8 @@
 
 // var arr = [1,2,3];
 // arr.pop();
-// console.log(arr)
+// console.log(arr)//last element remove
+
+var arr = [1,2,3];
+arr.push(4);
+console.log(arr)

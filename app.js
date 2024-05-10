@@ -819,3 +819,7 @@
 // console.log(a/b);
 // console.log('x'-'y'-2)
 // console.log(2 * '3' + 3)
+
+var arr = [1,2,3];
+arr.pop();
+console.log(arr)

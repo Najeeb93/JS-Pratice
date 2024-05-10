@@ -828,6 +828,6 @@
 // arr.push(4);
 // console.log(arr)// last element add
 
-var arr = [1,2,3,4];
-arr.shift(0);
-console.log(arr)// first element remove
+// var arr = [1,2,3,4];
+// arr.shift(0);
+// console.log(arr)// first element remove

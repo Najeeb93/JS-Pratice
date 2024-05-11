@@ -844,6 +844,6 @@
 // var allFname = fname[fname.length-1];
 // console.log(allFname);
 
-var x = 7;
-var y = (typeof x).length
-console.log(y);
+// var x = 7;
+// var y = (typeof x).length
+// console.log(y);

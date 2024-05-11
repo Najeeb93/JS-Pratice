@@ -840,6 +840,6 @@
 // var x = 10;
 // console.log(x++)
 
-var fname = ['banana','apple','orange'];
-var allFname = fname[fname.length-1];
-console.log(allFname);
+// var fname = ['banana','apple','orange'];
+// var allFname = fname[fname.length-1];
+// console.log(allFname);

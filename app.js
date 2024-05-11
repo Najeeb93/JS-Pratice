@@ -859,9 +859,9 @@
 // }
 // bar();
 
-var a = {};
-var b = [];
-var c = () => {};
-console.log(typeof a);
-console.log(typeof b);
-console.log(typeof c)
+// var a = {};
+// var b = [];
+// var c = () => {};
+// console.log(typeof a);
+// console.log(typeof b);
+// console.log(typeof c)

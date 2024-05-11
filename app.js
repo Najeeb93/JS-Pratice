@@ -836,3 +836,6 @@
 // console.log(3 > 2 > 1)
 
 // console.log(1 < 2 < 3)
+
+var x = 10;
+console.log(x++)

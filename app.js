@@ -843,3 +843,7 @@
 // var fname = ['banana','apple','orange'];
 // var allFname = fname[fname.length-1];
 // console.log(allFname);
+
+var x = 7;
+var y = (typeof x).length
+console.log(y);

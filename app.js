@@ -847,6 +847,7 @@
 // var x = 7;
 // var y = (typeof x).length
 // console.log(y);
+
 // var x = 10;
 // function foo(){
 //     console.log(x);
@@ -857,3 +858,10 @@
 
 // }
 // bar();
+
+var a = {};
+var b = [];
+var c = () => {};
+console.log(typeof a);
+console.log(typeof b);
+console.log(typeof c)

@@ -847,3 +847,13 @@
 // var x = 7;
 // var y = (typeof x).length
 // console.log(y);
+var x = 10;
+function foo(){
+    console.log(x);
+}
+function bar(){
+    var x = 20;
+    foo();
+
+}
+bar();

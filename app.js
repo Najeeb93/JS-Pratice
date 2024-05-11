@@ -831,3 +831,6 @@
 // var arr = [1,2,3,4];
 // arr.shift(0);
 // console.log(arr)// first element remove
+
+console.log(3 < 2 < 1)
+console.log(3 > 2 > 1)

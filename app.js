@@ -871,3 +871,8 @@
 // console.log(1 < 2 < 3)
 // console.log(3 > 2 > 1)
 // console.log(true == 1)
+
+var x = [1,2,3];
+var y = x;
+y.push(4);
+console.log(x === y)

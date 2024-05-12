@@ -865,3 +865,5 @@
 // console.log(typeof a);
 // console.log(typeof b);
 // console.log(typeof c)
+
+console.log(1 + '1' - 1)

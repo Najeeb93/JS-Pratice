@@ -878,27 +878,27 @@
 // console.log(x === y)
 
 
-var day = prompt('Enter a day')
-switch(day){
-    case 'monday': 
-        console.log('work day');
-        break
-    case 'tuesday':
-        console.log('work day')
-        break
-    case 'wednesday':
-        console.log('work day')
-        break
-    case  'thusrday':
-        console.log('work day')
-        break
-    case 'friday':
-        console.log('half day')
-        break
-    case 'saturday':
-        console.log('off day')
-        break
-    default:
-        console.log('holiday')     
+// var day = prompt('Enter a day')
+// switch(day){
+//     case 'monday': 
+//         console.log('work day');
+//         break
+//     case 'tuesday':
+//         console.log('work day')
+//         break
+//     case 'wednesday':
+//         console.log('work day')
+//         break
+//     case  'thusrday':
+//         console.log('work day')
+//         break
+//     case 'friday':
+//         console.log('half day')
+//         break
+//     case 'saturday':
+//         console.log('off day')
+//         break
+//     default:
+//         console.log('holiday')     
 
-}
+// }

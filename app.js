@@ -886,6 +886,13 @@ switch(day){
         console.log('work day')
     case 'wednesday':
         console.log('work day')
-    case  ''  
+    case  'thusrday':
+        console.log('work day')
+    case 'friday':
+        console.log('half day')
+    case 'saturday':
+        console.log('off day')
+    default:
+        console.log('holiday')     
 
 }

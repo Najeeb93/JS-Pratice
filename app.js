@@ -877,3 +877,15 @@
 // y.push(4);
 // console.log(x === y)
 
+
+var day = prompt('Enter a day')
+switch(day){
+    case 'monday': 
+        console.log('work day');
+    case 'tuesday':
+        console.log('work day')
+    case 'wednesday':
+        console.log('work day')
+    case  ''  
+
+}

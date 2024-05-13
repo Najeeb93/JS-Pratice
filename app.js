@@ -903,9 +903,9 @@
 
 // } 
 
-function currentDateTime(){
-    var now = new Date();
-    var dateTime = now.toLocaleString();
-    document.write('The current date time is: ' + dateTime)
-}
-currentDateTime();
+// function currentDateTime(){
+//     var now = new Date();
+//     var dateTime = now.toLocaleString();
+//     document.write('The current date time is: ' + dateTime)
+// }
+// currentDateTime();

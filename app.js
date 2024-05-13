@@ -901,4 +901,11 @@
 //     default:
 //         console.log('holiday')     
 
-// }
+// } 
+
+function currentDateTime(){
+    var now = new Date();
+    var dateTime = now.toLocaleString();
+    document.write('The current date time is: ' + dateTime)
+}
+currentDateTime();

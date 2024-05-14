@@ -927,5 +927,14 @@
 // }
 // addNumber();
 
+function computeOperator(){
+    var num1 = +prompt("Enter the first number");
+    var num2 = +prompt("Enter the second number");
+    var operator = prompt("Enter the operator (+, -, *, /):")
+    var result = (num1, num2, operator);
+    document.write("The result of " + num1 + " " + operator + " " + num2 + " is " + result);
+    return eval(num1 + operator + num2)
+}
+computeOperator()
 // var x = 1;
 // console.log(++x + x++)

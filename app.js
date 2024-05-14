@@ -918,14 +918,14 @@
 // }
 // greetUser();
 
-function addNumber(){
-    var num1 = +prompt("Enter the first number");
-    var num2 = +prompt("Enter the second number");
+// function addNumber(){
+//     var num1 = +prompt("Enter the first number");
+//     var num2 = +prompt("Enter the second number");
 
-    var sum = num1 + num2;
-    document.write("The sum of " + num1 + " and " + num2 + " is " + sum);
-}
-addNumber();
+//     var sum = num1 + num2;
+//     document.write("The sum of " + num1 + " and " + num2 + " is " + sum);
+// }
+// addNumber();
 
 // var x = 1;
 // console.log(++x + x++)

@@ -909,3 +909,6 @@
 //     document.write('The current date time is: ' + dateTime)
 // }
 // currentDateTime();
+
+var x = 1;
+console.log(++x + x++)

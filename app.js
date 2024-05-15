@@ -942,6 +942,6 @@
 // var arr = [];
 // arr[0]= [1];
 // console.log(arr) 
-var x = 1;
-var x = x++ + ++x;
-console.log(x)
+// var x = 1;
+// var x = x++ + ++x;
+// console.log(x)

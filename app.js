@@ -957,3 +957,4 @@
     // var a = 0;
     // var b = [];
     // console.log(a == b);
+console.log(null == 0)

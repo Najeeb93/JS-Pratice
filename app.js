@@ -948,7 +948,7 @@
 // console.log("2" > 1)
 
 // var x = "";
-// console.log(x == undefined)
+// cosole.log(x == undefined)
 // var x = 10 % 3;
 // console.log(x)
 // var a = 3;
@@ -961,4 +961,10 @@
 // var x = false;
 // var y = !x;
 // console.log(y)
-console.log(!![])
+// console.log(!![])
+var a = 0;
+function fun(){
+    console.log(a)
+    var a = 5;
+}
+fun();

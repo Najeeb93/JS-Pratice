@@ -951,3 +951,6 @@
 // console.log(x == undefined)
 // var x = 10 % 3;
 // console.log(x)
+var a = 3;
+var b = a ** 2;
+console.log(b)

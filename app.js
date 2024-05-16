@@ -961,3 +961,4 @@
 // var x = false;
 // var y = !x;
 // console.log(y)
+console.log(!![])

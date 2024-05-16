@@ -958,3 +958,6 @@
     // var b = [];
     // console.log(a == b);
 console.log(null == 0)
+var x = false;
+var y = !x;
+console.log(y)

@@ -945,4 +945,4 @@
 // var x = 1;
 // var x = x++ + ++x;
 // console.log(x)
-console.log("2" > 1)
+// console.log("2" > 1)

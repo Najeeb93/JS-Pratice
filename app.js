@@ -949,5 +949,5 @@
 
 // var x = "";
 // console.log(x == undefined)
-var x = 10 % 3;
-console.log(x)
+// var x = 10 % 3;
+// console.log(x)

@@ -954,6 +954,6 @@
 // var a = 3;
 // var b = a ** 2;
 // console.log(b)
-// var a = 0;
-// var b = [];
-// console.log(a == b);
+    // var a = 0;
+    // var b = [];
+    // console.log(a == b);

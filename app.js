@@ -962,9 +962,10 @@
 // var y = !x;
 // console.log(y)
 // console.log(!![])
-var a = 0;
-function fun(){
-    console.log(a)
-    var a = 5;
-}
-fun();
+// var a = 0;
+// function fun(){
+//     console.log(a)
+//     var a = 5;
+// }
+// fun();
+// console.log(3 > 1 == 1)

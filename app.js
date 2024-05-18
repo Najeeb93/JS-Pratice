@@ -982,3 +982,12 @@
 // while(i < 5){
 //     console.log(i)
 // }
+var match = true;
+var count = 0;
+while(match){
+    count += 1;
+    console.log(count)
+    if(count >= 2) {
+        match = false
+    }
+}

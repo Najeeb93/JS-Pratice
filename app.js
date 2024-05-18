@@ -976,5 +976,5 @@
 //     console.log(a)
 // }
 // get();
-var city = "karachi";
-console.log(city[0])
+// var city = "karachi";
+// console.log(city[0])

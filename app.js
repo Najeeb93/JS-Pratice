@@ -970,10 +970,9 @@
 // fun();
 // console.log(3 > 1 == 1)  
 
-var a = 5;
-function get(){
-    var a = 10 + 2
-    console.log(a)
-}
-
-get();
+// var a = 5;
+// function get(){
+//     var a = 10 + 2
+//     console.log(a)
+// }
+// get();

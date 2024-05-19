@@ -992,3 +992,6 @@
 //     }
 // }
 // console.log(true * 3 ** 3);
+var x = 5 + '9';
+var y = 10 - '5';
+console.log(x,y)

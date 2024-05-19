@@ -995,3 +995,7 @@
 // var x = 5 + '9';
 // var y = 10 - '5';
 // console.log(x,y)
+var a = 4;
+var b = 2;
+var c = a * 2;
+console.log(a - b * c)

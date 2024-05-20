@@ -1007,5 +1007,5 @@
 // console.log(+true);
 // console.log(!'baby');
 
-var x = 10;
-console.log(x++ + ++x)
+// var x = 10;
+// console.log(x++ + ++x)

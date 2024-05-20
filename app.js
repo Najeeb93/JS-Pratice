@@ -1009,3 +1009,4 @@
 
 // var x = 10;
 // console.log(x++ + ++x)
+console.log(10 > 9 == 9 > 8)

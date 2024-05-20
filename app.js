@@ -1006,3 +1006,6 @@
 // console.log(10 + "")
 // console.log(+true);
 // console.log(!'baby');
+
+var x = 10;
+console.log(x++ + ++x)

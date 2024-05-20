@@ -1000,3 +1000,9 @@
 // var c = a * 2;
 // console.log(a - b * c)
 // console.log( "" == false)
+// console.log("1" - - "1")
+// console.log('banana' > 'Banana')
+// console.log(typeof(8 + 3 + '2'))
+// console.log(10 + "")
+// console.log(+true);
+// console.log(!'baby');

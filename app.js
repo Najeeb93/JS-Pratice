@@ -1013,3 +1013,28 @@
 
 // var a = [1,2,3,4,5];
 // console.log(a.slice(2,2))
+
+// var bracket = "{[()]}"
+// var bracket1 = "{[(])}"
+// var bracket2 = "{{[[(())]]}}"
+
+
+// function balance (){
+
+//     var stack = [];
+//     var opening = '{[(';
+//     var closing = '})]';
+//     var matching = 
+
+
+// }
+// for(var i = 0 ; i < 10 ; i++ ){
+//     setTimeout(function(){
+//     console.log(i)
+
+// },2000)
+// }
+
+
+
+

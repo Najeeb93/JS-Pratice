@@ -1035,11 +1035,11 @@
 // },2000)
 // }
 
-var a = true;
-var b = false;
-var x = null;
-var result = (x == null);
-console.log(result);
+// var a = true;
+// var b = false;
+// var x = null;
+// var result = (x == null);
+// console.log(result);
 
 
 

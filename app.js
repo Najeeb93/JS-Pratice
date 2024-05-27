@@ -1041,9 +1041,9 @@
 // var result = (x == null);
 // console.log(result);
 
-var name1 = ["baby"];
-var name2 = "baby";
- console.log(name1 == name2);
+// var name1 = ["baby"];
+// var name2 = "baby";
+//  console.log(name1 == name2);
 
 
 

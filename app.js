@@ -1045,5 +1045,9 @@
 // var name2 = "baby";
 //  console.log(name1 == name2);
 
+let sum = 0;
+for(let i = 0; i < 3; i++,sum++)
+    console.log(sum)
+    {sum += i}
 
 

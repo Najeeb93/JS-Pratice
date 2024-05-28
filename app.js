@@ -1068,3 +1068,6 @@
 
 // var x = 9 + ["4"];
 // console.log(x);
+
+console.log("09">"19");
+console.log("9">"19");

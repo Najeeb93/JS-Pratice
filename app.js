@@ -1061,6 +1061,6 @@
 //     var x = 8;
 // }
 // fun();
-for(var i = 1; i < 2; i++){
-    console.log(`baby ${i}`);
-}
+// for(var i = 1; i < 2; i++){
+//     console.log(`baby ${i}`);
+// }

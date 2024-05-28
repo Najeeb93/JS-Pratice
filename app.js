@@ -1066,5 +1066,5 @@
 //     console.log(`baby ${i}`);
 // }
 
-var x = 9 + ["4"];
-console.log(x);
+// var x = 9 + ["4"];
+// console.log(x);

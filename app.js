@@ -1054,4 +1054,10 @@
 // var arr2 = arr1.push(5);
 // console.log(arr1.length);
 
+var x = 2;
 
+function fun(){
+    console.log(x);
+    var x = 8;
+}
+fun();

@@ -1077,6 +1077,6 @@
 // var a = true + true + true * 3;
 // var b = true + true + true ** 3;
 // console.log(a,b);
-var x = 2;
-x = x +(x += 2);
-console.log(x);
+// var x = 2;
+// x = x +(x += 2);
+// console.log(x);

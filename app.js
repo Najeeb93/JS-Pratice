@@ -1080,3 +1080,5 @@
 // var x = 2;
 // x = x +(x += 2);
 // console.log(x);
+var y = true + false;
+console.log(y)

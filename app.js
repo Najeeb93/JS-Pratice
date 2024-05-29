@@ -1071,3 +1071,6 @@
 
 // console.log("09">"19");
 // console.log("9">"19");
+var x = "false";
+var y = !x;
+console.log(y);

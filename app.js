@@ -1084,6 +1084,6 @@
 // console.log(y)
 // var numbers = [1,2,3];
 // console.log(numbers[1]);
-var x = "50";
-var result = +x;
-console.log(result)
+// var x = "50";
+// var result = +x;
+// console.log(result)

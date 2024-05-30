@@ -1082,3 +1082,5 @@
 // console.log(x);
 // var y = true + false;
 // console.log(y)
+var numbers = [1,2,3];
+console.log(numbers[1]);

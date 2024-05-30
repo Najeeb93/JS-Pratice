@@ -1100,3 +1100,7 @@
 // var str1 = str.split('').reverse().join('')
 // console.log(typeof str == typeof str1)
 // console.log(str == str1)
+var str = 'abcd';
+console.log(str[0]);
+str[0] = 'e';
+console.log(str[0]);

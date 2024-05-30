@@ -1096,7 +1096,7 @@
 //     console.log(this.name)
 // }
 // doSomething();
-var str = 'abcd';
-var str1 = str.split('').reverse().join('')
-console.log(typeof str == typeof str1)
-console.log(str == str1)
+// var str = 'abcd';
+// var str1 = str.split('').reverse().join('')
+// console.log(typeof str == typeof str1)
+// console.log(str == str1)

@@ -1087,3 +1087,6 @@
 // var x = "50";
 // var result = +x;
 // console.log(result)
+var x = 7;
+var y = (typeof x).length;
+console.log(y);

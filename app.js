@@ -1090,9 +1090,9 @@
 // var x = 7;
 // var y = (typeof x).length;
 // console.log(y);
-var name = 'javascript';
-function doSomething(){
-    var name = 'Angular'
-    console.log(this.name)
-}
-doSomething();
+// var name = 'javascript';
+// function doSomething(){
+//     var name = 'Angular'
+//     console.log(this.name)
+// }
+// doSomething();

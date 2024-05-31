@@ -1105,6 +1105,6 @@
 // str[0] = 'e';
 // console.log(str[0]);
 // console.log(+"2"+2)
-var numbers = [1,2,3,4,5];
-var [y] = numbers;
-console.log(y);
+// var numbers = [1,2,3,4,5];
+// var [y] = numbers;
+// console.log(y);

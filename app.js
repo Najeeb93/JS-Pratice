@@ -1104,4 +1104,4 @@
 // console.log(str[0]);
 // str[0] = 'e';
 // console.log(str[0]);
-console.log(+"2"+2)
+// console.log(+"2"+2)

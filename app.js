@@ -1111,3 +1111,6 @@
 // var arr = ["eat","sleep","baby"];
 // var a = arr.pop();
 // console.log(a);
+console.log(2 + "2" - 1);
+var x =  parseInt(9 + '9' + 9);
+console.log(x)

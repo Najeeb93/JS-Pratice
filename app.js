@@ -1108,6 +1108,6 @@
 // var numbers = [1,2,3,4,5];
 // var [y] = numbers;
 // console.log(y);
-var arr = ["eat","sleep","baby"];
-var a = arr.pop();
-console.log(a);
+// var arr = ["eat","sleep","baby"];
+// var a = arr.pop();
+// console.log(a);

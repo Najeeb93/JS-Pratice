@@ -1121,3 +1121,21 @@
 // var y = "Love";
 // console.log(x || y);
 // console.log(x && y);
+
+
+// Q. to move all the nonzero value to the left side and the zeros value to the 
+// right side of the array
+
+var arr = [2,5,6,0,0,2,5];
+var result = [];
+for(var i = 0; i < arr.length; i++){
+    var num = arr[i]
+    if(num !== 0){
+        result.unshift(num)
+    }
+    else{
+        result.push(num)
+    }
+        
+}
+console.log(result)

@@ -1117,7 +1117,7 @@
 // var x = true + true;
 // var y = x + false;
 // console.log(y)
-var x = 40 ;
-var y = "Love";
-console.log(x || y);
-console.log(x && y);
+// var x = 40 ;
+// var y = "Love";
+// console.log(x || y);
+// console.log(x && y);

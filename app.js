@@ -1128,6 +1128,9 @@
 // num[0] = 70;
 // num[7] = 30;
 // console.log(num.length)
+var x = 5;
+var y = (x = 10)+3;
+console.log(x,y)
 
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array

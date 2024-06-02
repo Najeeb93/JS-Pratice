@@ -1136,6 +1136,9 @@
 // var [x,y,z] = numbers
 // console.log(x,y,z);
 
+var  num = [0,1,2,3,4,5];
+console.log(num.length-1)
+
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

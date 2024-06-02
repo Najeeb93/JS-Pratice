@@ -1143,6 +1143,10 @@
 // var list = ["C","O","D","E"];
 // console.log(list[count++])
 
+ function square(a,b) {
+    return a ** b
+}
+console.log(square(2,3))
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

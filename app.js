@@ -1139,6 +1139,10 @@
 // var  num = [0,1,2,3,4,5];
 // console.log(num.length-1)
 
+var count = 3;
+var list = ["C","O","D","E"];
+console.log(list[count++])
+
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

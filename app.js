@@ -1132,9 +1132,9 @@
 // var y = (x = 10)+3;
 // console.log(x,y) 
 
-var numbers = [1,2,3];
-var [x,y,z] = numbers
-console.log(x,y,z);
+// var numbers = [1,2,3];
+// var [x,y,z] = numbers
+// console.log(x,y,z);
 
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array

@@ -1147,13 +1147,13 @@
 //     return a ** b
 // }
 // console.log(square(2,3))
-console.log("0" > 9)
-var a = 0;
-function fun(a){
-    console.log(a);
-    var a = 5;
-}
-fun(10)
+// console.log("0" > 9)
+// var a = 0;
+// function fun(a){
+//     console.log(a);
+//     var a = 5;
+// }
+// fun(10)
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

@@ -1154,12 +1154,12 @@
 //     var a = 5;
 // }
 // fun(10)
-for(var x = 0; x < 5; x++){
-    if(x === 4){
-        continue;
-    }
-    console.log(x);
-}
+// for(var x = 0; x < 5; x++){
+//     if(x === 4){
+//         continue;
+//     }
+//     console.log(x);
+// }
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

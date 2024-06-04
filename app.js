@@ -1165,6 +1165,9 @@
 // console.log("true" == true)
 // console.log(true+true)
 // console.log( {} == {})
+for(var i = 3; i > 2; i--){
+    console.log(`i have ${i} babies`)
+}
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

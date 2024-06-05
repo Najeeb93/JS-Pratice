@@ -1171,6 +1171,10 @@
 // var num = 2;
 // var num = 8;
 // console.log(num)
+var a = [1,2,3];
+var b = a;
+b[0] = 0;
+console.log(a)
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

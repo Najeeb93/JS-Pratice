@@ -1180,6 +1180,14 @@
 //   var a = null;
 //   var result = (x == null);
 //   console.log(a = result);
+function checkEquality(a,b){
+    if(a === b){
+        console.log("Equal");
+    }else{
+        console.log("Not Equal");
+    }
+}
+checkEquality(0,'0')
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

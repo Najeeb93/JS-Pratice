@@ -1188,15 +1188,15 @@
 //     }
 // }
 // checkEquality(0,'0')
-function test(){
-    var x = 1;
-    if(true){
-        var x = 2;
-        console.log(x)
-    }
-    console.log(x)
-}
-test();
+// function test(){
+//     var x = 1;
+//     if(true){
+//         var x = 2;
+//         console.log(x)
+//     }
+//     console.log(x)
+// }
+// test();
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

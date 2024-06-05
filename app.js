@@ -1197,9 +1197,9 @@
 //     console.log(x)
 // }
 // test();
-var x = 0;
-var y = {};
-console.log(x == y)
+// var x = 0;
+// var y = {};
+// console.log(x == y)
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

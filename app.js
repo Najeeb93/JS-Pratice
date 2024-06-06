@@ -1214,10 +1214,10 @@
 //     console.log(a);
 // }
 // foo();
-let a = [1,2,3];
-let b = a;
-b.push(4);
-console.log(a.length);
+// let a = [1,2,3];
+// let b = a;
+// b.push(4);
+// console.log(a.length);
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

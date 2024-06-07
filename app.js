@@ -1230,7 +1230,7 @@
 // let a ='5';
 // let b = +a;
 // console.log(typeof b);
-// let x = 5;
+// let a = 5;
 // {
 //     let x = 6;
 //     }
@@ -1249,6 +1249,7 @@
 // }
 // data();
 // console.log(a)
+
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

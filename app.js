@@ -1236,10 +1236,10 @@
 //     }
 //     x += 0;
 //     console.log(x)
-let obj = {name: 'Alice',
-     age: 20,
-};
-console.log(obj.name);
+// let obj = {name: 'Alice',
+//      age: 20,
+// };
+// console.log(obj.name);
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

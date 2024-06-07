@@ -1240,6 +1240,15 @@
 //      age: 20,
 // };
 // console.log(obj.name);
+var a = 1;
+function data(){
+    if(!a){
+        var a =10;
+    }
+    console.log(a);
+}
+data();
+console.log(a)
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

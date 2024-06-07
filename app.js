@@ -1227,6 +1227,9 @@
 //     }
 // }
 // foo();
+let a ='5';
+let b = +a;
+console.log(typeof b);
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

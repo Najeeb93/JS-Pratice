@@ -1255,9 +1255,9 @@
 // }
 // console.log(add(5,3))
 
-let obj = {a:1,b:2,c:3};
-const key = 'c';
-console.log(obj[key])
+// let obj = {a:1,b:2,c:3};
+// const key = 'c';
+// console.log(obj[key])
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

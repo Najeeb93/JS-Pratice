@@ -1218,6 +1218,15 @@
 // let b = a;
 // b.push(4);
 // console.log(a.length);
+function foo(){
+    let a = 7;
+    if(a === '7'){
+        return true;
+    }else{
+        return false;
+    }
+}
+foo();
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

@@ -1258,6 +1258,14 @@
 // let obj = {a:1,b:2,c:3};
 // const key = 'c';
 // console.log(obj[key])
+var a = 10;
+function abc(){
+    var a = 20;
+    console.log(a);
+}
+abc();
+console.log(a)
+
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

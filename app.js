@@ -1266,12 +1266,12 @@
 // abc();
 // console.log(a)
 // console.log(+'2'+3)
-var numbers = [1,2,3,4,5];
-var sum = 0;
-numbers.forEach(function(num){
-    sum += num;
-    });
-console.log(sum);
+// var numbers = [1,2,3,4,5];
+// var sum = 0;
+// numbers.forEach(function(num){
+//     sum += num;
+//     });
+// console.log(sum);
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

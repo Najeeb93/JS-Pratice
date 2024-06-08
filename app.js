@@ -1277,10 +1277,10 @@
 // obj = null;
 // console.log(arr[0].name);
 // console.log(obj);
-var x = 40;
-var y = 'love';
-console.log(x || y);
-console.log(x && y);    
+// var x = 40;
+// var y = 'love';
+// console.log(x || y);
+// console.log(x && y);    
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

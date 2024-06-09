@@ -1285,6 +1285,9 @@
 // console.log(arr.length)
 // let arr = [1,2,3];
 // console.log(arr[3]);
+let x = true + true;
+let y = x + false;
+console.log(y);
 
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array

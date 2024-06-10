@@ -1299,12 +1299,12 @@
 // var y = 2;
 // var result = eval( x + y);
 // console.log(result);
-var a = 0;
-function foo(a){
-    console.log(a)
-    var a = 5;
-}
-foo(10);
+// var a = 0;
+// function foo(a){
+//     console.log(a)
+//     var a = 5;
+// }
+// foo(10);
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

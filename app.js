@@ -1295,10 +1295,10 @@
 // let a = 3;
 // let b = a ** 2;
 // console.log(b);
-var x = 5;
-var y = 2;
-var result = eval( x + y);
-console.log(result);
+// var x = 5;
+// var y = 2;
+// var result = eval( x + y);
+// console.log(result);
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

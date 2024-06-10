@@ -1313,12 +1313,12 @@
 // var b = [4,5,6];
 // var result = a.concat(b);
 // console.log(result.length);
-var name = 'javascript';
-function doSomething(){
-    var name = 'Angular'
-    console.log(this.name)
-}
-doSomething(); 
+// var name = 'javascript';
+// function doSomething(){
+//     var name = 'Angular'
+//     console.log(this.name)
+// }
+// doSomething(); 
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

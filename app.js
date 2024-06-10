@@ -1309,6 +1309,10 @@
 //     return arguments.length;
 // }
 // console.log(add(1,2,3));
+var a = [1,2,3];
+var b = [4,5,6];
+var result = a.concat(b);
+console.log(result.length);
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array
 

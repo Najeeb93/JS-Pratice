@@ -1319,8 +1319,13 @@
 //     console.log(this.name)
 // }
 // doSomething(); 
+function convertToNumber(num){
+return +num;
+}
+console.log(convertToNumber(null));
+console.log(convertToNumber(undefined));
 // Q. to move all the nonzero value to the left side and the zeros value to the 
-// right side of the array
+// right side of the array 
 
 // var arr = [2,5,6,0,0,2,5];
 // var result = [];

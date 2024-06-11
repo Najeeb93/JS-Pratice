@@ -1330,6 +1330,13 @@
 // obj.__proto__ = Array.prototype;
 // console.log(obj instanceof Array);
 // console.log(Array.isArray(obj))
+var name = function name(){
+    console.log('React js')
+}
+function name(){
+    console.log('javascript')
+}
+name()
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

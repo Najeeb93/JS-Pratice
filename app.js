@@ -1324,6 +1324,12 @@
 // }
 // console.log(convertToNumber(null));
 // console.log(convertToNumber(undefined));
+const obj = {
+    name: 'hello'
+}
+obj.__proto__ = Array.prototype;
+console.log(obj instanceof Array);
+console.log(Array.isArray(obj))
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

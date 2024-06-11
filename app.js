@@ -1351,6 +1351,12 @@
 // }
 // console.log(a);
 // console.log(b);  
+var student = {
+    firstName: 'Najeeb',
+    lastName: 'Ahmed',
+}
+console.log(student.firstName);
+console.log(student['lastName'];)
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

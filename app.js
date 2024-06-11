@@ -1337,10 +1337,10 @@
 //     console.log('javascript')
 // }
 // name()
-function sum(a,b){
-    return a+b;
-}
-console.log(sum(1,2,3,4));
+// function sum(a,b){
+//     return a+b;
+// }
+// console.log(sum(1,2,3,4));
 // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

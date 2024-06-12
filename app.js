@@ -1363,10 +1363,10 @@
 //     console.log(x);
 // }
 // fun();
-let arrA = [0,1,2,3,4,5];
-let arrB = arrA;
-arrB[0] = 42;
-console.log(arrA)
+// let arrA = [0,1,2,3,4,5];
+// let arrB = arrA;
+// arrB[0] = 42;
+// console.log(arrA)
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

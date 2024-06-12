@@ -1376,12 +1376,12 @@
 //     {name: 'Ahmed',age: 22},
 // ];
 // console.log(student[0].name)
-var userProfile = {
-    firstName: 'Najeeb',
-    lastName: 'Ahmed',
-    dateOfBirth: 1994
-}
-console.log(userProfile);
+// var userProfile = {
+//     firstName: 'Najeeb',
+//     lastName: 'Ahmed',
+//     dateOfBirth: 1994
+// }
+// console.log(userProfile);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

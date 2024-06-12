@@ -1351,12 +1351,7 @@
 // }
 // console.log(a);
 // console.log(b);  
-// var student = {
-//     firstName: 'Najeeb',
-//     lastName: 'Ahmed',
-// }
-// console.log(student.firstName);
-// console.log(student['lastName']);
+
 // let x = 2;
 // function fun(){
 //     let x = 10;
@@ -1371,6 +1366,15 @@
 // let objB = objA;
 // objB.prop1 = 90;
 // console.log(objA.prop1);
+
+//===============**Object** =============//
+
+// var student = {
+//     firstName: 'Najeeb',
+//     lastName: 'Ahmed',
+// }
+// console.log(student.firstName);
+// console.log(student['lastName']);
 // var student = [
 //     {name: 'Ali',age: 20},
 //     {name: 'Ahmed',age: 22},
@@ -1393,9 +1397,12 @@
 // console.log(userProfile.getName());
 // var userProfile1 = Object.create(userProfile);
 // userProfile1.firstName = "Ahsan";
-// userProfile1.lastName = "Samad";
+// userProfile1.lastName = "Ahmed";
 // userProfile1.dateOfBirth = 1990;
 // console.log(userProfile1);
+
+//================= End ==============//
+
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

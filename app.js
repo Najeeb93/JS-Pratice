@@ -1382,15 +1382,15 @@
 //     dateOfBirth: 1994
 // }
 // console.log(userProfile);
-var userProfile = {
-    firstName: 'Najeeb',
-    lastName: 'Ahmed',
-    dateOfBirth: 1994,
-    getName: function(){
-        return "user's name: " + this.firstName + " " + this.lastName;
-    }
-};
-console.log(userProfile.getName());
+// var userProfile = {
+//     firstName: 'Najeeb',
+//     lastName: 'Ahmed',
+//     dateOfBirth: 1994,
+//     getName: function(){
+//         return "user's name: " + this.firstName + " " + this.lastName;
+//     }
+// };
+// console.log(userProfile.getName());
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

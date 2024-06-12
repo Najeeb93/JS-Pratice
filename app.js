@@ -1357,12 +1357,12 @@
 // }
 // console.log(student.firstName);
 // console.log(student['lastName']);
-let x = 2;
-function fun(){
-    let x = 10;
-    console.log(x);
-}
-fun();
+// let x = 2;
+// function fun(){
+//     let x = 10;
+//     console.log(x);
+// }
+// fun();
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

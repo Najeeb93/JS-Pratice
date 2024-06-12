@@ -1367,6 +1367,10 @@
 // let arrB = arrA;
 // arrB[0] = 42;
 // console.log(arrA)
+let objA = {prop1: 42};
+let objB = objA;
+objB.prop1 = 90;
+console.log(objA.prop1);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

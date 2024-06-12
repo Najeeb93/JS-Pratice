@@ -1371,11 +1371,11 @@
 // let objB = objA;
 // objB.prop1 = 90;
 // console.log(objA.prop1);
-var student = [
-    {name: 'Ali',age: 20},
-    {name: 'Ahmed',age: 22},
-];
-console.log(student[0].name)
+// var student = [
+//     {name: 'Ali',age: 20},
+//     {name: 'Ahmed',age: 22},
+// ];
+// console.log(student[0].name)
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

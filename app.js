@@ -1400,7 +1400,16 @@
 // userProfile1.lastName = "Ahmed";
 // userProfile1.dateOfBirth = 1990;
 // console.log(userProfile1);
-
+var person = {
+    name: 'jhon',
+    age: '30',
+};
+var address = {
+    street: '123 Main street',
+    city: 'Example City',
+};
+var personWithAddress = Object.assign({}, person, address);
+console.log(personWithAddress)
 //================= End ==============//
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 

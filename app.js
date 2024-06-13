@@ -1410,17 +1410,17 @@
 // };
 // var personWithAddress = Object.assign({}, person, address);
 // console.log(personWithAddress)
-var car = {
-    make: '',
-    model: '',
-    getDescription: function() {
-        return this.make + ' ' + this.model;
-    }
-}
-var myCar = Object.create(car);
-myCar.make = 'Toyota';
-myCar.model = 'Corolla';
-console.log(myCar.getDescription());
+// var car = {
+//     make: '',
+//     model: '',
+//     getDescription: function() {
+//         return this.make + ' ' + this.model;
+//     }
+// }
+// var myCar = Object.create(car);
+// myCar.make = 'Toyota';
+// myCar.model = 'Corolla';
+// console.log(myCar.getDescription());
 //================= End ==============//
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 

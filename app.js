@@ -1425,6 +1425,12 @@
 //     name: 'Ahmed'
 // }
 // console.log('name' in obj)
+var user = {
+    firsrName: 'Ahmed',
+    lastName: 'Ali'
+}
+Object.freeze(user);
+console.log(user.firsrName);
 //================= End ==============//
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 

@@ -1421,10 +1421,10 @@
 // myCar.make = 'Toyota';
 // myCar.model = 'Corolla';
 // console.log(myCar.getDescription());
-var obj = {
-    name: 'Ahmed'
-}
-console.log('name' in obj)
+// var obj = {
+//     name: 'Ahmed'
+// }
+// console.log('name' in obj)
 //================= End ==============//
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 

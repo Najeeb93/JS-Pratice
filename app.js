@@ -1432,16 +1432,16 @@
 // let obj = {a:1,b:2,c:3};
 // const key = 'c';
 // console.log(obj[key])
-var cars = {
-    honda: { civic: 2020
-},
-    suzuki: {
-        swift: 2015
-    }
-}
-for( var key in cars){
-    console.log(cars[key])
-}
+// var cars = {
+//     honda: { civic: 2020
+// },
+//     suzuki: {
+//         swift: 2015
+//     }
+// }
+// for( var key in cars){
+//     console.log(cars[key])
+// }
 
 
 //================= End ==============//

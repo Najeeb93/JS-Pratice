@@ -1255,9 +1255,7 @@
 // }
 // console.log(add(5,3))
 
-// let obj = {a:1,b:2,c:3};
-// const key = 'c';
-// console.log(obj[key])
+//
 // var a = 10;
 // function abc(){
 //     var a = 20;
@@ -1431,6 +1429,10 @@
 // }
 // Object.freeze(user);
 // console.log(user.firsrName);
+// let obj = {a:1,b:2,c:3};
+// const key = 'c';
+// console.log(obj[key])
+
 //================= End ==============//
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 

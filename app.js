@@ -1443,13 +1443,13 @@
 //     console.log(cars[key])
 // }
 
-var person = {
-    firstName: 'Alice',
-    lastName: 'Johnson',
-    sayHello(){
-        console.log(`Hello, I 'm ${this.firstName} ${this.lastName}`);
-    },
-    }
+// var person = {
+//     firstName: 'Alice',
+//     lastName: 'Johnson',
+//     sayHello(){
+//         console.log(`Hello, I 'm ${this.firstName} ${this.lastName}`);
+//     },
+//     }
 
 //================= End ==============//
 

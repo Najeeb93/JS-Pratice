@@ -1451,11 +1451,11 @@
 //     },
 //     }
 
-var obj = {
-    name: 'Javascript',
-    getName: function(){console.log(this.name)}
-}
-obj.getName.call({name:'React js'});
+// var obj = {
+//     name: 'Javascript',
+//     getName: function(){console.log(this.name)}
+// }
+// obj.getName.call({name:'React js'});
 //================= End ==============//
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 

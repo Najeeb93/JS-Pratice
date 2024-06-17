@@ -1456,14 +1456,14 @@
 //     getName: function(){console.log(this.name)}
 // }
 // obj.getName.call({name:'React js'});
-var person = {
-    name: 'john',
-    age: '38',
-    greet: function(){
-        console.log('Hello, ' + this.name)
-    }
-};
-person.greet();
+// var person = {
+//     name: 'john',
+//     age: '38',
+//     greet: function(){
+//         console.log('Hello, ' + this.name)
+//     }
+// };
+// person.greet();
 
 //================= End ==============//
 

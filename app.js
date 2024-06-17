@@ -1456,6 +1456,15 @@
 //     getName: function(){console.log(this.name)}
 // }
 // obj.getName.call({name:'React js'});
+var person = {
+    name: 'john',
+    age: '38',
+    greet: function(){
+        console.log('Hello, ' + this.name)
+    }
+};
+person.greet();
+
 //================= End ==============//
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 

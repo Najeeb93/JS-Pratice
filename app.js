@@ -1465,13 +1465,13 @@
 // };
 // person.greet();
 
-var person = {
-    firstName: 'John',
-    lastName: 'Doe',
-    age: 50,
-    eyeColor: 'blue'
-}
-console.log(`${person.firstName} ${person.age}  year old.`)
+// var person = {
+//     firstName: 'John',
+//     lastName: 'Doe',
+//     age: 50,
+//     eyeColor: 'blue'
+// }
+// console.log(`${person.firstName} ${person.age}  year old.`)
 //================= End ==============//
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 

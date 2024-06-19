@@ -1479,12 +1479,12 @@
 
 // let a;
 // console.log(a + 2);
-var a = 5;
-function foo(){
-    console.log(a);
-    var a = 10;
-}
-foo();
+// var a = 5;
+// function foo(){
+//     console.log(a);
+//     var a = 10;
+// }
+// foo();
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

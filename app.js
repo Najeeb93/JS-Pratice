@@ -1474,8 +1474,8 @@
 // console.log(`${person.firstName} ${person.age}  year old.`)
 //================= End ==============//
 
-var a;
-console.log(a + 2);
+// var a;
+// console.log(a + 2);
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 

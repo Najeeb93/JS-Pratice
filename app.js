@@ -1490,7 +1490,10 @@
 // console.log(x == y);
 // const x = 0;
 // console.log(null == x);
-
+let num = 8;
+let res = 4 + num++;
+console.log(res);
+console.log(res);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

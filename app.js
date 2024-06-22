@@ -1507,9 +1507,9 @@
 //     var a = 5;
 // }
 // foo(10);
-const numbers = [33,2,8];
-numbers.sort();
-console.log(numbers[1])
+// const numbers = [33,2,8];
+// numbers.sort();
+// console.log(numbers[1])
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

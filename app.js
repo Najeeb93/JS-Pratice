@@ -1542,11 +1542,11 @@
 // console.log(typeof []);
 // console.log(typeof {});
 // console.log(Array.isArray([]));
-function last(arr){
-    return arr[arr.length - 1];
-}
-const items = ['a','b','c'];
-console.log(last(items));
+// function last(arr){
+//     return arr[arr.length - 1];
+// }
+// const items = ['a','b','c'];
+// console.log(last(items));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

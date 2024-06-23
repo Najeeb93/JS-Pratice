@@ -1513,8 +1513,8 @@
 // var arr1 = [];
 // var arr2 = [0];
 // console.log( arr1.length,arr2.length);
-var studentName = [['Ali',12,true],['Ahmed',10]];
-console.log(studentName[0][1]);
+// var studentName = [['Ali',12,true],['Ahmed',10]];
+// console.log(studentName[0][1]);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

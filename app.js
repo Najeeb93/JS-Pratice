@@ -1525,6 +1525,9 @@
 // console.log( arr1.length,arr2.length);
 // var studentName = [['Ali',12,true],['Ahmed',10]];
 // console.log(studentName[0][1]);
+var a = '20';
+var b = a = 30;
+console.log(a+b);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

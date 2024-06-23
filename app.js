@@ -1539,9 +1539,9 @@
 // var a = '20';
 // var b = a = 30;
 // console.log(a+b);
-console.log(typeof []);
-console.log(typeof {});
-console.log(Array.isArray([]));
+// console.log(typeof []);
+// console.log(typeof {});
+// console.log(Array.isArray([]));
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 

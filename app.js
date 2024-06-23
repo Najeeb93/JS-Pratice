@@ -1478,10 +1478,10 @@
 // }
 // var user2 = user1;
 // console.log(user2);
-const object1 = {key: 'value'};
-const object2 = {key: 'value'};
-console.log(object1 == object2);
-console.log(object1 === object2);
+// const object1 = {key: 'value'};
+// const object2 = {key: 'value'};
+// console.log(object1 == object2);
+// console.log(object1 === object2);
 //================= End ==============//
 
 // var a;

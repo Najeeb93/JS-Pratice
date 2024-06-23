@@ -1510,6 +1510,9 @@
 // const numbers = [33,2,8];
 // numbers.sort();
 // console.log(numbers[1])
+var arr1 = [];
+var arr2 = [0];
+console.log( arr1.length,arr2.length);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

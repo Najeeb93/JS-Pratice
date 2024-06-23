@@ -1482,6 +1482,17 @@
 // const object2 = {key: 'value'};
 // console.log(object1 == object2);
 // console.log(object1 === object2);
+const obj = {
+    name: 'Js'
+}
+setTimeout(()=> {
+    doSomething(obj)
+})
+function doSomething(course){
+    course.name = 'React';
+    course.name = '5';
+    console.log(course == obj);
+}
 //================= End ==============//
 
 // var a;
@@ -1528,6 +1539,7 @@
 // var a = '20';
 // var b = a = 30;
 // console.log(a+b);
+
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

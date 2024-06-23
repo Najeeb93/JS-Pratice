@@ -1472,6 +1472,12 @@
 //     eyeColor: 'blue'
 // }
 // console.log(`${person.firstName} ${person.age}  year old.`)
+var user1 = {
+    firstName: 'Hello',
+    lastName: 'world',
+}
+var user2 = user1;
+console.log(user2);
 //================= End ==============//
 
 // var a;

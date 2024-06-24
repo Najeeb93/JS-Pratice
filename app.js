@@ -1555,13 +1555,13 @@
 // var b = [4,5,6];
 // var result = a.concat(b)
 // console.log(result.length);
-function checkEqual(a,b){
-    if(a,b){
-        console.log('Equal')
-    }
-    else{console.log('Not equal')}
-}
-checkEqual(0,'0')
+// function checkEqual(a,b){
+//     if(a,b){
+//         console.log('Equal')
+//     }
+//     else{console.log('Not equal')}
+// }
+// checkEqual(0,'0');
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

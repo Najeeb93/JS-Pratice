@@ -1547,10 +1547,10 @@
 // }
 // const items = ['a','b','c'];
 // console.log(last(items));
-console.log("true" == true);
-let x = 10;
-let output = typeof(x + '5');
-console.log(output); // string
+// console.log("true" == true);
+// let x = 10;
+// let output = typeof(x + '5');
+// console.log(output); // string
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

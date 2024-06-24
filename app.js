@@ -1567,6 +1567,9 @@
 // checkEqual(0,'0');
 // var x = (10 + 20) * 5;
 // console.log(x);
+const z = [1,2,3,4,5];
+const [a,b] = z;
+console.log(a,b);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

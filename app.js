@@ -1493,9 +1493,9 @@
 //     course.name = '5';
 //     console.log(course == obj);
 // }
-let obj = {};
-obj.length = 8;
-console.log(obj.length);
+// let obj = {};
+// obj.length = 8;
+// console.log(obj.length);
 //================= End ==============//
 
 // var a;

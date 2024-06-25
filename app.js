@@ -1574,6 +1574,16 @@
 // let b = [...a];
 // b.push(4);
 // console.log(b);
+function reverseString(str){
+    let newString = "";
+    for( let i = str.length - 1; i >= 0; i--) {
+        newString += str[i];
+    }
+    return newString;
+}
+const string = prompt('Enter a string: ');
+const result = reverseString(string);
+console.log(result);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

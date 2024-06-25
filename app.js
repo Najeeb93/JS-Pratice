@@ -1606,9 +1606,9 @@
 // }
 // const array = [1,2,3,2,3];
 // getUnique(array);
-let name1 = ["baby"];
-let name2 = "baby";
-console.log(name1 == name2); 
+// let name1 = ["baby"];
+// let name2 = "baby";
+// console.log(name1 == name2); 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

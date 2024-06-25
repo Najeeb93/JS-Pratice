@@ -1584,6 +1584,14 @@
 // const string = prompt('Enter a string: ');
 // const result = reverseString(string);
 // console.log(result);
+function capitalizeFirstLetter(str){
+    const capitalized = str.charAt(0).toUpperCase() + str.slice(1);
+    
+    return capitalized;
+}
+const string = prompt('Enter a string: ');
+const res = capitalizeFirstLetter(string);
+console.log(res);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

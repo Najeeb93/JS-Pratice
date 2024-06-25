@@ -1611,6 +1611,8 @@
 // console.log(name1 == name2); 
 // let num = [0,1,2,3,4,5];
 // console.log(num.length -1);
+let x = 4;
+console.log(x++ + ++x);     
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -1624,6 +1624,10 @@
 // arr.pop();
 // arr.push(5);
 // console.log(arr);
+let a = 5;
+let b = a++;
+let c = a + b;
+console.log(c);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

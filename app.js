@@ -1628,6 +1628,10 @@
 // let b = a++;
 // let c = a + b;
 // console.log(c);
+const a = {x: 1};
+const b = {x: 1};
+console.log(a === b);
+console.log(a.x === b.x)
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

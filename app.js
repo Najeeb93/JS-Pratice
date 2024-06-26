@@ -1619,6 +1619,11 @@
 // let f = '8';
 // let a = 1;
 // console.log((+f)+a+1);
+const arr = [1,2,3];
+arr.push(4);
+arr.pop();
+arr.push(5);
+console.log(arr);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

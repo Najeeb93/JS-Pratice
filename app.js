@@ -1653,9 +1653,9 @@
 //     let x = 8;
 // }
 // foo();
-const numbers = [1,2,3,4];
-const [x,y] = numbers;
-console.log(x,y)
+// const numbers = [1,2,3,4];
+// const [x,y] = numbers;
+// console.log(x,y)
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

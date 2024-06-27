@@ -1559,7 +1559,7 @@
 // var result = a.concat(b)
 // console.log(result.length);
 // function checkEqual(a,b){
-//     if(a,b){
+//     if(a===b){
 //         console.log('Equal')
 //     }
 //     else{console.log('Not equal')}
@@ -1632,6 +1632,14 @@
 // const b = {x: 1};
 // console.log(a === b);
 // console.log(a.x === b.x)
+// const user = [
+//     {
+//     brand: 'samsung',
+//     model:'galaxy m33'
+//     }
+// ]
+// console.table(user);
+
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

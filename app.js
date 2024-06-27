@@ -1665,12 +1665,12 @@
 //      return f;                                             
 // }
 // console.log(checkscope()());
-const length = 4;
-const numbers = [];
-for ( var i = 0; i < length; i++) {
-    numbers.push(i + 1);
-}
-console.log(numbers);
+// const length = 4;
+// const numbers = [];
+// for ( var i = 0; i < length; i++) {
+//     numbers.push(i + 1);
+// }
+// console.log(numbers);    
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

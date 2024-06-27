@@ -1639,11 +1639,11 @@
 //     }
 // ]
 // console.table(user);
-const arr = [1,2,3,4];
-const arr2 = arr;
-arr2.push(6);
-console.log(arr);
-console.log(arr2);
+// const arr = [1,2,3,4];
+// const arr2 = arr;
+// arr2.push(6);
+// console.log(arr);
+// console.log(arr2);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

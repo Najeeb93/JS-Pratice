@@ -1656,6 +1656,15 @@
 // const numbers = [1,2,3,4];
 // const [x,y] = numbers;
 // console.log(x,y)
+var scope = 'js scope';
+function checkscope(){
+    var scope = 'javascript scope';
+     function f() {
+        return scope;
+     }     
+     return f;                                             
+}
+console.log(checkscope()());
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

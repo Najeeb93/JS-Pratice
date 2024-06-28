@@ -1682,7 +1682,7 @@
 // let a = '2';
 // let b = '2';
 // console.log(a-b);
-console.log("2" > 1);   
+// console.log("2" > 1);   
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

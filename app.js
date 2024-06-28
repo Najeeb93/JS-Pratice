@@ -1676,9 +1676,9 @@
 // console.log(arr);
 // const { length: len} = 'hello';
 // console.log(len)
-let arr = [1,2,3];
-arr[5] = 5;
-console.log(arr.length);
+// let arr = [1,2,3];
+// arr[5] = 5;
+// console.log(arr.length);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

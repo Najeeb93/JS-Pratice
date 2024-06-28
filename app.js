@@ -1683,9 +1683,9 @@
 // let b = '2';
 // console.log(a-b);
 // console.log("2" > 1);   
-let a = 1;
-a = a  ( a += 2);
-console.log(a);
+// let a = 1;
+// a = a  ( a += 2);
+// console.log(a);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

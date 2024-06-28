@@ -1679,6 +1679,9 @@
 // let arr = [1,2,3];
 // arr[5] = 5;
 // console.log(arr.length);
+let a = '2';
+let b = '2';
+console.log(a-b);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

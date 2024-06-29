@@ -1701,8 +1701,8 @@
 //     return arr[i]
 // }
 // abc();
-let str = 'Hello, World!';
-console.log(str.slice(7,-1));
+// let str = 'Hello, World!';
+// console.log(str.slice(7,-1));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

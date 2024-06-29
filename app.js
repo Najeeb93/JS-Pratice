@@ -1703,6 +1703,18 @@
 // abc();
 // let str = 'Hello, World!';
 // console.log(str.slice(7,-1));
+const arr = [1,2,444,3,7,9,59];
+let largest = arr[0];
+if(arr.length === 1) {
+    console.log('largest',arr[0]); 
+} else {
+    for(var i = 0; i < arr.length; i++){
+        if(largest < arr[i]){
+            largest = arr[i];
+        }
+    }
+    console.log('largest',largest);
+}
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

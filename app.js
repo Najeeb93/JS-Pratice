@@ -1686,10 +1686,10 @@
 // let a = 1;
 // a = a  ( a += 2);
 // console.log(a);
-const fruits = ["Banana", "Orange", "Apple", "Mango"];
+// const fruits = ["Banana", "Orange", "Apple", "Mango"];
 
-fruits.includes('mango');
-console.log(fruits)
+// fruits.includes('mango');
+// console.log(fruits)
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

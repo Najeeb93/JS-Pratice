@@ -1693,6 +1693,14 @@
 // var arr = [1,2,3];
 // arr[3] = 4;
 // console.log(arr)
+function abc(){
+    var arr = ['Hello world']
+    for( var i = 0; i < arr.length; i++){
+        console.log(arr[i])
+    }
+    return arr[i]
+}
+abc();
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

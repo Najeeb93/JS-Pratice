@@ -1690,9 +1690,9 @@
 
 // fruits.includes('mango');
 // console.log(fruits)
-var arr = [1,2,3];
-arr[3] = 4;
-console.log(arr)
+// var arr = [1,2,3];
+// arr[3] = 4;
+// console.log(arr)
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

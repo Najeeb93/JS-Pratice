@@ -1728,9 +1728,9 @@
 // let num = 5;
 // console.log(num++);
 // console.log(num);
-let str = "Hello Baby";
-let index = str.indexOf('Baby')
-console.log(index)
+// let str = "Hello Baby";
+// let index = str.indexOf('Baby')
+// console.log(index)
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -1719,6 +1719,12 @@
 //     return a + b;
 // }
 // console.log(sum(1,2,3,4));
+const animals = [ 'dog','cat','cow','horse','mouse'];
+let i = 0
+while(i < animals.length){
+    console.log(animals[i].toUpperCase());
+    i++;
+}
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

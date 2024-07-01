@@ -1749,10 +1749,10 @@
 // var array2 = array1;
 // array2.length = 0;
 // console.log(array1,array2);
-let a = 3;
-let b = new Number(3);
-console.log(a == b);
-console.log(a === b);
+// let a = 3;
+// let b = new Number(3);
+// console.log(a == b);
+// console.log(a === b);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

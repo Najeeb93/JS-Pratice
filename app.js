@@ -1731,15 +1731,15 @@
 // let str = "Hello Baby";
 // let index = str.indexOf('Baby')
 // console.log(index)
-function foo(){
-    let x = 1;
-    if(true) {
-        let x = 2;
-        console.log(x);
-    }
-    console.log(x);
-}
-foo();
+// function foo(){
+//     let x = 1;
+//     if(true) {
+//         let x = 2;
+//         console.log(x);
+//     }
+//     console.log(x);
+// }
+// foo();
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -1756,13 +1756,13 @@
 // let greeting = 'Hello';
 // greeting += ' World';
 // console.log(greeting);
-let isRaining = false;
-if(isRaining) {
-    console.log('Take an umbrella');
-}
-else {
-    console.log('No need to take an umbrella');
-}
+// let isRaining = false;
+// if(isRaining) {
+//     console.log('Take an umbrella');
+// }
+// else {
+//     console.log('No need to take an umbrella');
+// }
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

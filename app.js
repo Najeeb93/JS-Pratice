@@ -1782,6 +1782,15 @@
 // let x = !!"false";
 // let y = !!"";
 // console.log(x,y);
+var str = "Find longest word from a sentence";
+var words = str.split(" ");
+var longest = "";
+for(var i = 0; i < words.length; i++) {
+    if (words[i].length > longest.length) {
+        longest = words[i];
+    }
+}
+console.log(longest)
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

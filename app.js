@@ -1776,12 +1776,12 @@
 //     console.log(a,b);
 // }
 // console.log(a,b);
-let arr =[1,2,3,];
-arr[10] = 99;
-console.log(arr.length);
-let x = !!"false";
-let y = !!"";
-console.log(x,y);
+// let arr =[1,2,3,];
+// arr[10] = 99;
+// console.log(arr.length);
+// let x = !!"false";
+// let y = !!"";
+// console.log(x,y);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

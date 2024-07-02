@@ -1794,6 +1794,15 @@
 // let x = 5;
 // let y = x++;
 // console.log(x,y);
+var str = "  Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, nobis! Perferendis impedit autem pariatur optio rem vero id. Corporis, blanditiis quis ratione optio obcaecati dolore unde itaque consequuntur quos cumque.";
+var words = str.split(" ");
+var longest = "";
+for(var i = 0; i < words.length; i++) {
+    if(words[i].length > longest.length) {
+        longest = words[i];
+    }
+}
+console.log(longest);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

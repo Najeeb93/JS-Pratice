@@ -1791,9 +1791,9 @@
 //     }
 // }
 // console.log(longest);
-let x = 5;
-let y = x++;
-console.log(x,y);
+// let x = 5;
+// let y = x++;
+// console.log(x,y);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

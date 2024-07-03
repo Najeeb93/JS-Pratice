@@ -1808,6 +1808,11 @@
 //     var x = 20;
 // }
 // console.log(x);
+var num = 10;
+function addFive(x){
+    return x + 5;
+}
+console.log(addFive(num));
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 

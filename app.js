@@ -1816,12 +1816,12 @@
 // let y = 5;
 // y += 3;
 // console.log(y);
-let a = 10;
-(function (){
-    console.log(a);
-    a = 20;
-    console.log(a);
-})()
+// let a = 10;
+// (function (){
+//     console.log(a);
+//     a = 20;
+//     console.log(a);
+// })()
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

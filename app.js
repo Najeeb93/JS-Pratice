@@ -1832,15 +1832,14 @@
 // let b = a++;
 // let c = a + 1;
 // console.log(a,b,c);
-let x = 0;
-for( let i = 0; i <= 6; i += 2){
-    if( i === 4) {
-        continue
-    }
-    x += i;
-    
-}
-console.log(x);
+// let x = 0;
+// for( let i = 0; i <= 6; i += 2){
+//     if( i === 4) {
+//         continue
+//     }
+//     x += i;
+// }
+// console.log(x);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

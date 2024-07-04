@@ -1822,9 +1822,9 @@
 //     a = 20;
 //     console.log(a);
 // })()
-var num = 5;
-num += num++;
-console.log(num)
+// var num = 5;
+// num += num++;
+// console.log(num)
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

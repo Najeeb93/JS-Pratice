@@ -1851,9 +1851,9 @@
 // foo()
 // console.log(typeof a)
 // console.log(typeof b)
-let x = 5;
-let y = (x = 10) + 3;
-console.log(x,y);
+// let x = 5;
+// let y = (x = 10) + 3;
+// console.log(x,y);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

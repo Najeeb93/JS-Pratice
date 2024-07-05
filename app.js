@@ -1872,13 +1872,13 @@
 // let str = 'racecar';
 // let reversedStr = str.split('').reverse().join('');
 // console.log(str === reversedStr);
-const age = 25;
-const hasDriverLicense = true;
-if(age >= 18 && hasDriverLicense) {
-    console.log('You are eligible to drive!')
-} else {
-    console.log('You are not eligible to drive.')
-}
+// const age = 25;
+// const hasDriverLicense = true;
+// if(age >= 18 && hasDriverLicense) {
+//     console.log('You are eligible to drive!')
+// } else {
+//     console.log('You are not eligible to drive.')
+// }
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

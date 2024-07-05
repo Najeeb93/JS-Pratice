@@ -1869,9 +1869,9 @@
 // let arr = [1,2,3,4];
 // arr.length = 4;
 // console.log(arr);
-let str = 'racecar';
-let reversedStr = str.split('').reverse().join('');
-console.log(str === reversedStr);
+// let str = 'racecar';
+// let reversedStr = str.split('').reverse().join('');
+// console.log(str === reversedStr);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

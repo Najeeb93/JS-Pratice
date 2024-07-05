@@ -1866,6 +1866,9 @@
 //     }
 // }
 // console.log(foo());
+let arr = [1,2,3,4];
+arr.length = 4;
+console.log(arr);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

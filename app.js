@@ -1854,9 +1854,9 @@
 // let x = 5;
 // let y = (x = 10) + 3;
 // console.log(x,y);
-let b = 3;
-let c = b++ + ++b;
-console.log(c);
+// let b = 3;
+// let c = b++ + ++b;
+// console.log(c);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

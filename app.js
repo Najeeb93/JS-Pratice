@@ -1892,6 +1892,13 @@
 // let index = 0;
 // console.log(arr[index++]);
 // console.log(arr[++index]);
+const closureArray = [];
+for (let i = 0; i < 3; i++) {
+    closureArray.push(() => console.log(i))
+}
+closureArray[0]();
+closureArray[1]();
+closureArray[2]();
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

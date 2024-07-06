@@ -1879,9 +1879,9 @@
 // } else {
 //     console.log('You are not eligible to drive.')
 // }
-let m = 1;
-let n = ++m + m;
-console.log(n);
+// let m = 1;
+// let n = ++m + m;
+// console.log(n);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

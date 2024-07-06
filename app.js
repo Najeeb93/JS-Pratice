@@ -1882,12 +1882,12 @@
 // let m = 1;
 // let n = ++m + m;
 // console.log(n);
-const value = 0;
-if(value) {
-    console.log('Value is true');
-} else {
-    console.log('Value is false');
-}
+// const value = 0;
+// if(value) {
+//     console.log('Value is true');
+// } else {
+//     console.log('Value is false');
+// }
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -1888,10 +1888,10 @@
 // } else {
 //     console.log('Value is false');
 // }
-let arr = [10,20,30];
-let index = 0;
-console.log(arr[index++]);
-console.log(arr[++index]);
+// let arr = [10,20,30];
+// let index = 0;
+// console.log(arr[index++]);
+// console.log(arr[++index]);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

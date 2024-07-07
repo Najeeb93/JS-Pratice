@@ -1904,6 +1904,9 @@
 // let x = "false";
 // let y = !x;
 // console.log(y);
+let x = [2];
+let y = 2;
+console.log(x == y);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

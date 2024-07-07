@@ -1901,9 +1901,9 @@
 // closureArray[2]();
 // var x = 3; 
 // console.log(this.x);
-let x = "false";
-let y = !x;
-console.log(y);
+// let x = "false";
+// let y = !x;
+// console.log(y);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

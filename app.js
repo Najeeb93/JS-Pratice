@@ -1913,9 +1913,9 @@
 //     let a = 8;
 // }
 // foo();
-let x = 5;
-console.log(++x, x++);
-console.log(x);
+// let x = 5;
+// console.log(++x, x++);
+// console.log(x);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

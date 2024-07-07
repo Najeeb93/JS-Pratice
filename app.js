@@ -1907,6 +1907,12 @@
 // let x = [2];
 // let y = 2;
 // console.log(x == y);
+let a = 3;
+function foo() {
+    console.log(a);
+    let a = 8;
+}
+foo()
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

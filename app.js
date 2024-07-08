@@ -1934,6 +1934,10 @@
 //     return this;
 // }
 // console.log(typeof this);
+let x = "hello";
+let y = new String("hello");
+console.log(x == y);
+console.log( x === y);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

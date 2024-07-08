@@ -1949,6 +1949,9 @@
 //     },
 // };
 // person.greet();
+let x = 10;
+let y = 20;
+console.log("total = " + x + y);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

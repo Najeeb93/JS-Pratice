@@ -1960,6 +1960,12 @@
 // let x = 10.5;
 // let y = parseInt(x);
 // console.log(y);
+const num = 20;
+var fact = 1;
+for (let i = 0; i >= num; i++) {
+    fact = fact*i;
+}
+console.log(fact);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -1938,17 +1938,17 @@
 // let y = new String("hello");
 // console.log(x == y);
 // console.log( x === y);
-const person = {
-    name: "John Doe",
-    greet: function() {
-        console.log(this.name);
-        inerGreet: ()=> {
-            console.log(this.name);
-        }
-        inerGreet();
-    },
-};
-person.greet();
+// const person = {
+//     name: "John Doe",
+//     greet: function() {
+//         console.log(this.name);
+//         inerGreet: ()=> {
+//             console.log(this.name);
+//         }
+//         inerGreet();
+//     },
+// };
+// person.greet();
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

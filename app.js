@@ -1975,13 +1975,13 @@
     // }
     // const result = addToList('apple',['banana']);
     // console.log(result);
-    const course = {
-        coursename: "Js in hindi",
-        price: "999",
-        courseInstructor: "Sir Ghous Ahmed"
-    }
-    const {courseInstructor} = course;
-    console.log(courseInstructor);
+    // const course = {
+    //     coursename: "Js in hindi",
+    //     price: "999",
+    //     courseInstructor: "Sir Ghous Ahmed"
+    // }
+    // const {courseInstructor} = course;
+    // console.log(courseInstructor);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

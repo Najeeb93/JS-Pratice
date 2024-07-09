@@ -1970,11 +1970,11 @@
     // let arr2 = [10,20,30,40];
     // let arr3 = [...arr1,...arr2];
     // console.log(arr3);
-    function addToList(item, list) {
-        return list.push(item);
-    }
-    const result = addToList('apple',['banana']);
-    console.log(result);
+    // function addToList(item, list) {
+    //     return list.push(item);
+    // }
+    // const result = addToList('apple',['banana']);
+    // console.log(result);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

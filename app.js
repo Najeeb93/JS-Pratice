@@ -1966,6 +1966,10 @@
 //     fact = fact*i;
 // }
 // console.log(fact);
+    let arr1 = ["Hello world",true,null];
+    let arr2 = [10,20,30,40];
+    let arr3 = [...arr1,...arr2];
+    console.log(arr3);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

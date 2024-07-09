@@ -1983,10 +1983,10 @@
     // const {courseInstructor} = course;
     // console.log(courseInstructor);
     //rest parameter;
-    function bikePrice(...num1){
-        return num1
-    }
-    console.log(bikePrice(40000,50000,60000));
+    // function bikePrice(...num1){
+    //     return num1
+    // }
+    // console.log(bikePrice(40000,50000,60000));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

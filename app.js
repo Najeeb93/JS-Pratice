@@ -2005,6 +2005,12 @@
     // }
     // changeX();
     // console.log(x);
+
+    // Arrow Funtion
+    const addTwo = (num1, num2) => {
+    return num1 + num2;
+    }
+    console.log(addTwo(10,20));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

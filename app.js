@@ -1987,6 +1987,12 @@
     //     return num1
     // }
     // console.log(bikePrice(40000,50000,60000));
+    var a = 10;
+    function foo(){
+        console.log(a);
+        var a = 20;
+    }
+    foo();
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

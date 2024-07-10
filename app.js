@@ -2013,8 +2013,8 @@
     // console.log(addTwo(10,20));
     // const addTwo = (num1, num2) => num1 + num2
     // console.log(addTwo(5,5));
-    const addTwo = (num1, num2) => (num1 + num2)
-    console.log(addTwo(2,2));
+    // const addTwo = (num1, num2) => (num1 + num2)
+    // console.log(addTwo(2,2));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

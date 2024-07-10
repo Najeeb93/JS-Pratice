@@ -1993,9 +1993,9 @@
     //     var a = 20;
     // }
     // foo();
-    const numbers = [1,2,3,4,5];
-    const [first,second,third] = numbers;
-    console.log(first);
+    // const numbers = [1,2,3,4,5];
+    // const [first,second,third] = numbers;
+    // console.log(first);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

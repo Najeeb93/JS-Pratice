@@ -1999,12 +1999,12 @@
     // let num = [1,2,3,4];
     // const [x] = num;
     // console.log(x);
-    var x = 5;
-    function changeX() {
-        x = 10;
-    }
-    changeX();
-    console.log(x);
+    // var x = 5;
+    // function changeX() {
+    //     x = 10;
+    // }
+    // changeX();
+    // console.log(x);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

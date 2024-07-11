@@ -2030,9 +2030,9 @@
     //     return num > 1;
     //  }
     //  console.log(something(10));
-    let str = 'hello';
-    str.length = 8;
-    console.log(str.length);
+    // let str = 'hello';
+    // str.length = 8;
+    // console.log(str.length);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

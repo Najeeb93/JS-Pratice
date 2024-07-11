@@ -2023,6 +2023,13 @@
     //     console.log(`Index: ${index},Fruits: ${fruits}`);
     //     console.log(array);
     // });
+     function something(num) {
+        for (let i = 0; i < num; i++) {
+            if(num % i === 0) return false;
+        }
+        return num > 1;
+     }
+     console.log(something(10));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

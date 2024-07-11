@@ -2018,6 +2018,11 @@
     // const arr1 = [1,2,3];
     // const arr2 = [...arr1, 4,5];
     // console.log(arr2);
+    const fruits = ['apple','banana','cherry'];
+    fruits.forEach((fruits,index, array) => {
+        console.log(`Index: ${index},Fruits: ${fruits}`);
+        console.log(array);
+    });
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

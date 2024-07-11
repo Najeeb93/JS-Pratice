@@ -2033,6 +2033,11 @@
     // let str = 'hello';
     // str.length = 8;
     // console.log(str.length);
+    const data = [1,2,3,4,5];
+    data.forEach(n => {
+        if(n % 2 === 0) 
+            console.log(n); 
+    })
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

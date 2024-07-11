@@ -2043,6 +2043,10 @@
     //     return number * 2;
     // });
     // console.log(doubleNumbers);
+    const myNums = [1,2,3,4,5,6,7,8,9,10];
+    
+    const newNums = myNums.filter((num) => num > 5)
+    console.log(newNums);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

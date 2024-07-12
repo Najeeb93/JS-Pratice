@@ -2054,6 +2054,14 @@
     //     console.log(fullName);
     // }
     // printName();
+    const arr = [1,2,4,6,9];
+    arr.forEach((val, index) => {
+        if(val === 5) {
+                return index;
+                
+        }
+        console.log(index);
+    })
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

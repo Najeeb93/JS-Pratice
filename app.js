@@ -2070,6 +2070,10 @@
     //     }
     // });
     // console.log(unique);
+    const arr = ['Ahmed','Ali','Khan'];
+    arr.forEach((item, index) => {
+        console.log(item+' is at index '+index);
+    });
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

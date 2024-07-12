@@ -2062,6 +2062,14 @@
     //     }
     //     console.log(index);
     // })
+    let arr1 = [20,30,15,30,40,15];
+    let unique = [];
+    arr1.forEach((item, index, array) => {
+        if(index === array.indexOf(item)) {
+            unique.push(item);
+        }
+    });
+    console.log(unique);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -2049,6 +2049,11 @@
     // console.log(newNums);
     // const [a, ...b] = [1,2,3,4];
     // console.log(a);
+    var fullName = "John Doe";
+    function printName() {
+        console.log(fullName);
+    }
+    printName();
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -2047,8 +2047,8 @@
     
     // const newNums = myNums.filter((num) => num > 5)
     // console.log(newNums);
-    const [a, ...b] = [1,2,3,4];
-    console.log(a);
+    // const [a, ...b] = [1,2,3,4];
+    // console.log(a);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

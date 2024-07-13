@@ -2104,11 +2104,11 @@
 // const myNum = [1,2,3,4,5,6,7,8,9,10];
 // const newNum = myNum.map( (num) => num + 2 );
 // console.log(newNum);
-const myNums = [1,2,3];
-const myTotal = myNums.reduce(function (acc, currval) {
-    return acc + currval;
-}, 0)
-console.log(myTotal);
+// const myNums = [1,2,3];
+// const myTotal = myNums.reduce(function (acc, currval) {
+//     return acc + currval;
+// }, 0)
+// console.log(myTotal);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

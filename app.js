@@ -2082,9 +2082,9 @@
     //     console.log(a);
     // }
     // foo();
-    let a = 3;
-    let b = a ** 2;
-    console.log(b);
+    // let a = 3;
+    // let b = a ** 2;
+    // console.log(b);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

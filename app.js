@@ -2074,14 +2074,14 @@
     // arr.forEach((item, index) => {
     //     console.log(item+' is at index '+index);
     // });
-    var a = 1;
-    function foo() {
-        if(a) {
-            var a = 10;
-        }
-        console.log(a);
-    }
-    foo();
+    // var a = 1;
+    // function foo() {
+    //     if(a) {
+    //         var a = 10;
+    //     }
+    //     console.log(a);
+    // }
+    // foo();
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -2122,6 +2122,12 @@
 //     return acc + num
 // },0)
 // console.log(total);
+const myName = [1,2,3];
+const myTotal = myName.reduce(function (acc, currval) {
+    console.log(`acc: ${acc} currval: ${currval}`);
+    return acc + currval
+},5)
+console.log(myTotal);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

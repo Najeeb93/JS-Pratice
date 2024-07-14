@@ -2109,11 +2109,11 @@
 //     return acc + currval;
 // }, 0)
 // console.log(myTotal);
-let students = [1,2,3,4,5,6,7,8];
-let result = students.find((num) => {
-    return num > 6;
-})
-console.log(result);
+// let students = [1,2,3,4,5,6,7,8];
+// let result = students.find((num) => {
+//     return num > 6;
+// })
+// console.log(result);
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 

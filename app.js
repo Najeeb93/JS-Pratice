@@ -2128,6 +2128,11 @@
 //     return acc + currval
 // },5)
 // console.log(myTotal);
+const data = [[1,2,3],[4,5,6],[7,8,9]];
+const flatValues = data.reduce((total, value) => {
+    return total.concat(value);
+}, []);
+console.log(flatValues);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

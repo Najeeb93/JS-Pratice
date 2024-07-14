@@ -2117,6 +2117,11 @@
 //  let students = [1,2,3,4,5,6,7,8];
 //  let result = students.some((num) => num >= 8);
 //  console.log(result);
+const numbers = [1,2,3,4,5];
+const total = numbers.reduce((acc, num) => {
+    return acc + num
+},0)
+console.log(total);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -2133,6 +2133,15 @@
 //     return total.concat(value);
 // }, []);
 // console.log(flatValues);
+const user = {
+    username: 'Ali',
+    price: 999,
+
+    welcomeMessage: function() {
+        console.log(`${this.username}, welcome to website`);
+    }
+}
+user.welcomeMessage();
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

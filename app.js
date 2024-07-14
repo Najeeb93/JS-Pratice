@@ -2142,11 +2142,11 @@
 //     }
 // }
 // user.welcomeMessage();
-function one() {
-    let username = 'Ali';
-    console.log(this.username);
-}
-one();
+// function one() {
+//     let username = 'Ali';
+//     console.log(this.username);
+// }
+// one();
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

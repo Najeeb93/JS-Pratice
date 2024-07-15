@@ -2174,11 +2174,11 @@
 //     console.log(arguments);
 // }
 // foo('baby','baabs');
-let output = (function(x) {
-    delete x;
-    return x;
-})(3);
-console.log(output);
+// let output = (function(x) {
+//     delete x;
+//     return x;
+// })(3);
+// console.log(output);
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 

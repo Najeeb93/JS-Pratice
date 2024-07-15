@@ -2161,6 +2161,9 @@
 // const arry = ['ali','ahmed',];
 // const arry2 = arry.map((item) => item.charAt(0));
 // console.log(arry2);
+let greeting = 'Hello';
+greeting += ' World'
+console.log(greeting);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -2167,9 +2167,9 @@
 // let arr1 = [1,2];
 // let arr2 = [...arr1, 'Hello World'];
 // console.log(arr2);
-const arr =[1,2,3,4,5];
-const result = arr.filter(x => x % 2 === 0);
-console.log(result);
+// const arr =[1,2,3,4,5];
+// const result = arr.filter(x => x % 2 === 0);
+// console.log(result);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

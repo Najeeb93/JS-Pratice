@@ -2147,6 +2147,8 @@
 //     console.log(this.username);
 // }
 // one();
+const {a, b = 2} = {a: 1};
+console.log(a, b);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

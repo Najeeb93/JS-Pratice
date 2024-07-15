@@ -2149,12 +2149,12 @@
 // one();
 // const {a, b = 2} = {a: 1};
 // console.log(a, b);
-const myArray = [1,2,3,4];
+// const myArray = [1,2,3,4];
 
-const myArrayTimesTwo = myArray.map((value, index, array) => {
-    return value * 2;
-} );
-console.log(myArrayTimesTwo);
+// const myArrayTimesTwo = myArray.map((value, index, array) => {
+//     return value * 2;
+// } );
+// console.log(myArrayTimesTwo);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

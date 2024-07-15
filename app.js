@@ -2164,6 +2164,9 @@
 // let greeting = 'Hello';
 // greeting += ' World';
 // console.log(greeting);
+let arr1 = [1,2];
+let arr2 = [...arr1, 'Hello World'];
+console.log(arr2);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

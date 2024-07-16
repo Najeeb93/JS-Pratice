@@ -2196,7 +2196,7 @@
     // const numbers = [1,2,3,4,5];
     // const [first, ,third, ...rest] = numbers;
     // console.log(first, third, rest);
-    // console.log(Boolean('0'));
+    console.log(Boolean('0'));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

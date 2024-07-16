@@ -2193,6 +2193,9 @@
 // };
 // const {firstName = 'Henry'} = person;
 // console.log(firstName);
+const numbers = [1,2,3,4,5];
+const [first, ,third, ...rest] = numbers;
+console.log(first, third, rest);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

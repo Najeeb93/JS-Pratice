@@ -2180,10 +2180,10 @@
 // })(3);
 // console.log(output);
 
-const obj = {a: 1};
-Object.freeze(obj);
-obj.a = 2;
-console.log(obj.a);
+// const obj = {a: 1};
+// Object.freeze(obj);
+// obj.a = 2;
+// console.log(obj.a);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

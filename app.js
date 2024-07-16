@@ -2188,11 +2188,11 @@
 // let array2 = array1;
 // array2.length = 0;
 // console.log(array1,array2);
-const person = {
-    firstName: 'Surbhi',
-};
-const {firstName = 'Henry'} = person;
-console.log(firstName);
+// const person = {
+//     firstName: 'Surbhi',
+// };
+// const {firstName = 'Henry'} = person;
+// console.log(firstName);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

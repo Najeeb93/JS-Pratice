@@ -2204,9 +2204,9 @@
     // const fruits = ['apple','banana','cherry'];
 
     // fruits.forEach(fruit => console.log(fruits));
-    const array = ['a','b','c','d','e'];
-    const hasLetterA = array.some(char => char === 'b');
-    console.log(hasLetterA);
+    // const array = ['a','b','c','d','e'];
+    // const hasLetterA = array.some(char => char === 'b');
+    // console.log(hasLetterA);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

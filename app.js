@@ -2210,9 +2210,9 @@
     // const arr = [1,2,3,4,5,6];
     // const mapped = arr.map(element => element + 10);
     // console.log(mapped);
-    const arr =[1,2,3,4,5,6];
-    const filtered = arr.filter(element => element === 2 || element === 4);
-    console.log(filtered);
+    // const arr =[1,2,3,4,5,6];
+    // const filtered = arr.filter(element => element === 2 || element === 4);
+    // console.log(filtered);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

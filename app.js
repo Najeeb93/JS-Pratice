@@ -2201,6 +2201,9 @@
     // let b = a;
     // a = [4,5,6];
     // console.log(b);
+    const fruits = ['apple','banana','cherry'];
+
+    fruits.forEach(fruit => console.log(fruits));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

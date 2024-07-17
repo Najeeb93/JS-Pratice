@@ -2213,6 +2213,9 @@
     // const arr =[1,2,3,4,5,6];
     // const filtered = arr.filter(element => element === 2 || element === 4);
     // console.log(filtered);
+    const arr = [1,2,3,4,5,6];
+    console.log(arr.includes(2));
+    console.log(arr.includes(7));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

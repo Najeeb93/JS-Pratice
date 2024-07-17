@@ -2216,12 +2216,12 @@
     // const arr = [1,2,3,4,5,6];
     // console.log(arr.includes(2));
     // console.log(arr.includes(7));
-     const myName = [1,2,3,4,5,6];
-const myTotal = myName.reduce(function (acc, currval) {
-    console.log(`acc: ${acc} currval: ${currval}`);
-    return acc + currval
-});
-console.log(myTotal);
+//      const myName = [1,2,3,4,5,6];
+// const myTotal = myName.reduce(function (acc, currval) {
+//     console.log(`acc: ${acc} currval: ${currval}`);
+//     return acc + currval
+// });
+// console.log(myTotal);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

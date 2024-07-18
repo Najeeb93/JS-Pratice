@@ -2232,8 +2232,8 @@
 // let z;
 // (x > 10) ? z = 'True' : z = 'False';
 // console.log(z);
-let checkTrue = 10 > 2 ? 'True' : 'False';
-console.log(checkTrue);
+// let checkTrue = 10 > 2 ? 'True' : 'False';
+// console.log(checkTrue);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

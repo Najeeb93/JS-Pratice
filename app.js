@@ -2228,6 +2228,10 @@
 // const isEven = (num) => num % 2 === 0;
 // const result = (isEven (4) ? "even" : "odd") + " number";
 // console.log(result);
+let x = 15;
+let z;
+(x > 10) ? z = 'True' : z = 'False';
+console.log(z);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

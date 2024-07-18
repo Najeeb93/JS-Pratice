@@ -2225,6 +2225,9 @@
 // const  age = 18;
 // const message = age >= 18 ? "You are an adult" : "You are not an adult";
 // console.log(message);
+const isEven = (num) => num % 2 === 0;
+const result = (isEven (4) ? "even" : "odd") + " number";
+console.log(result);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

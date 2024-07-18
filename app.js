@@ -2234,13 +2234,13 @@
 // console.log(z);
 // let checkTrue = 10 > 2 ? 'True' : 'False';
 // console.log(checkTrue);
-function sayHello () {
-    return 'Hello'
-}
-function callArgument (func) {
-    return func();
-}
-console.log(callArgument(sayHello));
+// function sayHello () {
+//     return 'Hello'
+// }
+// function callArgument (func) {
+//     return func();
+// }
+// console.log(callArgument(sayHello));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

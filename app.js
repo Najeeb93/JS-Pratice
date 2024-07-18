@@ -2222,9 +2222,9 @@
 //     return acc + currval
 // });
 // console.log(myTotal);
-const  age = 18;
-const message = age >= 18 ? "You are an adult" : "You are not an adult";
-console.log(message);
+// const  age = 18;
+// const message = age >= 18 ? "You are an adult" : "You are not an adult";
+// console.log(message);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

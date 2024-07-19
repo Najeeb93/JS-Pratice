@@ -2254,9 +2254,9 @@
 //         console.log(num);
 //     }, 1000);
 // });
-const fruits = ['Banana','Orange','Apple','Mango'];
-let fruit = fruits.at(1);
-console.log(fruit);
+// const fruits = ['Banana','Orange','Apple','Mango'];
+// let fruit = fruits.at(1);
+// console.log(fruit);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

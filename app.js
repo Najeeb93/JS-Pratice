@@ -2242,9 +2242,9 @@
 // }
 // console.log(callArgument(sayHello));
 // console.log([...[...'...']].length);
-const obj = {foo: 1};
-obj.bar = 2;
-console.log(obj);
+// const obj = {foo: 1};
+// obj.bar = 2;
+// console.log(obj);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -2241,7 +2241,7 @@
 //     return func();
 // }
 // console.log(callArgument(sayHello));
-console.log([...[...'...']].length);
+// console.log([...[...'...']].length);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

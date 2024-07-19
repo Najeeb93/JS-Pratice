@@ -2248,6 +2248,12 @@
 // let greeting;
 // greeting = {};
 // console.log(greeting);
+const numbers = [1,2,3];
+numbers.forEach(function(num) {
+    setTimeout(function()  {
+        console.log(num);
+    }, 1000);
+})
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

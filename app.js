@@ -2272,6 +2272,14 @@
 // fruits.forEach(function(fruit, index) {
 //     console.log(index, fruit);
 // });
+function mystery(x) {
+    return function(y) {
+        return x + y;
+    };
+}
+const addFive = mystery(5);
+const result = addFive(10);
+console.log(result);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

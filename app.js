@@ -2268,6 +2268,10 @@
 // }
 // let numbers = [1,3,7,2,5];
 // console.log(findMax(numbers));
+let fruits = ['apple','banana','cherry','date'];
+fruits.forEach(function(fruit, index) {
+    console.log(index, fruit);
+})
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

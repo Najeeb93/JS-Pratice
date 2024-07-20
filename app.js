@@ -2263,11 +2263,11 @@
 // }
 // modifyValue(value);
 //  console.log(value);
-function findMax(arr) {
-    return Math.max(...arr);
-}
-let numbers = [1,3,7,2,5];
-console.log(findMax(numbers));
+// function findMax(arr) {
+//     return Math.max(...arr);
+// }
+// let numbers = [1,3,7,2,5];
+// console.log(findMax(numbers));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -2280,8 +2280,8 @@
 // const addFive = mystery(5);
 // const result = addFive(10);
 // console.log(result);
-const x = undefined;
-console.log(null == x);
+// const x = undefined;
+// console.log(null == x);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

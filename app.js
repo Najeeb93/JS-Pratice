@@ -2257,6 +2257,12 @@
 // const fruits = ['Banana','Orange','Apple','Mango'];
 // let fruit = fruits.at(1);
 // console.log(fruit);
+let value = 10;
+function modifyValue(val) {
+    val = 20;
+}
+modifyValue(value);
+ console.log(value);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

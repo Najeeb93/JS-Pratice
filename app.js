@@ -2313,9 +2313,9 @@
 
 // console.log(result);
 // console.log(numbers);
-let count = 0;
-const increment = () => count++;
-console.log(increment() == 0);
+// let count = 0;
+// const increment = () => count++;
+// console.log(increment() == 0);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -2305,6 +2305,14 @@
 // };
 // const result = add().getValue();
 // console.log(result);
+const numbers = [1,2,3,4,5];
+const result = numbers
+.map(num => num * 2)
+.filter(num => num % 2 === 0)
+.reduce((acc, num) => acc + num, 0);
+
+console.log(result);
+console.log(numbers);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

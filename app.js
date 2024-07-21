@@ -2316,9 +2316,9 @@
 // let count = 0;
 // const increment = () => count++;
 // console.log(increment() == 0);
-let score = 100;
-const increment = () => score++;
-console.log(increment() === score);
+// let score = 100;
+// const increment = () => score++;
+// console.log(increment() === score);
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 

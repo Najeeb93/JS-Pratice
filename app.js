@@ -2286,13 +2286,13 @@
 //     return age > 18 ? true : false;
 // }
 // console.log(checkAge(18));
-const foo = (x) => {
-    return x * x;
-};
-const bar = (x) => {
-    return foo(x + 0);
-};
-console.log(foo(2),bar(1));
+// const foo = (x) => {
+//     return x * x;
+// };
+// const bar = (x) => {
+//     return foo(x + 0);
+// };
+// console.log(foo(2),bar(1));
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 

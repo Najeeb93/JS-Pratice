@@ -2294,6 +2294,17 @@
 // };
 // console.log(foo(2),bar(1));
 
+const value = 10;
+const add = () => {
+    return {
+        value: 20,
+        getValue: function () {
+            return this.value;
+        }
+    };
+};
+const result = add().getValue();
+console.log(result);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

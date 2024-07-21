@@ -2282,10 +2282,10 @@
 // console.log(result);
 // const x = undefined;
 // console.log(null == x);
-function checkAge(age) {
-    return age > 18 ? true : false;
-}
-console.log(checkAge(18));
+// function checkAge(age) {
+//     return age > 18 ? true : false;
+// }
+// console.log(checkAge(18));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

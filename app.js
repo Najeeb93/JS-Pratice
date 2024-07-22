@@ -2352,7 +2352,14 @@
 //         return "I am inner function";
 //     }
 // }
-// console.log(main()); 
+// console.log(main());
+setTimeout(() => console.log(1),0);
+console.log(2);
+new Promise( res => {
+    console.log(3);
+    res();
+}).then(() => console.log(4));
+console.log(5);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

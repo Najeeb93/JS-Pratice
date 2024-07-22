@@ -2360,10 +2360,10 @@
 //     res();
 // }).then(() => console.log(4));
 // console.log(5);
-let array = [1,2,3,4,5];
-array.forEach(function(element) {
-    console.log(element);
-});
+// let array = [1,2,3,4,5];
+// array.forEach(function(element) {
+//     console.log(element);
+// });
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

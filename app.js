@@ -2322,6 +2322,9 @@
 // let numbers = [1,2,3];
 // const result = numbers.reduce((acc,num) => acc + num, 1);
 // console.log(result);
+const arr = [1,2,3,4];
+arr.length = 3;
+console.log(arr);
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 

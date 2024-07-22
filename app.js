@@ -2335,6 +2335,12 @@
 // const [first, ...rest] = numbers;
 // console.log(first);
 // console.log(rest);
+let x = 10;
+const updateX = (val) => {
+    x = val;
+}
+updateX(20);
+console.log(x);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

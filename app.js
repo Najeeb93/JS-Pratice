@@ -2341,6 +2341,18 @@
 // }
 // updateX(20);
 // console.log(x);
+function test() {
+    return "I am outer function";
+}
+function main() {
+    console.log(bar);
+    return test();
+    var bar = 'I am avaribale';
+    function test(){
+        return "I am inner function";
+    }
+}
+console.log(main()); 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

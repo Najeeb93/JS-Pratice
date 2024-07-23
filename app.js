@@ -2373,9 +2373,9 @@
 // arr[5] = 10;
 // console.log(arr.length);
 // console.log(arr[4]);
-let x = '1';
-let y = x++ + ++x;
-console.log(x,y);
+// let x = '1';
+// let y = x++ + ++x;
+// console.log(x,y);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

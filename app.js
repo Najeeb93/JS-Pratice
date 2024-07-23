@@ -2369,10 +2369,10 @@
 // let z = 0;
 // console.log(x == y);
 // console.log(x == z);
-const arr = [1,2,3];
-arr[5] = 10;
-console.log(arr.length);
-console.log(arr[4]);
+// const arr = [1,2,3];
+// arr[5] = 10;
+// console.log(arr.length);
+// console.log(arr[4]);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

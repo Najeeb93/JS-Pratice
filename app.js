@@ -2391,17 +2391,17 @@
 //     });
 // }
 //  console.log(getCar('for my family'))
-const fetchData = new Promise((reslove, reject) => {
-    setTimeout(() => {
-        const data = {name: 'David', age: '26'};
-        reslove(data);
-    }, 2000);
-});
-fetchData.then(data => {
-    console.log('Data received:',data);
-}).catch(error =>{
-    console.log('Error:', error);
-});
+// const fetchData = new Promise((reslove, reject) => {
+//     setTimeout(() => {
+//         const data = {name: 'David', age: '26'};
+//         reslove(data);
+//     }, 2000);
+// });
+// fetchData.then(data => {
+//     console.log('Data received:',data);
+// }).catch(error =>{
+//     console.log('Error:', error);
+// });
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -2406,6 +2406,13 @@
 // let  b = NaN;
 // console.log(a == b);
 // console.log(a === b);
+async function fn1(){
+    for(var i = 0; i < 4; i++) {
+        Promise.resolve(true)
+        .then((res) => console.log(i))
+    }
+}
+fn1();
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

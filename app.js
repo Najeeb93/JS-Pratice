@@ -2376,6 +2376,21 @@
 // let x = '1';
 // let y = x++ + ++x;
 // console.log(x,y);
+function getCar(message) {
+    return new Promise((resolve, reject) =>{
+        setTimeout(() => {
+            resolve(`Finally purchased the car ${message}`);
+        }, 1000);
+    });
+}
+function worldTour(message) {
+    return new Promise((resolve, reject) => {
+        setTimeout(() => {
+            reject(`World Tour ${message}`);
+        },100)
+    });
+}
+ console.log(getCar('for my family'))
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

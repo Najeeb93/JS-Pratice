@@ -2433,15 +2433,15 @@
 // let arr = [1,2,3];
 // let result = arr.map((ele) => ele * 2);
 // console.log(result);
-async function foo() {
-    try {
-        let users = await getUsers();
-        console.log(users);
-    } catch(error) {
-        console.log(error)
-    }
-}
-foo();
+// async function foo() {
+//     try {
+//         let users = await getUsers();
+//         console.log(users);
+//     } catch(error) {
+//         console.log(error)
+//     }
+// }
+// foo();
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

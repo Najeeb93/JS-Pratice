@@ -2430,9 +2430,9 @@
 // let arr = [1,2,3,5,6,4];
 // let result = arr[arr.length-1];
 // console.log(result);
-let arr = [1,2,3];
-let result = arr.map((ele) => ele * 2);
-console.log(result);
+// let arr = [1,2,3];
+// let result = arr.map((ele) => ele * 2);
+// console.log(result);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -2421,12 +2421,12 @@
 // let f = '8';
 // let a = 1;
 // console.log((+f)+a+1);
-const x = 3;
-const test = (x = 20) => {
-    console.log(x);
-}
-test();
-test(10);
+// const x = 3;
+// const test = (x = 20) => {
+//     console.log(x);
+// }
+// test();
+// test(10);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -2473,6 +2473,9 @@
 // let z = y;
 // y = 'World';
 // console.log(z);
+const clothes = ['shirt','socks','jacket','pants','hat'];
+clothes.length = 0;
+console.log(clothes[3]);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

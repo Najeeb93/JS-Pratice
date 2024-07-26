@@ -2469,7 +2469,10 @@
 // }
 // init();
 // demoFuntion();
-
+let y = 'Hello';
+let z = y;
+y = 'World';
+console.log(z);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

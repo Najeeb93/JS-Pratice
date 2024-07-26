@@ -2442,6 +2442,14 @@
 //     }
 // }
 // foo();
+const arr1 = [1,2,3];
+const arr2 = [4,5];
+const arr3 = [...arr1, ...arr2, 6];
+
+arr3.push(7);
+arr3.pop();
+arr3.pop();
+console.log(arr3.length);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -2450,8 +2450,8 @@
 // arr3.pop();
 // arr3.pop();
 // console.log(arr3.length);
-let x = 0.1 + 0.2 === 0.3;
-console.log(x);
+// let x = 0.1 + 0.2 === 0.3;
+// console.log(x);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

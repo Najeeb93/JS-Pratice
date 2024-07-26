@@ -2456,9 +2456,9 @@
 // let b = a;
 // b.push('drink');
 // console.log(a);
-let x = [1,2,3];
-let y = x.map((x, i) => x + i);
-console.log(y);
+// let x = [1,2,3];
+// let y = x.map((x, i) => x + i);
+// console.log(y);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

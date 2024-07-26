@@ -2459,6 +2459,17 @@
 // let x = [1,2,3];
 // let y = x.map((x, i) => x + i);
 // console.log(y);
+let demoFuntion;
+let a = 9;
+function init() {
+    let a = 5;
+    demoFuntion = function () {
+        console.log(a);
+    };
+}
+init();
+demoFuntion();
+
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 
@@ -2474,4 +2485,4 @@
 //     }
         
 // }
-// console.log(result) 
+// console.log(result)

@@ -2484,6 +2484,9 @@
 // let num = 8;
 // let result = num > 5 ? 'yes' : 'No';
 // console.log(result);
+for(let i = 1; i < 2; i++) {
+    console.log(`baby ${i}`);
+} 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

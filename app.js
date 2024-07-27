@@ -2487,6 +2487,9 @@
 // for(let i = 1; i < 2; i++) {
 //     console.log(`baby ${i}`);
 // } 
+let m = 4;
+let n = ++m + 2;
+console.log(m, n);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

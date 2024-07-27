@@ -2479,8 +2479,8 @@
 // let arr = [4,2,3];
 // arr.length = 0;
 // console.log(arr[0]);
-const value = 0.3 + 0.4;
-console.log(value == 0.7);
+// const value = 0.3 + 0.4;
+// console.log(value == 0.7);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

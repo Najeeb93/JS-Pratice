@@ -2476,9 +2476,9 @@
 // const clothes = ['shirt','socks','jacket','pants','hat'];
 // clothes.length = 0;
 // console.log(clothes[3]);
-let arr = [4,2,3];
-arr.length = 0;
-console.log(arr[0]);
+// let arr = [4,2,3];
+// arr.length = 0;
+// console.log(arr[0]);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

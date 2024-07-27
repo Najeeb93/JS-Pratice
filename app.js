@@ -2490,9 +2490,9 @@
 // let m = 4;
 // let n = ++m + 2;
 // console.log(m, n);
-let a = typeof 1;
-let b = typeof a;
-console.log(b);
+// let a = typeof 1;
+// let b = typeof a;
+// console.log(b);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

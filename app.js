@@ -2493,7 +2493,7 @@
 // let a = typeof 1;
 // let b = typeof a;
 // console.log(b);
-console.log([10] == 10);
+// console.log([10] == 10);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

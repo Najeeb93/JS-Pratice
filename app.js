@@ -2498,6 +2498,9 @@
 // console.log('' + 1 + 2);
 // console.log([] == 0);
 // console.log({} == 0);
+let x = ['a','b','c'];
+x.length = 0;
+console.log(x.length);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

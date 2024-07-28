@@ -2494,7 +2494,7 @@
 // let b = typeof a;
 // console.log(b);
 // console.log([10] == 10);
-console.log([1,2,3] == '1,2,3');
+// console.log([1,2,3] == '1,2,3');
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

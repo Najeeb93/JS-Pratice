@@ -2501,11 +2501,11 @@
 // let x = ['a','b','c'];
 // x.length = 0;
 // console.log(x.length);
-let c = { greeting: 'Hey!'};
-let d;
-d = c;
-c.greeting = 'Hello';
-console.log(d.greeting);
+// let c = { greeting: 'Hey!'};
+// let d;
+// d = c;
+// c.greeting = 'Hello';
+// console.log(d.greeting);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

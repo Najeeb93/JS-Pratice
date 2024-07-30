@@ -2542,6 +2542,9 @@
 // };
 // printAllNumbers(1,2,3);
 // printAllNumbersNew(1,2,3);
+const clothes = ['jacket','t-shirt'];
+clothes.length = 0;
+console.log(clothes[0]);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

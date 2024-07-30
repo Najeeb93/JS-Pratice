@@ -2511,17 +2511,17 @@
 // const arr = [1,2,3,4,5,6];
 // const doubled = arr.map( num => num * 2);
 // console.log(doubled.indexOf(6));
-function foo1(){
-    return {
-        bar: 'Hello'
-    };
-}
-function foo2() {
-    return {
-        bar: 'Hello'
-    };
-}
-console.log(foo1(),foo2());
+// function foo1(){
+//     return {
+//         bar: 'Hello'
+//     };
+// }
+// function foo2() {
+//     return {
+//         bar: 'Hello'
+//     };
+// }
+// console.log(foo1(),foo2());
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

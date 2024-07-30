@@ -2554,7 +2554,7 @@
 // Object.freeze(person);
 // person.name = 'Lima';
 // console.log(person.name);
-console.log({} == []);
+// console.log({} == []);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

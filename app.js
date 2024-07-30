@@ -2522,6 +2522,12 @@
 //     };
 // }
 // console.log(foo1(),foo2());
+var variable = 10;
+(()=>{
+    console.log(variable);
+    let variable =20;
+    console.log(variable);
+})();
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -2528,12 +2528,12 @@
 //     let variable =20;
 //     console.log(variable);
 // })();
-var x = 1;
-function foo(x) {
-    x = x + x;
-}
-foo(x);
-console.log(x);
+// var x = 1;
+// function foo(x) {
+//     x = x + x;
+// }
+// foo(x);
+// console.log(x);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

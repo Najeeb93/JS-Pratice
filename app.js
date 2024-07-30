@@ -2545,6 +2545,9 @@
 // const clothes = ['jacket','t-shirt'];
 // clothes.length = 0;
 // console.log(clothes[0]);
+let count = 0;
+const increment = () => ++count;
+console.log(typeof increment);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

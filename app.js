@@ -2574,6 +2574,14 @@
 //     return (() => 0)();
 // }
 // console.log(typeof sayHi());
+const arr = [1,2,3,4];
+
+let pop = arr.pop();
+let shift = arr.shift();
+
+console.log(pop);
+console.log(shift);
+console.log(arr);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

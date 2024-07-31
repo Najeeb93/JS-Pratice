@@ -2557,6 +2557,15 @@
 // console.log({} == []);
 // console.log(2 < 1 == 0);
 // console.log(false == 0);
+function createCounter() {
+    let count = 0;
+    return function () {
+        count += 1;
+        return count;
+    };
+}
+const counter = createCounter();
+console.log(counter());
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -2582,13 +2582,13 @@
 // console.log(pop);
 // console.log(shift);
 // console.log(arr);
-let array = [1,2,3,4,5];
-const newArrayForEach = array.forEach((ele) => ele * 2);
+// let array = [1,2,3,4,5];
+// const newArrayForEach = array.forEach((ele) => ele * 2);
 
-const newArrayMap = array.map((ele) => ele * 2);
+// const newArrayMap = array.map((ele) => ele * 2);
 
-console.log(newArrayForEach, "for each");
-console.log(newArrayMap, "map");
+// console.log(newArrayForEach, "for each");
+// console.log(newArrayMap, "map");
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -2596,14 +2596,14 @@
 // let she = arr[2];
 // console.log(she.length)
 
-function multiplyByTwo(num) {
-    return num * 2;
-}
-function applyOperation(num, operation) {
-    return operation(num);
-}
-const result = applyOperation(5, multiplyByTwo);
-console.log(result);
+// function multiplyByTwo(num) {
+//     return num * 2;
+// }
+// function applyOperation(num, operation) {
+//     return operation(num);
+// }
+// const result = applyOperation(5, multiplyByTwo);
+// console.log(result);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

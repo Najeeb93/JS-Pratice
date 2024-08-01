@@ -2609,9 +2609,9 @@
 // console.log(greeting);
 // console.log(018 - 015);
 // console.log('018' - '015');
-let str = 'Hello Baby';
-let x = str.indexOf('Baby');
-console.log(x);
+// let str = 'Hello Baby';
+// let x = str.indexOf('Baby');
+// console.log(x);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

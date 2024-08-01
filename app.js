@@ -2589,9 +2589,9 @@
 
 // console.log(newArrayForEach, "for each");
 // console.log(newArrayMap, "map");
-const x = undefined;
-const y = (null == x);
-console.log(typeof(y));
+// const x = undefined;
+// const y = (null == x);
+// console.log(typeof(y));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

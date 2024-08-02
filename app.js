@@ -2641,6 +2641,13 @@
 //     return v * 2;
 // });
 // console.log(arr2)
+let arr = [1,2,3,4,5];
+let arr2 = [];
+
+for(let i = 0; i < arr.length; i++) {
+   arr2.push(arr[i] * 2);
+}
+console.log(arr2)
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

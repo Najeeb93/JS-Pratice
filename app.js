@@ -2626,12 +2626,12 @@
 // num--;
 // console.log(num);
 // console.log('10' > 9);
-var x = 10;
-if(x > 5) {
-    let x = 20;
-    console.log(x)
-}
-console.log(x);
+// var x = 10;
+// if(x > 5) {
+//     let x = 20;
+//     console.log(x)
+// }
+// console.log(x);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

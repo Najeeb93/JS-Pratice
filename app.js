@@ -2625,6 +2625,7 @@
 // let num = 10;
 // num--;
 // console.log(num);
+console.log('10' > 9);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

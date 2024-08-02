@@ -2614,6 +2614,14 @@
 // console.log(x);
 // console.log(+true);
 // console.log(+false);
+function fun() {
+    let num = 5;
+    if(num ==='5')
+        return true;
+    else 
+    return false;
+}
+console.log(fun());
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

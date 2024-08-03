@@ -2648,6 +2648,9 @@
 //    arr2.push(arr[i] * 2);
 // }
 // console.log(arr2);
+let arr = ['a','b','c'];
+arr.push(... 'de');
+console.log(arr)
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

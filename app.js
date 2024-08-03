@@ -2659,13 +2659,13 @@
 //     var y = '2';
 //     console.log(x == y);
 // }
-{
-    var obj = {name: 'Akansha', surname: 'Choudhary'
+// {
+//     var obj = {name: 'Akansha', surname: 'Choudhary'
 
-    };
-    var obj = {name: 'Tanvi', surname: 'Priya'};
-    console.log(obj);
-}
+//     };
+//     var obj = {name: 'Tanvi', surname: 'Priya'};
+//     console.log(obj);
+// }
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

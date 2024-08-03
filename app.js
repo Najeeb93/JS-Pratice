@@ -2677,14 +2677,14 @@
 // console.log([...[...'...']].length);
 // let point = [1,3],segment = [point,[5,5]], triangle = [...segment,[1,8]];
 // console.log(triangle);
-function show(...args) {
-    let sum = 0;
-    for(let i of args) {
-        sum += i;
-    }
-    console.log('Sum ='+sum);
-}
-show(10,20,30)
+// function show(...args) {
+//     let sum = 0;
+//     for(let i of args) {
+//         sum += i;
+//     }
+//     console.log('Sum ='+sum);
+// }
+// show(10,20,30);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

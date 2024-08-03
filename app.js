@@ -2674,9 +2674,9 @@
 // const { wheels: cycleWheels, seat: cycleSeat} = cycleDetails;
 // console.log(cycleWheels);
 // console.log(cycleSeat);
-console.log([...[...'...']].length);
-let point = [1,3],segment = [point,[5,5]], triangle = [...segment,[1,8]];
-console.log(triangle);
+// console.log([...[...'...']].length);
+// let point = [1,3],segment = [point,[5,5]], triangle = [...segment,[1,8]];
+// console.log(triangle);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

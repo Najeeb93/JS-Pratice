@@ -2666,14 +2666,14 @@
 //     var obj = {name: 'Tanvi', surname: 'Priya'};
 //     console.log(obj);
 // }
-const cycleDetails = {
-    wheels: 2,
-    seat: 1,
-    carrier: 2
-};
-const { wheels: cycleWheels, seat: cycleSeat} = cycleDetails;
-console.log(cycleWheels);
-console.log(cycleSeat);
+// const cycleDetails = {
+//     wheels: 2,
+//     seat: 1,
+//     carrier: 2
+// };
+// const { wheels: cycleWheels, seat: cycleSeat} = cycleDetails;
+// console.log(cycleWheels);
+// console.log(cycleSeat);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

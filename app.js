@@ -2696,6 +2696,15 @@
 //     console.log(`Index: ${index}, Fruit: ${fruit}`);
 //     console.log(array);
 // });
+const myString = 'Hello, World!';
+const searchString = 'World';
+
+if(myString.includes(searchString)) {
+    console.log('String contains the search term');
+} else {
+    console.log('String does not contain the search term');
+}
+
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

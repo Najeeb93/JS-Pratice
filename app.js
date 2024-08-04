@@ -2691,6 +2691,11 @@
 //     console.log(a,b,c);
 // };
 // example(0,1,2);
+const fruits = ['apple','banana','cherry'];
+fruits.forEach((fruit, index, array) => {
+    console.log(`Index: ${index}, Fruit: ${fruit}`);
+    console.log(array);
+});
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

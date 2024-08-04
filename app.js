@@ -2685,8 +2685,8 @@
 //     console.log('Sum ='+sum);
 // }
 // show(10,20,30);
-const obj1 ={first: 20, second: 30, first: 50};
-console.log(obj1);
+// const obj1 ={first: 20, second: 30, first: 50};
+// console.log(obj1);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

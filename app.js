@@ -2725,10 +2725,10 @@
 
 // const add = (a, b) => a + b;
 // console.log(add(2, 3));
-const orignal = [1,2,3];
-const clone = [...orignal];
-clone.push(true);
-console.log(clone);
+// const orignal = [1,2,3];
+// const clone = [...orignal];
+// clone.push(true);
+// console.log(clone);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

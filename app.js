@@ -2712,6 +2712,7 @@
 // let y = 2;
 // let result = x++ + ++y;
 // console.log(result);
+console.log((typeof (new (class { class () {} }))));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

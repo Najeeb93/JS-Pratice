@@ -2729,6 +2729,11 @@
 // const clone = [...orignal];
 // clone.push(true);
 // console.log(clone);
+console.log(5 > '15'  < 5);
+console.log(7 < '15' < 7);
+console.log(7 < '85' > 5);
+
+
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -2765,6 +2765,15 @@
 // console.log('9' > '11');
 // console.log('9' > 11);
 // console.log('' > -1);
+var array = [1,2,3,4,5];
+console.log(array.length);
+array.length = 3;
+console.log(array.length);
+console.log(array);
+delete array[0];
+console.log(array);
+console.log(array[0]);
+console.log(array.length);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

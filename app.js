@@ -2755,9 +2755,10 @@
 //     }, 0);
 // });
 // console.log(5);
-
-
-
+console.log(['a'] + ['b']);
+console.log([] + []);
+console.log(![]);
+console.log(![] + []);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

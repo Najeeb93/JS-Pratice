@@ -2732,6 +2732,15 @@
 // console.log(5 > '15'  < 5);
 // console.log(7 < '15' < 7);
 // console.log(7 < '85' > 5);
+console.log(1);
+setTimeout(() => {
+    console.log(2);
+}, 2000);
+setTimeout(() => {
+    console.log(3);
+}, 1000);
+console.log(4);
+
 
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 

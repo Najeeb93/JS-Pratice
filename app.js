@@ -2759,6 +2759,9 @@
 // console.log([] + []);
 // console.log(![]);
 // console.log(![] + []);
+console.log(3 < 4 < 5);
+console.log(3 > 4 > 5);
+console.log(3 > 4 > -1);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

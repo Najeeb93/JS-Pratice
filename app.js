@@ -2774,16 +2774,16 @@
 // console.log(array);
 // console.log(array[0]);
 // console.log(array.length);
-abc();
-function abc() {
-    console.log('1');
-}
-function abc() {
-    console.log('2');
-}
-function abc() {
-    console.log('3');
-}   
+// abc();
+// function abc() {
+//     console.log('1');
+// }
+// function abc() {
+//     console.log('2');
+// }
+// function abc() {
+//     console.log('3');
+// }   
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

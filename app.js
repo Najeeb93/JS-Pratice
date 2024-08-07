@@ -2793,6 +2793,17 @@
 // console.log(person);
 // let arr = [0,1,2,3,4];
 // console.log(arr.length-3);
+let deposits = [5,3,9,2];
+
+let total = deposits.reduce((acc,dep) => {
+    if(acc < 20) {
+        
+        return acc + dep;
+    }else {
+        return 0;
+    }
+}, 3);
+console.log(total);
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 

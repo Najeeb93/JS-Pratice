@@ -2827,10 +2827,10 @@
 // arr.forEach((e) => {
 //     console.log(e.toUpperCase());
 // });
-const arr = ['Anas Dev','Eshaal Dev','Jul','Coding Ease','xdCoder'];
-for(let i = 0; i < arr.length; i++) {
-    console.log(arr[i].toUpperCase());
-};
+// const arr = ['Anas Dev','Eshaal Dev','Jul','Coding Ease','xdCoder'];
+// for(let i = 0; i < arr.length; i++) {
+//     console.log(arr[i].toUpperCase());
+// };
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

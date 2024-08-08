@@ -2816,13 +2816,13 @@
 //     let y = 100;
 //     console.log(y);
 // }
-const arr = ['Anas Dev','Eshaal Dev','Jul','Coding Ease','xdCoder'];
+// const arr = ['Anas Dev','Eshaal Dev','Jul','Coding Ease','xdCoder'];
 
-const myArr = arr.map((e) => {
-    let result = e.toUpperCase();
-    console.log(result);
-    return result;
-});
+// const myArr = arr.map((e) => {
+//     let result = e.toUpperCase();
+//     console.log(result);
+//     return result;
+// }); 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

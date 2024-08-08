@@ -2844,6 +2844,9 @@
 //     return a+b;
 // }
 // console.log(sum(undefined, 20));
+let x = 0;
+let y = 0;
+console.log(++x === y++);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -2840,10 +2840,10 @@
 //     }
 // }
 // console.log(foo());
-function sum(a=5, b=7) {
-    return a+b;
-}
-console.log(sum(undefined, 20));
+// function sum(a=5, b=7) {
+//     return a+b;
+// }
+// console.log(sum(undefined, 20));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

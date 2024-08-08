@@ -2823,6 +2823,10 @@
 //     console.log(result);
 //     return result;
 // }); 
+const arr = ['Anas Dev','Eshaal Dev','Jul','Coding Ease','xdCoder'];
+arr.forEach((e) => {
+    console.log(e.toUpperCase());
+});
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

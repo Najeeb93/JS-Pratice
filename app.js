@@ -2811,11 +2811,11 @@
 // closureArray[0]();
 // closureArray[1]();
 // closureArray[2]();
-let x = 50;
-if(x === 50){
-    let y = 100;
-    console.log(y);
-}
+// let x = 50;
+// if(x === 50){
+//     let y = 100;
+//     console.log(y);
+// }
 
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 

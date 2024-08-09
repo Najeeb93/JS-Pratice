@@ -2860,6 +2860,15 @@
 //     console.log(x);
 //     var x = 10;
 // })();
+var x = 10;
+function testNum() {
+    console.log(x);
+    if(true) {
+        var x = 20;
+    }
+    console.log(x);
+}
+testNum();
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -2855,11 +2855,11 @@
 // greet('Alice')
 // let val = [10] == [10] ? 'true' : 'false';
 // console.log(val);
-var x = 5;
-(function () {
-    console.log(x);
-    var x = 10;
-})();
+// var x = 5;
+// (function () {
+//     console.log(x);
+//     var x = 10;
+// })();
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

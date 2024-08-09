@@ -2849,10 +2849,10 @@
 // console.log(++x === y++);
 // let str1 = new String("IncludeHelp!");
 // console.log(typeof str1);
-function greet(name = 'Guest') {
-    console.log(`Hello, ${name}!`);
-}
-greet('Alice')
+// function greet(name = 'Guest') {
+//     console.log(`Hello, ${name}!`);
+// }
+// greet('Alice')
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

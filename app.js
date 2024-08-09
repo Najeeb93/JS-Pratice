@@ -2911,3 +2911,18 @@
         
 // }
 // console.log(result)
+
+// duplicate numbers 
+const arrNumber = [1,2,8,2,9,8,9];
+const duplicates = arrNumber.filter((ele,index,arr)=> arr.indexOf(ele)!==index)
+console.log(duplicates);
+
+// max/min 
+
+const arrNum = [1,9,87,65,65,99];
+const maxFunction = (arr)=>{
+    return arr.reduce(function(acc, cur){
+        return acc > cur ? acc:cur
+    })
+}
+console.log(maxFunction(arrNum));

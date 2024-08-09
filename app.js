@@ -2913,9 +2913,9 @@
 // console.log(result)
 
 // duplicate numbers 
-const arrNumber = [1,2,8,2,9,8,9];
-const duplicates = arrNumber.filter((ele,index,arr)=> arr.indexOf(ele)!==index)
-console.log(duplicates);
+// const arrNumber = [1,2,8,2,9,8,9];
+// const duplicates = arrNumber.filter((ele,index,arr)=> arr.indexOf(ele)!==index)
+// console.log(duplicates);
 
 // max/min 
 

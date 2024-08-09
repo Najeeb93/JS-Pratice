@@ -2869,16 +2869,16 @@
 //     console.log(x);
 // }
 // testNum();
-var x = 5;
-function outer() {
-    var x = 10;
-    function inner() {
-        console.log(x);
-    }
-    return inner();
-}
-var finalResult = outer();
-finalResult();
+// var x = 5;
+// function outer() {
+//     var x = 10;
+//     function inner() {
+//         console.log(x);
+//     }
+//     return inner();
+// }
+// var finalResult = outer();
+// finalResult();
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

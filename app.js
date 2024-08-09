@@ -2847,6 +2847,9 @@
 // let x = 0;
 // let y = 0;
 // console.log(++x === y++);
+let str1 = new String("IncludeHelp!");
+console.log(typeof str1);
+
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

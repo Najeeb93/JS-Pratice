@@ -2919,10 +2919,10 @@
 
 // max/min 
 
-const arrNum = [1,9,87,65,65,99];
-const maxFunction = (arr)=>{
-    return arr.reduce(function(acc, cur){
-        return acc > cur ? acc:cur
-    })
-}
-console.log(maxFunction(arrNum));
+// const arrNum = [1,9,87,65,65,99];
+// const maxFunction = (arr)=>{
+//     return arr.reduce(function(acc, cur){
+//         return acc > cur ? acc:cur
+//     })
+// }
+// console.log(maxFunction(arrNum));

@@ -2892,6 +2892,9 @@
 
 // const [color1,color2,color3,color4] = colors;
 // console.log(color1,color2,color3,color4);
+const colors = ['red','green','yellow','pink','black'];
+const [,,,color4] = colors;
+console.log(color4);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

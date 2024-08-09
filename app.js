@@ -2885,6 +2885,9 @@
 //     var x = 20;
 // }
 // testValue();
+let arr = [1,2,3,4];
+arr.splice(0,1  );
+console.log(arr);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -2916,25 +2916,25 @@
 //  const output = anagrams(input);
 //  console.log(output);
 // ---------- Anagrams Task -----------//
- function wordsAnagram(words) {
-    let arr = {};
+//  function wordsAnagram(words) {
+//     let arr = {};
     
-    words.forEach(word => {
-        let sorted = word.split('').sort().join('');
+//     words.forEach(word => {
+//         let sorted = word.split('').sort().join('');
 
-        if(arr[sorted]) {
-            arr[sorted].push(word);
-        }else {
+//         if(arr[sorted]) {
+//             arr[sorted].push(word);
+//         }else {
 
-            arr[sorted] = [word];        
-        }
-    });
-    return Object.values(arr)
- }
+//             arr[sorted] = [word];        
+//         }
+//     });
+//     return Object.values(arr)
+//  }
  
- const input = ['bat','tap','cat','tab','pat'];
- const output = wordsAnagram(input);
- console.log(output); 
+//  const input = ['bat','tap','cat','tab','pat'];
+//  const output = wordsAnagram(input);
+//  console.log(output); 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

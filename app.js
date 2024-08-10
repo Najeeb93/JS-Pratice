@@ -2895,6 +2895,27 @@
 // const colors = ['red','green','yellow','pink','black'];
 // const [,,,color4] = colors;
 // console.log(color4);
+
+// ---------- Anagrams task -------------- //
+function anagrams(words) {
+    function sortString(str) {
+        return str.split('').sort().join('');
+    }
+    const addWords = {};
+
+    for(const word of words) {
+        const sorteWord = sortString(word);
+        if(!addWords[sorteWord]) {
+            addWords[sorteWord] = [];
+        }
+        addWords[sorteWord].push(word);
+    }
+    return Object.values(addWords)
+}
+ const input = ['bat','tap','cat','tab','pat'];
+ const output = anagrams(input);
+ console.log(output);
+ 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

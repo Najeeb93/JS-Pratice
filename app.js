@@ -2941,6 +2941,11 @@
 function transposeMatrix(inputArray) {
 console.log(inputArray);
 
+const rows = inputArray.length;
+const cols = inputArray[0].length;
+
+
+
 }
 
 const inputMatrix = [ [3,4,8],

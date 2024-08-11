@@ -2939,9 +2939,14 @@
 // ----------Transpose Matrix Task --------//
 
 function transposeMatrix(inputArray) {
+console.log(inputArray);
 
 }
 
+const inputMatrix = [ [3,4,8],
+                      [5,6,9] ]
+                      
+console.log(transposeMatrix(inputMatrix));
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 

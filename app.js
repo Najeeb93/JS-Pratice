@@ -2962,6 +2962,15 @@
                       
 // console.log(transposeMatrix(inputMatrix));
 
+// ---------- Perfect Number Checker -------//
+
+function isPerfectNumber(inputNumber) {
+    console.log(inputNumber);
+    
+}
+
+console.log(isPerfectNumber(6));
+
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

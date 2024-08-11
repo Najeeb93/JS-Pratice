@@ -2938,29 +2938,29 @@
 
 // ----------Transpose Matrix Task --------//
 
-function transposeMatrix(inputArray) {
+// function transposeMatrix(inputArray) {
 
 
-const rows = inputArray.length;
-const cols = inputArray[0].length;
+// const rows = inputArray.length;
+// const cols = inputArray[0].length;
 
-const result = [];
+// const result = [];
 
-for(let i = 0; i < rows; i++) {
-    for(let j = 0; j < cols; j++) {
-        if(!result[j]) {
-            result[j] = [];
-        }
-        result[j][i] = inputArray[i][j]
-    }
-}
-return result;
-}
+// for(let i = 0; i < rows; i++) {
+//     for(let j = 0; j < cols; j++) {
+//         if(!result[j]) {
+//             result[j] = [];
+//         }
+//         result[j][i] = inputArray[i][j]
+//     }
+// }
+// return result;
+// }
 
-const inputMatrix = [ [3,4,8],
-                      [5,6,9] ]
+// const inputMatrix = [ [3,4,8],
+//                       [5,6,9] ]
                       
-console.log(transposeMatrix(inputMatrix));
+// console.log(transposeMatrix(inputMatrix));
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 

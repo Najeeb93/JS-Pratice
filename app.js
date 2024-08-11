@@ -2965,11 +2965,24 @@
 // ---------- Perfect Number Checker -------//
 
 function isPerfectNumber(inputNumber) {
-    console.log(inputNumber);
+    
+    const properDivisor  = [];
+    for(let i = 1; i < inputNumber; i++) {
+        if(inputNumber % i === 0) {
+            properDivisor.push(i);
+        }
+    }
+    
+    let sum = 0;
+    properDivisor.forEach(d => sum += d);
+
+    console.log('sum is', sum);
+    
+    
     
 }
 
-console.log(isPerfectNumber(6));
+console.log("6 is ", isPerfectNumber(6));
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 

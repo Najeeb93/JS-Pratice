@@ -2939,13 +2939,17 @@
 // ----------Transpose Matrix Task --------//
 
 function transposeMatrix(inputArray) {
-console.log(inputArray);
+
 
 const rows = inputArray.length;
 const cols = inputArray[0].length;
 
+const result = [];
 
-
+for(let i = 0; i < rows; i++) {
+    console.log(inputArray[i]);
+    
+}
 }
 
 const inputMatrix = [ [3,4,8],

@@ -2974,16 +2974,11 @@ function isPerfectNumber(inputNumber) {
     }
     
     let sum = 0;
-    properDivisor.forEach(d => sum += d);
-
-    console.log('sum is', sum);
+    properDivisor.forEach(d => sum = sum + d);
     
-    
-    
+    return sum === inputNumber;
 }
-
 console.log("6 is ", isPerfectNumber(6));
-
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

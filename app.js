@@ -2935,6 +2935,14 @@
 //  const input = ['bat','tap','cat','tab','pat'];
 //  const output = wordsAnagram(input);
 //  console.log(output); 
+
+// ----------Transpose Matrix Task --------//
+
+function transposeMatrix(inputArray) {
+
+}
+
+
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

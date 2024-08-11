@@ -2979,6 +2979,15 @@
 //     return sum === inputNumber;
 // };
 // console.log("6 is ", isPerfectNumber(6));
+// ----------- Strong Password Checker ---------//
+
+function isStrongPassword(passwordString) {
+    passwordString = passwordString.trim();
+    
+    
+}
+console.log(isStrongPassword('Smit1!'));
+
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

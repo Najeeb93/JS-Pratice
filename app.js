@@ -2987,13 +2987,18 @@ function isStrongPassword(passwordString) {
         return false;
     }
 
+    const lowerCaseCharacters = "abcdefghijklmnopqrstuvwxyz"
+    let lowerCaseCharacterExists = false;
     for(let char of passwordString) {
-        console.log(char);
+    if(lowerCaseCharacters.includes(char)) {
+        lowerCaseCharacterExists = true;
+    }
         
     }
+    console.log(lowerCaseCharacterExists);
     
 }
-console.log(isStrongPassword('Smit1!f2'));
+console.log(isStrongPassword('Smit!2'));
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 

@@ -2983,10 +2983,17 @@
 
 function isStrongPassword(passwordString) {
     passwordString = passwordString.trim();
-    
+    if(passwordString.length < 8) {
+        return false;
+    }
+
+    for(let char of passwordString) {
+        console.log(char);
+        
+    }
     
 }
-console.log(isStrongPassword('Smit1!'));
+console.log(isStrongPassword('Smit1!f2'));
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 

@@ -2987,18 +2987,23 @@ function isStrongPassword(passwordString) {
         return false;
     }
 
-    const lowerCaseCharacters = "abcdefghijklmnopqrstuvwxyz"
+    const lowerCaseCharacters = "abcdefghijklmnopqrstuvwxyz";
+    const upperCaseCharacters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+
     let lowerCaseCharacterExists = false;
+    let upperCaseCharacterExists = false;
     for(let char of passwordString) {
     if(lowerCaseCharacters.includes(char)) {
         lowerCaseCharacterExists = true;
     }
-        
+    else if(upperCaseCharacters.includes(char)) {
+        upperCaseCharacterExists = true;
     }
-    console.log(lowerCaseCharacterExists);
+    }
+    console.log(upperCaseCharacterExists);
     
 }
-console.log(isStrongPassword('Smit!2'));
+console.log(isStrongPassword('SmitQ!2'));
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 

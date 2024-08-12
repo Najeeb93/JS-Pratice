@@ -3016,7 +3016,8 @@ if(lowerCaseCharacterExists && upperCaseCharacterExists && digitCharacterExists 
 }
 return false;
 }
-console.log(isStrongPassword('SmitQ!2'));
+console.log(isStrongPassword("Smit!1e2"));
+
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 

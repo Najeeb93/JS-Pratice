@@ -3018,13 +3018,13 @@
 // }
 // console.log(isStrongPassword("Smit!1e2"));
 
-var x = 10;
-function foo() {
-    console.log(x);
-    var x = 20;
-}
-foo();
-console.log(x);
+// var x = 10;
+// function foo() {
+//     console.log(x);
+//     var x = 20;
+// }
+// foo();
+// console.log(x);
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 

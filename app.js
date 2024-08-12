@@ -3041,13 +3041,13 @@
 // console.log( x = result);
 // console.log('' + 1 + 2);
 
-var firstName = 'Javascript';
-function printName() {
-    const firsrNam = 'HTML';
-    console.log(firsrNam);
-}
-console.log(firstName);
-printName();
+// var firstName = 'Javascript';
+// function printName() {
+//     const firsrNam = 'HTML';
+//     console.log(firsrNam);
+// }
+// console.log(firstName);
+// printName();
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

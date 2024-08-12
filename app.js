@@ -3034,11 +3034,11 @@
 // let b = typeof a;
 // console.log(b);
 
-var a = true;
-var b = false;
-var c = null;
-var result = (c == null);
-console.log( x = result);
+// var a = true;
+// var b = false;
+// var c = null;
+// var result = (c == null);
+// console.log( x = result);
 
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 

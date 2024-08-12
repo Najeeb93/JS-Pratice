@@ -2981,42 +2981,42 @@
 // console.log("6 is ", isPerfectNumber(6));
 // ----------- Strong Password Checker ---------//
 
-function isStrongPassword(passwordString) {
-    passwordString = passwordString.trim();
-    if(passwordString.length < 8) {
-        return false;
-    }
+// function isStrongPassword(passwordString) {
+//     passwordString = passwordString.trim();
+//     if(passwordString.length < 8) {
+//         return false;
+//     }
 
-    const lowerCaseCharacters = "abcdefghijklmnopqrstuvwxyz";
-    const upperCaseCharacters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-    const digitCharacters = "0123456789";
-    const specialCharacters = "!@#$%^&*()_+";
+//     const lowerCaseCharacters = "abcdefghijklmnopqrstuvwxyz";
+//     const upperCaseCharacters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+//     const digitCharacters = "0123456789";
+//     const specialCharacters = "!@#$%^&*()_+";
 
-    let lowerCaseCharacterExists = false;
-    let upperCaseCharacterExists = false;
-    let digitCharacterExists = false;
-    let specialCharacterExists = false;
-    for(let char of passwordString) {
-    if(lowerCaseCharacters.includes(char)) {
-        lowerCaseCharacterExists = true;
-    }
-    else if(upperCaseCharacters.includes(char)) {
-        upperCaseCharacterExists = true;
-    }
-    else if(digitCharacters.includes(char)) {
-        digitCharacterExists = true;
-    }
-    else if(specialCharacters.includes(char)) {
-        specialCharacterExists = true;
-    }
+//     let lowerCaseCharacterExists = false;
+//     let upperCaseCharacterExists = false;
+//     let digitCharacterExists = false;
+//     let specialCharacterExists = false;
+//     for(let char of passwordString) {
+//     if(lowerCaseCharacters.includes(char)) {
+//         lowerCaseCharacterExists = true;
+//     }
+//     else if(upperCaseCharacters.includes(char)) {
+//         upperCaseCharacterExists = true;
+//     }
+//     else if(digitCharacters.includes(char)) {
+//         digitCharacterExists = true;
+//     }
+//     else if(specialCharacters.includes(char)) {
+//         specialCharacterExists = true;
+//     }
 
-}
-if(lowerCaseCharacterExists && upperCaseCharacterExists && digitCharacterExists && specialCharacterExists){
-    return true;
-}
-return false;
-}
-console.log(isStrongPassword("Smit!1e2"));
+// }
+// if(lowerCaseCharacterExists && upperCaseCharacterExists && digitCharacterExists && specialCharacterExists){
+//     return true;
+// }
+// return false;
+// }
+// console.log(isStrongPassword("Smit!1e2"));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

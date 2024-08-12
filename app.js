@@ -3009,8 +3009,12 @@ function isStrongPassword(passwordString) {
     else if(specialCharacters.includes(char)) {
         specialCharacterExists = true;
     }
-    console.log(upperCaseCharacterExists);
-    
+
+}
+if(lowerCaseCharacterExists && upperCaseCharacterExists && digitCharacterExists && specialCharacterExists){
+    return true;
+}
+return false;
 }
 console.log(isStrongPassword('SmitQ!2'));
 

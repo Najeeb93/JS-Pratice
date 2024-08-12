@@ -2989,15 +2989,20 @@ function isStrongPassword(passwordString) {
 
     const lowerCaseCharacters = "abcdefghijklmnopqrstuvwxyz";
     const upperCaseCharacters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    const digitCharacters = "0123456789";
 
     let lowerCaseCharacterExists = false;
     let upperCaseCharacterExists = false;
+    let digitCharacterExists = false;
     for(let char of passwordString) {
     if(lowerCaseCharacters.includes(char)) {
         lowerCaseCharacterExists = true;
     }
     else if(upperCaseCharacters.includes(char)) {
         upperCaseCharacterExists = true;
+    }
+    else if(digitCharacters.includes(char)) {
+        digitCharacterExists = true;
     }
     }
     console.log(upperCaseCharacterExists);

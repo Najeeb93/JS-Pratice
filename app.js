@@ -3088,6 +3088,9 @@
 //     return smallestNum;
 // };
 // console.log(smallestOfThree(1,2,-4));
+let str = 'racecar';
+let revstr = str.split('').reverse().join('');
+console.log(revstr);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -3048,6 +3048,11 @@
 // }
 // console.log(firstName);
 // printName();
+const arrNum = [1,2,3,4,5,8,9,10];
+const missArray = []
+const missingValue = (arr) => {
+    
+}
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

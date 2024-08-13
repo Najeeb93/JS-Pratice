@@ -3062,6 +3062,12 @@
 // }
 // console.log(missingValue(arrNum));
 
+const numbers = [1,2,3,4,6,8,9,11,12,13,14];
+const  even = numbers.filter((item) => {
+    return item % 2 === 0;
+});
+console.log('Even numbers', even);
+
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

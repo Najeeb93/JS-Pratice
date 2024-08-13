@@ -3094,10 +3094,10 @@
 // const arr = ['a','b','c'];
 // const result = arr.splice(2,2);
 // console.log(result);
-let a = {name: 'John'};
-let b = a;
-a = null;
-console.log(b);
+// let a = {name: 'John'};
+// let b = a;
+// a = null;
+// console.log(b);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -3077,18 +3077,17 @@
 //     return a % 2 === 0 ? 'Even': 'Odd';
 // }
 // console.log(checkEvenOrOdd(4));
-function smallestOfThree(a,b,c) {
-    let smallestNum = a;
-    if(b < smallestNum) {
-        smallestNum = b;
-    }
-    if(c < smallestNum) {
-    smallestNum = c;
-    }
-    return smallestNum;
-};
-console.log(smallestOfThree(1,2,-4));
-
+// function smallestOfThree(a,b,c) {
+//     let smallestNum = a;
+//     if(b < smallestNum) {
+//         smallestNum = b;
+//     }
+//     if(c < smallestNum) {
+//     smallestNum = c;
+//     }
+//     return smallestNum;
+// };
+// console.log(smallestOfThree(1,2,-4));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

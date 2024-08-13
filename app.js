@@ -3068,11 +3068,11 @@
 // });
 // console.log('Even numbers', even);
 
-const numbers = [1,2,3,4,6,8,9,11,12,13,14];
-const  odd = numbers.filter((item) => {
-    return item % 2 == !0;
-});
-console.log('Odd numbers', odd);
+// const numbers = [1,2,3,4,6,8,9,11,12,13,14];
+// const  odd = numbers.filter((item) => {
+//     return item % 2 == !0;
+// });
+// console.log('Odd numbers', odd);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

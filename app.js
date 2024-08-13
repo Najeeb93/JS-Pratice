@@ -3091,6 +3091,9 @@
 // let str = 'racecar';
 // let revstr = str.split('').reverse().join('');
 // console.log(revstr);
+const arr = ['a','b','c'];
+const result = arr.splice(2,2);
+console.log(result);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

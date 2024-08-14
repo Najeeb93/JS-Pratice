@@ -3106,6 +3106,17 @@
 //     return result;
 // };
 // console.log(reverseAString("School"));
+function calFactorial(inputNumber) {
+    let result = 1; 
+    for(let i = 1; i<= inputNumber; i++) {
+        result *= i
+        console.log(result);
+        
+        return result
+        
+    }
+};
+console.log(calFactorial(3));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

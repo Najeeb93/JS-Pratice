@@ -3117,6 +3117,14 @@
 //     }
 // };
 // console.log(calFactorial(3));
+function multiTable(tableOf, tableTill) {
+
+    for(let i = 1; i <= tableTill; i++) {
+        console.log(`${tableOf} * ${i} = ${i * tableOf}`);
+        
+    }
+};
+console.log(multiTable(3, 10));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

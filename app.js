@@ -3130,9 +3130,9 @@
 // let b = a;
 // a = 10;
 // console.log(b);
-let data = [1,2,3,4,5];
-let result = data.slice(0,3);
-console.log(result);
+// let data = [1,2,3,4,5];
+// let result = data.slice(0,3);
+// console.log(result);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

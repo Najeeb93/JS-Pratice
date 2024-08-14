@@ -3098,14 +3098,14 @@
 // let b = a;
 // a = null;
 // console.log(b);
-function reverseAString(inputString) {
-    let result = "";
-    for(let i = inputString.length - 1; i >= 0; i--) {
-        result += inputString[i];
-    }
-    return result;
-};
-console.log(reverseAString("School"));
+// function reverseAString(inputString) {
+//     let result = "";
+//     for(let i = inputString.length - 1; i >= 0; i--) {
+//         result += inputString[i];
+//     }
+//     return result;
+// };
+// console.log(reverseAString("School"));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -3193,10 +3193,10 @@
 // let str = 'Hello baby';
 // let index = str.indexOf('baby');
 // console.log(index);
-let array1 = ['a','b','c',];
-let array2 = array1;
-array2.length = 0;
-console.log(array1, array2);
+// let array1 = ['a','b','c',];
+// let array2 = array1;
+// array2.length = 0;
+// console.log(array1, array2);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

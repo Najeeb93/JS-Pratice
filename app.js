@@ -3133,15 +3133,15 @@
 // let data = [1,2,3,4,5];
 // let result = data.slice(0,3);
 // console.log(result);
-function calculatePower(base, exponent) {
-    let result = 1;
-    for( let i = 1; i <= exponent; i++) {
-        result *= base;
-    }
-    console.log(result);
+// function calculatePower(base, exponent) {
+//     let result = 1;
+//     for( let i = 1; i <= exponent; i++) {
+//         result *= base;
+//     }
+//     console.log(result);
     
-};
-console.log(calculatePower(2, 3));
+// };
+// console.log(calculatePower(2, 3));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

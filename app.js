@@ -3190,6 +3190,9 @@
 // const arr = ['a','b','c'];
 // arr.length = 1;
 // console.log(arr);
+let str = 'Hello baby';
+let index = str.indexOf('baby');
+console.log(index);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

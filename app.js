@@ -3197,10 +3197,10 @@
 // let array2 = array1;
 // array2.length = 0;
 // console.log(array1, array2);
-let x = [1,2,3];
-let y = x;
-x = [];
-console.log(y);
+// let x = [1,2,3];
+// let y = x;
+// x = [];
+// console.log(y);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

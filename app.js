@@ -3139,9 +3139,9 @@
 //         result *= base;
 //     }
 //     console.log(result);
-    
 // };
 // console.log(calculatePower(2, 3));
+
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

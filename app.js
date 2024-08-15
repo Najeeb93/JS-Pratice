@@ -3187,9 +3187,9 @@
     
 // };
 // console.log(calAverage([1,5,7,35]));
-const arr = ['a','b','c'];
-arr.length = 1;
-console.log(arr);
+// const arr = ['a','b','c'];
+// arr.length = 1;
+// console.log(arr);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

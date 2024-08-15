@@ -3141,6 +3141,28 @@
 //     console.log(result);
 // };
 // console.log(calculatePower(2, 3));
+function calVowelAndConsonants(inputString) {
+    inputString = inputString.toLowerCase();
+    inputString = inputString.replace(/ /g,'');
+    const vowels = 'aeiou';
+    const consonant = 'bcdfghjklmnpqrstvwxyz';
+    let vowelCount = 0;
+    let consonantCount = 0;
+    for(let i = 0; i < inputString.length; i++) {
+        if(vowels.includes(inputString[i])) {
+            vowelCount++;
+        }
+        else if(consonant.includes(inputString[i])) {
+            consonantCount++;
+        } else {
+            console.log(inputString[i], 'Is neither vowel nor consonant');
+            
+        }
+    }
+    console.log(vowelCount, consonantCount);
+    
+};
+console.log(calVowelAndConsonants('Hello world'));
 
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 

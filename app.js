@@ -3177,16 +3177,16 @@
 //     }
 // };
 // console.log(calFactor(4));
-function calAverage(inputArray) {
-    let sumOfElement = 0;
-    for(let i = 0; i < inputArray.length; i++) {
-        sumOfElement += inputArray[i];
-    }
-    result = sumOfElement / inputArray.length
-    console.log(result);
+// function calAverage(inputArray) {
+//     let sumOfElement = 0;
+//     for(let i = 0; i < inputArray.length; i++) {
+//         sumOfElement += inputArray[i];
+//     }
+//     result = sumOfElement / inputArray.length
+//     console.log(result);
     
-};
-console.log(calAverage([1,5,7,35]));
+// };
+// console.log(calAverage([1,5,7,35]));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -3164,6 +3164,19 @@
 // };
 // console.log(calVowelAndConsonants('Hello world'));
 
+function calFactor(inputNumber) {
+    if(inputNumber < 1) {
+        throw new Error("inputNumber should be greater than zero")
+    }
+    for(let i = 1; i <= inputNumber; i++) {
+        if(inputNumber % i === 0) {
+            console.log(i, 'is a factor');
+        } else {
+            console.log(i,'is Not a factor');
+        }
+    }
+};
+console.log(calFactor(4));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

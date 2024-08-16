@@ -3201,6 +3201,13 @@
 // let y = x;
 // x = [];
 // console.log(y);
+function countWords(sentence) {
+    let splitSenten = sentence.split(' ');
+    const nonEmptyElement = splitSenten.filter((element) => element != '' );
+    console.log(nonEmptyElement.length);
+};
+
+console.log(countWords('this is a dev'));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

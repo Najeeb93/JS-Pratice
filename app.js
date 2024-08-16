@@ -3222,8 +3222,8 @@
 // let b = new Number(3);
 // console.log(a == b);
 // console.log(a === b);
-console.log(0.1 + 0.2 === 0.3);
-console.log(0.3 + 0.3 === 0.6);
+// console.log(0.1 + 0.2 === 0.3);
+// console.log(0.3 + 0.3 === 0.6);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

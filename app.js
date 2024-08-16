@@ -3208,6 +3208,12 @@
 // };
 
 // console.log(countWords('this is a dev'));
+function isArmstrong(inputNumber){
+let number = inputNumber;
+let lastDigit = number % 10;
+console.log(lastDigit);
+};
+console.log(isArmstrong(153));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

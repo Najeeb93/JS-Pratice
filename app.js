@@ -3228,8 +3228,8 @@
 // let b = a;
 // a.name = 'Baby';
 // console.log(b.name);
-let x = 1 + 2 + '3' - 1;
-console.log(x);
+// let x = 1 + 2 + '3' - 1;
+// console.log(x);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

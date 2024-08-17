@@ -3256,6 +3256,10 @@
 // let a = 5;
 // console.log(a++ + ++a);
 // console.log(a);
+console.log(true + false);
+console.log(true - false);
+console.log(true * false);
+console.log(true / false);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

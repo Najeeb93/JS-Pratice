@@ -3239,12 +3239,12 @@
 // let unionArr = [...arr1, ...arr2];
 // console.log(unionArr);
 // console.log(... new Set(unionArr));
-for(let i = 1; i <= 6; i++) {
-    for(let j = 1; j <= i; j++) {
-        document.write("*" + " ")
-    }
-    document.write('<br>')
-}
+// for(let i = 1; i <= 6; i++) {
+//     for(let j = 1; j <= i; j++) {
+//         document.write("*" + " ")
+//     }
+//     document.write('<br>')
+// }
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

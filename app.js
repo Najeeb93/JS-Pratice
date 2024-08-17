@@ -3253,9 +3253,9 @@
 //     console.log(reversed);
 // };
 // console.log(reverseString("smit"));
-let a = 5;
-console.log(a++ + ++a);
-console.log(a);
+// let a = 5;
+// console.log(a++ + ++a);
+// console.log(a);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

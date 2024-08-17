@@ -3234,11 +3234,11 @@
 // let b = 20;
 // [a, b] = [b, a];
 // console.log(a, b);
-let arr1 = [1,2,6,8,17];
-let arr2 = [4,8,6,19,12,17];
-let unionArr = [...arr1, ...arr2];
-console.log(unionArr);
-console.log(... new Set(unionArr));
+// let arr1 = [1,2,6,8,17];
+// let arr2 = [4,8,6,19,12,17];
+// let unionArr = [...arr1, ...arr2];
+// console.log(unionArr);
+// console.log(... new Set(unionArr));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

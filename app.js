@@ -3230,6 +3230,10 @@
 // console.log(b.name);
 // let x = 1 + 2 + '3' - 1;
 // console.log(x);
+let a = 10;
+let b = 20;
+[a, b] = [b, a];
+console.log(a, b);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

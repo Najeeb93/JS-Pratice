@@ -3245,14 +3245,14 @@
 //     }
 //     document.write('<br>')
 // }
-function reverseString(input) {
-    let reversed = "";
-    for(let i = input.length-1; i >= 0; i--) {
-        reversed += input[i];
-    }
-    console.log(reversed);
-};
-console.log(reverseString("smit"));
+// function reverseString(input) {
+//     let reversed = "";
+//     for(let i = input.length-1; i >= 0; i--) {
+//         reversed += input[i];
+//     }
+//     console.log(reversed);
+// };
+// console.log(reverseString("smit"));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

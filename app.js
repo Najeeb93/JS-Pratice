@@ -3278,6 +3278,10 @@
 // let arr = [1,2,3];
 // arr[10] = 5;
 // console.log(arr.length);
+let a = 2;
+let b = a;
+let c = ( a + b) / 2;
+console.log((a + b + c) / 2);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

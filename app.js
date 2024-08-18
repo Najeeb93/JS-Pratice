@@ -3264,6 +3264,14 @@
 // let y = { ...x};
 // y.a = 2;
 // console.log(x.a);
+const obj = {
+    value: 42,
+    getValue: function() {
+        const inner = () => this.value;
+        return inner();
+    }
+};
+console.log(obj.getValue());
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

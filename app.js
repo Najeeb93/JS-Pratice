@@ -3260,10 +3260,10 @@
 // console.log(true - false);
 // console.log(true * false);
 // console.log(true / false);
-let x = { a: 1};
-let y = { ...x};
-y.a = 2;
-console.log(x.a);
+// let x = { a: 1};
+// let y = { ...x};
+// y.a = 2;
+// console.log(x.a);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

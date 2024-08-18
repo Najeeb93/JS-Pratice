@@ -3272,6 +3272,9 @@
 //     }
 // };
 // console.log(obj.getValue());
+let a = 0;
+let b = 5;
+console.log(a ?? b);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

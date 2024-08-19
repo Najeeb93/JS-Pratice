@@ -3295,6 +3295,9 @@
 // console.log('9' > 11);
 // console.log('' > -1);
 // console.log('11' > '01');
+const arr = [1,2,3];
+const str = '1,2,3';
+console.log(arr == str);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

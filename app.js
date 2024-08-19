@@ -3314,13 +3314,13 @@
 // for(let i = 3; i > 2; i--) {
 //     console.log(`i have ${i} Babies`);
 // }
-function areAnagrams(str1, str2) {
-    const sortedStr1 = str1.split("").sort().join("");
-    const sortedStr2 = str2.split("").sort().join("");  
-    console.log(sortedStr1 === sortedStr2);
+// function areAnagrams(str1, str2) {
+//     const sortedStr1 = str1.split("").sort().join("");
+//     const sortedStr2 = str2.split("").sort().join("");  
+//     console.log(sortedStr1 === sortedStr2);
     
-};
-console.log(areAnagrams("wolf", "flow"));
+// };
+// console.log(areAnagrams("wolf", "flow"));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

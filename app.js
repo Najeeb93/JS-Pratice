@@ -3291,10 +3291,10 @@
 // console.log(data().name, data().gender);
 // console.log( '' || 'world');
 // console.log(!false);
-console.log('9' > '11');
-console.log('9' > 11);
-console.log('' > -1);
-console.log('11' > '01');
+// console.log('9' > '11');
+// console.log('9' > 11);
+// console.log('' > -1);
+// console.log('11' > '01');
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

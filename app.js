@@ -3306,7 +3306,7 @@
 // const b = a;
 // b.count = a.count++;
 // console.log(b.count,a.count);
-console.log(1 + 2 + '');
+// console.log(1 + 2 + '');
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -3307,10 +3307,10 @@
 // b.count = a.count++;
 // console.log(b.count,a.count);
 // console.log(1 + 2 + '');
-let a = 0.2;
-let b = 0.2;
-let c = a + b;
-console.log(c == 0.4);
+// let a = 0.2;
+// let b = 0.2;
+// let c = a + b;
+// console.log(c == 0.4);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

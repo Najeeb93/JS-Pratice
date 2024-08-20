@@ -3325,11 +3325,11 @@
 // age = 40;
 // age = 50;
 // console.log(age);
-let b  = 2;
-function myFunction() {
-    console.log(b);
-}
-myFunction();
+// let b  = 2;
+// function myFunction() {
+//     console.log(b);
+// }
+// myFunction();
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

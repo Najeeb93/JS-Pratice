@@ -3321,6 +3321,10 @@
     
 // };
 // console.log(areAnagrams("wolf", "flow"));
+let age = 25;
+age = 40;
+age = 50;
+console.log(age);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

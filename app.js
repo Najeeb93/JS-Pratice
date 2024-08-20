@@ -3333,6 +3333,9 @@
 // let a = 10;
 // let b = 5;
 // console.log(a % b);
+let a = 1;
+let b = a == '1';
+console.log(b);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

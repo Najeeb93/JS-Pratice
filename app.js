@@ -3336,11 +3336,11 @@
 // let a = 1;
 // let b = a == '1';
 // console.log(b);
-let num = 2;
-++num;
-num++;
-num += num;
-console.log(num);
+// let num = 2;
+// ++num;
+// num++;
+// num += num;
+// console.log(num);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

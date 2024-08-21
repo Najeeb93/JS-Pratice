@@ -3349,7 +3349,7 @@
 // console.log('5' + 2 * 2);
 // console.log(NaN == NaN);
 // console.log(1 + +'2' + '2');
-console.log(5 && 0);
+// console.log(5 && 0);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

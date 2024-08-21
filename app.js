@@ -3353,8 +3353,8 @@
 // let str = 'baby';
 // str[0] = 'B';
 // console.log(str);
-let arr = [0,1,2,3,4];
-console.log(arr.length-3);
+// let arr = [0,1,2,3,4];
+// console.log(arr.length-3);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

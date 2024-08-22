@@ -3355,9 +3355,9 @@
 // console.log(str);
 // let arr = [0,1,2,3,4];
 // console.log(arr.length-3);
-x = 10;
-console.log(x);
-var x;
+// x = 10;
+// console.log(x);
+// var x;
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

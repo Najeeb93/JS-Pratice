@@ -3365,6 +3365,10 @@
 // let b = a++;
 // let c = ++a;
 // console.log(a, b, c);
+function checkAge(age) {
+    return age > 18 ? true : false;
+}
+console.log(checkAge(18));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

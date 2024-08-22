@@ -3369,6 +3369,8 @@
 //     return age > 18 ? true : false;
 // }
 // console.log(checkAge(18));
+console.log(typeof firstName);
+var  firstName = 'Harry';
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -3358,6 +3358,9 @@
 // x = 10;
 // console.log(x);
 // var x;
+let x = true;
+let y = false;
+console.log(x && y);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

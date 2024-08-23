@@ -3380,10 +3380,10 @@
 // let c = a + b;
 // console.log(c);
 // console.log([1] == [1]);
-const arr = [1,2,3];
-arr[10] = 10;
-console.log(arr.length);
-console.log(arr[9]);
+// const arr = [1,2,3];
+// arr[10] = 10;
+// console.log(arr.length);
+// console.log(arr[9]);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

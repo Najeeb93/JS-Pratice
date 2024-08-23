@@ -3379,7 +3379,7 @@
 // let b = a++;
 // let c = a + b;
 // console.log(c);
-console.log([1] == [1]);
+// console.log([1] == [1]);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -3384,6 +3384,9 @@
 // arr[10] = 10;
 // console.log(arr.length);
 // console.log(arr[9]);
+let x = false + 1 + true;
+let y = 2 + false;
+console.log( x >= y);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

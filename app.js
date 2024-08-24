@@ -3406,6 +3406,15 @@
 // const b = [1,2,3];
 // const c = a;
 // console.log(a == b, a == c, b == c);
+let x = 10;
+{
+    let x = 20;
+    console.log(x);
+    {
+        let x = 30;
+        console.log(x);
+    }
+}
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

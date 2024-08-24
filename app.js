@@ -3397,8 +3397,8 @@
 // [a, b, c] = arr;
 // console.log(a, c);
 // console.log(0/0);
-let val = [10] == [10] ? 'true': 'false';
-console.log(val);
+// let val = [10] == [10] ? 'true': 'false';
+// console.log(val);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

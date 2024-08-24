@@ -3390,6 +3390,9 @@
 // let x = 10;
 // let y = 5;
 // console.log(x <= y);
+let x = 0;
+let y = 0;
+console.log(++x === y++);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

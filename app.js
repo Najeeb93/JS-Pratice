@@ -3402,10 +3402,10 @@
 // let x = 2 ** 3;
 // let y = 3 ** 2;
 // console.log(x + y);
-const a = [1,2,3];
-const b = [1,2,3];
-const c = a;
-console.log(a == b, a == c, b == c);
+// const a = [1,2,3];
+// const b = [1,2,3];
+// const c = a;
+// console.log(a == b, a == c, b == c);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

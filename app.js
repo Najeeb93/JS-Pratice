@@ -3396,7 +3396,7 @@
 // let arr = [10,15,20];
 // [a, b, c] = arr;
 // console.log(a, c);
-console.log(0/0);
+// console.log(0/0);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

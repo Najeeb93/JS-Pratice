@@ -3399,9 +3399,9 @@
 // console.log(0/0);
 // let val = [10] == [10] ? 'true': 'false';
 // console.log(val);
-let x = 2 ** 3;
-let y = 3 ** 2;
-console.log(x + y);
+// let x = 2 ** 3;
+// let y = 3 ** 2;
+// console.log(x + y);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

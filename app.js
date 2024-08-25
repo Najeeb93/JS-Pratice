@@ -3420,7 +3420,7 @@
 //     let y = 100;
 //     console.log(y);
 // }
-console.log(Boolean([]));
+// console.log(Boolean([]));
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

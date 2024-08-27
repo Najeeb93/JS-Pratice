@@ -3447,9 +3447,9 @@
 // let x = 3;
 // let y = 3;
 // console.log(++x === y++);
-let a = typeof 1;
-let b = typeof a;
-console.log(b);
+// let a = typeof 1;
+// let b = typeof a;
+// console.log(b);
 // var arr = [2,5,6,0,0,2,5];
 // var result = [];
 // for(var i = 0; i < arr.length; i++){

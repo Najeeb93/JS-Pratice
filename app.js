@@ -3428,9 +3428,9 @@
 // }
 // console.log(x);
 // console.log(!!false);
-let a = 10;
-a %= 3;
-console.log(a);
+// let a = 10;
+// a %= 3;
+// console.log(a);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -3432,10 +3432,10 @@
 // a %= 3;
 // console.log(a);
 // console.log([] == false);
-const fruits =['baby', 'bite', 'banana'];
-for(let elem of fruits) {
-    console.log(elem);
-}
+// const fruits =['baby', 'bite', 'banana'];
+// for(let elem of fruits) {
+//     console.log(elem);
+// }
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 

@@ -3450,6 +3450,7 @@
 // let a = typeof 1;
 // let b = typeof a;
 // console.log(b);
+console.log(Boolean([]));
 // var arr = [2,5,6,0,0,2,5];
 // var result = [];
 // for(var i = 0; i < arr.length; i++){

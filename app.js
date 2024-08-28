@@ -3447,6 +3447,10 @@
 //     return acc + curr;
 // });
 // console.log(add);
+const obj1 = { name: "John" };
+const obj2 = obj1;
+obj2.name = "Doe";
+console.log(obj1.name);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 // let x = 3;

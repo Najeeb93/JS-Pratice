@@ -3442,11 +3442,11 @@
 //     },
 // };
 // console.log(obj.val(3));
-let nums = [1,2,3,4,5];
-let add = nums.reduce((acc, curr) => {
-    return acc + curr;
-});
-console.log(add);
+// let nums = [1,2,3,4,5];
+// let add = nums.reduce((acc, curr) => {
+//     return acc + curr;
+// });
+// console.log(add);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 // let x = 3;

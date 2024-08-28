@@ -3467,6 +3467,10 @@
 //     }, 1000)
 // }
 // outerFunc();
+let names = ['baby', 'is', 'cute'];
+let res = names.forEach((name) => {
+    console.log(name);
+});
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 // let x = 3;

@@ -3473,6 +3473,7 @@
 // });
 // console.log(+'1' + 1);
 // console.log(true == 1);
+console.log(2 < 1 == 0);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 // let x = 3;

@@ -3488,11 +3488,11 @@
 // let b = a;
 // a.name = 'baby';
 // console.log(b.name);
-let value = 8;
-value++;
-++value;
-value += value;
-console.log(value);
+// let value = 8;
+// value++;
+// ++value;
+// value += value;
+// console.log(value);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 // let x = 3;

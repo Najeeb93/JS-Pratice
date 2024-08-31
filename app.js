@@ -3480,10 +3480,10 @@
 // let x = true + 1 + false;
 // let y = 2 + false;
 // console.log(x > y);
-let a = 3;
-let b = new Number(3);
-console.log(a == b);
-console.log(a === b);
+// let a = 3;
+// let b = new Number(3);
+// console.log(a == b);
+// console.log(a === b);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 // let x = 3;

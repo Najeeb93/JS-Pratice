@@ -3477,6 +3477,9 @@
 // let x = true;
 // let y = !x;
 // console.log(y);
+let x = true + 1 + false;
+let y = 2 + false;
+console.log(x > y);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 // let x = 3;

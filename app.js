@@ -3499,10 +3499,10 @@
 // let arr = ['you','are','baby'];
 // let she = arr[2];
 // console.log(she.length);
-let a = 5 > 4;
-let b = 4 < 5;
-let c = a >= b;
-console.log(c);
+// let a = 5 > 4;
+// let b = 4 < 5;
+// let c = a >= b;
+// console.log(c);
 // // Q. to move all the nonzero value to the left side and the zeros value to the 
 // right side of the array 
 // let x = 3;

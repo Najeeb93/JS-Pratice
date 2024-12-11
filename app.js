@@ -3550,4 +3550,4 @@
 //     console.log('Area of Square', area);
 // };
 // calculteArea(2,2);
-console.log([]==[]);
+// console.log([]==[]);

@@ -3545,8 +3545,8 @@
 //     console.log('Sum is ',sum);
 // }
 // sum(1,2);
-function calculteArea(length, width) {
-    const area = length * width;
-    console.log('Area of Square', area);
-};
-calculteArea(2,2);
+// function calculteArea(length, width) {
+//     const area = length * width;
+//     console.log('Area of Square', area);
+// };
+// calculteArea(2,2);
